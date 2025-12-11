@@ -1,0 +1,153 @@
+{
+  "active": [],
+  "recent": [],
+  "timestamp": 1765494524.789049,
+  "disc_info": null,
+  "disc_pending": false,
+  "usb_status": {
+    "state": "ready",
+    "message": "USB mount ready"
+  },
+  "version": "1.24.54",
+  "config": {
+    "search_path": null,
+    "output_dir": "/mnt/output",
+    "rip_dir": "/mnt/ripped",
+    "final_dir": "",
+    "profile": "handbrake",
+    "handbrake_presets": [],
+    "max_threads": 4,
+    "rescan_interval": 30,
+    "min_size_mb": 100,
+    "low_bitrate_auto_proceed": true,
+    "low_bitrate_auto_skip": false,
+    "video_extensions": [
+      ".mp4",
+      ".mkv",
+      ".avi",
+      ".mov",
+      ".flv",
+      ".wmv",
+      ".m4v"
+    ],
+    "smb_staging_dir": "/mnt/smb_staging",
+    "usb_staging_dir": "/mnt/usb_staging",
+    "handbrake": {
+      "encoder": "nvenc_h265",
+      "quality": 28,
+      "video_bitrate_kbps": null,
+      "two_pass": false,
+      "audio_offset_ms": 0,
+      "audio_bitrate_kbps": 128,
+      "audio_mode": "auto_dolby",
+      "audio_encoder": "av_aac",
+      "audio_mixdown": "",
+      "audio_drc": null,
+      "audio_gain": null,
+      "audio_samplerate": "",
+      "audio_lang_list": [],
+      "audio_track_list": "",
+      "audio_all": false,
+      "subtitle_mode": "copy_all",
+      "extra_args": [],
+      "extension": ".mkv",
+      "width": 1920,
+      "height": 1080
+    },
+    "handbrake_dvd": {
+      "encoder": "x264",
+      "quality": 26,
+      "video_bitrate_kbps": null,
+      "two_pass": false,
+      "audio_offset_ms": 0,
+      "width": 1920,
+      "height": 1080,
+      "extension": ".mkv",
+      "extra_args": [],
+      "audio_bitrate_kbps": 128,
+      "audio_mode": "auto_dolby",
+      "audio_encoder": "av_aac",
+      "audio_mixdown": "",
+      "audio_drc": null,
+      "audio_gain": null,
+      "audio_samplerate": "",
+      "audio_lang_list": [],
+      "audio_track_list": "",
+      "audio_all": false,
+      "subtitle_mode": "copy_all"
+    },
+    "handbrake_br": {
+      "encoder": "x264",
+      "quality": 18,
+      "video_bitrate_kbps": null,
+      "two_pass": false,
+      "audio_offset_ms": 0,
+      "width": 3840,
+      "height": 2160,
+      "extension": ".mkv",
+      "extra_args": [],
+      "audio_bitrate_kbps": 128,
+      "audio_mode": "auto_dolby",
+      "audio_encoder": "av_aac",
+      "audio_mixdown": "",
+      "audio_drc": null,
+      "audio_gain": null,
+      "audio_samplerate": "",
+      "audio_lang_list": [],
+      "audio_track_list": "",
+      "audio_all": false,
+      "subtitle_mode": "copy_all"
+    },
+    "makemkv_minlength": 1200,
+    "makemkv_titles": [
+      "2",
+      "4"
+    ],
+    "makemkv_audio_langs": [
+      "eng"
+    ],
+    "makemkv_subtitle_langs": [
+      "eng"
+    ],
+    "makemkv_keep_ripped": false,
+    "makemkv_preferred_audio_langs": [
+      "eng"
+    ],
+    "makemkv_preferred_subtitle_langs": [
+      "eng"
+    ],
+    "makemkv_exclude_commentary": false,
+    "makemkv_prefer_surround": true,
+    "makemkv_auto_rip": false,
+    "debug_mode_enabled": true,
+    "ffmpeg": {
+      "encoder": "dnxhd",
+      "video": "scale=1920:1080,format=yuv422p",
+      "profile": "dnxhr_sq",
+      "extension": ".mov"
+    },
+    "ffmpeg_nvenc": {
+      "encoder": "hevc_nvenc",
+      "video": "scale=1920:1080,format=yuv420p",
+      "profile": "main",
+      "quality": 20,
+      "audio": "copy",
+      "extension": ".mp4"
+    },
+    "ffmpeg_qsv": {
+      "hwdev": "qsv=hw",
+      "filterdev": "hw",
+      "encoder": "hevc_qsv",
+      "video": "hwupload=extra_hw_frames=64,scale_qsv=w=1280:h=720,format=qsv",
+      "quality": 20,
+      "audio": "copy",
+      "extension": ".mp4"
+    },
+    "ffmpeg_fallback": {
+      "encoder": "libx264",
+      "video": "scale=1920:1080,format=yuv420p",
+      "profile": "high",
+      "extension": ".mp4"
+    }
+  }
+}
