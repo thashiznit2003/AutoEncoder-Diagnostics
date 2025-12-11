@@ -1,0 +1,32 @@
+[
+  {
+    "message": "USB mount ready.",
+    "level": "info",
+    "ts": 1765495563.8331623
+  },
+  {
+    "message": "Manual MakeMKV rip requested.",
+    "level": "info",
+    "ts": 1765495753.4381533
+  },
+  {
+    "message": "MakeMKV rip started (disc 0; titles=2,4; audio=eng; subs=eng)",
+    "level": "info",
+    "ts": 1765495778.774734
+  },
+  {
+    "message": "MakeMKV rip failed (disc 0)",
+    "level": "error",
+    "ts": 1765495794.936686
+  },
+  {
+    "message": "Manual MakeMKV rip failed to produce output.",
+    "level": "error",
+    "ts": 1765495794.936784
+  },
+  {
+    "message": "MakeMKV registration failed: Key not found or invalid",
+    "level": "error",
+    "ts": 1765495943.9189026
+  }
+]
