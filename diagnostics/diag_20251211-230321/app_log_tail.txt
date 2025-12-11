@@ -1,0 +1,286 @@
+2025-12-11 22:57:39,301 INFO: Excluded device basenames: []
+2025-12-11 22:57:39,301 INFO: Excluded mountpoints: <none>
+2025-12-11 22:57:39,302 INFO: Starting continuous scanner. search_path=<auto-detect> output=/mnt/output interval=30.0s
+2025-12-11 22:57:39,304 INFO: WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5959
+ * Running on http://172.18.0.2:5959
+2025-12-11 22:57:39,304 INFO: Press CTRL+C to quit
+2025-12-11 22:57:39,306 INFO: Candidate mountpoints: ['/var/lib/autoencoder/state', '/mnt/smb_staging', '/mnt/usb_staging', '/mnt/output', '/mnt/ripped', '/mnt/bluray', '/mnt/input', '/mnt/dvd', '/mnt/usb']
+2025-12-11 22:57:39,309 INFO: Scanning directories: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-11 22:57:39,309 DEBUG: Scan root: /mnt/input ismount=True exists=True sample=[]
+2025-12-11 22:57:39,310 DEBUG: Scan root: /mnt/dvd ismount=True exists=True sample=[]
+2025-12-11 22:57:39,310 DEBUG: Scan root: /mnt/bluray ismount=True exists=True sample=[]
+2025-12-11 22:57:39,310 DEBUG: Scan root: /mnt/usb ismount=True exists=True sample=[]
+2025-12-11 22:57:39,310 DEBUG: Scan root: /mnt/smb_staging ismount=True exists=True sample=[]
+2025-12-11 22:57:39,310 DEBUG: Scan root: /var/lib/autoencoder/state ismount=True exists=True sample=['smb_allowlist.json', 'git', 'config.json', 'usb_seen.json']
+2025-12-11 22:57:39,310 DEBUG: Scan root: /mnt/usb_staging ismount=True exists=True sample=['.gitkeep']
+2025-12-11 22:57:39,310 DEBUG: Scan root: /mnt/ripped ismount=True exists=True sample=[]
+2025-12-11 22:57:39,311 INFO: Scanner will walk these roots: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-11 22:57:39,311 INFO: Found 0 candidate video files under /mnt/input
+2025-12-11 22:57:39,311 INFO: Found 0 candidate video files under /mnt/dvd
+2025-12-11 22:57:39,311 INFO: Found 0 candidate video files under /mnt/bluray
+2025-12-11 22:57:39,311 INFO: Found 0 candidate video files under /mnt/usb
+2025-12-11 22:57:39,311 INFO: Found 0 candidate video files under /mnt/smb_staging
+2025-12-11 22:57:39,312 INFO: Found 0 candidate video files under /var/lib/autoencoder/state
+2025-12-11 22:57:39,312 INFO: Found 0 candidate video files under /mnt/usb_staging
+2025-12-11 22:57:39,312 INFO: Found 0 candidate video files under /mnt/ripped
+2025-12-11 22:57:39,312 INFO: Total candidate video files found: 0
+2025-12-11 22:57:39,313 DEBUG: No candidate video files found on this pass.
+2025-12-11 22:57:39,415 INFO: Candidate mountpoints: ['/var/lib/autoencoder/state', '/mnt/smb_staging', '/mnt/usb_staging', '/mnt/output', '/mnt/ripped', '/mnt/bluray', '/mnt/input', '/mnt/dvd', '/mnt/usb']
+2025-12-11 22:57:39,418 INFO: Scanning directories: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-11 22:57:39,419 DEBUG: Scan root: /mnt/input ismount=True exists=True sample=[]
+2025-12-11 22:57:39,419 DEBUG: Scan root: /mnt/dvd ismount=True exists=True sample=[]
+2025-12-11 22:57:39,419 DEBUG: Scan root: /mnt/bluray ismount=True exists=True sample=[]
+2025-12-11 22:57:39,419 DEBUG: Scan root: /mnt/usb ismount=True exists=True sample=[]
+2025-12-11 22:57:39,419 DEBUG: Scan root: /mnt/smb_staging ismount=True exists=True sample=[]
+2025-12-11 22:57:39,419 DEBUG: Scan root: /var/lib/autoencoder/state ismount=True exists=True sample=['smb_allowlist.json', 'git', 'config.json', 'usb_seen.json']
+2025-12-11 22:57:39,419 DEBUG: Scan root: /mnt/usb_staging ismount=True exists=True sample=['.gitkeep']
+2025-12-11 22:57:39,420 DEBUG: Scan root: /mnt/ripped ismount=True exists=True sample=[]
+2025-12-11 22:57:39,420 INFO: Scanner will walk these roots: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-11 22:57:39,420 INFO: Found 0 candidate video files under /mnt/input
+2025-12-11 22:57:39,420 INFO: Found 0 candidate video files under /mnt/dvd
+2025-12-11 22:57:39,420 INFO: Found 0 candidate video files under /mnt/bluray
+2025-12-11 22:57:39,420 INFO: Found 0 candidate video files under /mnt/usb
+2025-12-11 22:57:39,421 INFO: Found 0 candidate video files under /mnt/smb_staging
+2025-12-11 22:57:39,421 INFO: Found 0 candidate video files under /var/lib/autoencoder/state
+2025-12-11 22:57:39,421 INFO: Found 0 candidate video files under /mnt/usb_staging
+2025-12-11 22:57:39,421 INFO: Found 0 candidate video files under /mnt/ripped
+2025-12-11 22:57:39,421 INFO: Total candidate video files found: 0
+2025-12-11 22:57:39,421 DEBUG: No candidate video files found on this pass.
+2025-12-11 22:57:47,515 INFO: 192.168.0.118 - - [11/Dec/2025 22:57:47] "GET /settings HTTP/1.1" 200 -
+2025-12-11 22:57:52,502 INFO: 192.168.0.118 - - [11/Dec/2025 22:57:52] "POST /api/diagnostics/push HTTP/1.1" 500 -
+2025-12-11 22:58:09,424 INFO: Candidate mountpoints: ['/var/lib/autoencoder/state', '/mnt/smb_staging', '/mnt/usb_staging', '/mnt/output', '/mnt/ripped', '/mnt/bluray', '/mnt/input', '/mnt/dvd', '/mnt/usb']
+2025-12-11 22:58:09,429 INFO: Scanning directories: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-11 22:58:09,429 DEBUG: Scan root: /mnt/input ismount=True exists=True sample=[]
+2025-12-11 22:58:09,429 DEBUG: Scan root: /mnt/dvd ismount=True exists=True sample=[]
+2025-12-11 22:58:09,429 DEBUG: Scan root: /mnt/bluray ismount=True exists=True sample=[]
+2025-12-11 22:58:09,429 DEBUG: Scan root: /mnt/usb ismount=True exists=True sample=[]
+2025-12-11 22:58:09,430 DEBUG: Scan root: /mnt/smb_staging ismount=True exists=True sample=[]
+2025-12-11 22:58:09,430 DEBUG: Scan root: /var/lib/autoencoder/state ismount=True exists=True sample=['smb_allowlist.json', 'diagnostics-repo', 'git', 'config.json', 'usb_seen.json']
+2025-12-11 22:58:09,430 DEBUG: Scan root: /mnt/usb_staging ismount=True exists=True sample=['.gitkeep']
+2025-12-11 22:58:09,430 DEBUG: Scan root: /mnt/ripped ismount=True exists=True sample=[]
+2025-12-11 22:58:09,430 INFO: Scanner will walk these roots: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-11 22:58:09,431 INFO: Found 0 candidate video files under /mnt/input
+2025-12-11 22:58:09,431 INFO: Found 0 candidate video files under /mnt/dvd
+2025-12-11 22:58:09,431 INFO: Found 0 candidate video files under /mnt/bluray
+2025-12-11 22:58:09,431 INFO: Found 0 candidate video files under /mnt/usb
+2025-12-11 22:58:09,432 INFO: Found 0 candidate video files under /mnt/smb_staging
+2025-12-11 22:58:09,433 INFO: Found 0 candidate video files under /var/lib/autoencoder/state
+2025-12-11 22:58:09,433 INFO: Found 0 candidate video files under /mnt/usb_staging
+2025-12-11 22:58:09,433 INFO: Found 0 candidate video files under /mnt/ripped
+2025-12-11 22:58:09,433 INFO: Total candidate video files found: 0
+2025-12-11 22:58:09,434 DEBUG: No candidate video files found on this pass.
+2025-12-11 22:58:39,437 INFO: Candidate mountpoints: ['/var/lib/autoencoder/state', '/mnt/smb_staging', '/mnt/usb_staging', '/mnt/output', '/mnt/ripped', '/mnt/bluray', '/mnt/input', '/mnt/dvd', '/mnt/usb']
+2025-12-11 22:58:39,441 INFO: Scanning directories: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-11 22:58:39,441 DEBUG: Scan root: /mnt/input ismount=True exists=True sample=[]
+2025-12-11 22:58:39,442 DEBUG: Scan root: /mnt/dvd ismount=True exists=True sample=[]
+2025-12-11 22:58:39,442 DEBUG: Scan root: /mnt/bluray ismount=True exists=True sample=[]
+2025-12-11 22:58:39,442 DEBUG: Scan root: /mnt/usb ismount=True exists=True sample=[]
+2025-12-11 22:58:39,442 DEBUG: Scan root: /mnt/smb_staging ismount=True exists=True sample=[]
+2025-12-11 22:58:39,443 DEBUG: Scan root: /var/lib/autoencoder/state ismount=True exists=True sample=['smb_allowlist.json', 'diagnostics-repo', 'git', 'config.json', 'usb_seen.json']
+2025-12-11 22:58:39,443 DEBUG: Scan root: /mnt/usb_staging ismount=True exists=True sample=['.gitkeep']
+2025-12-11 22:58:39,443 DEBUG: Scan root: /mnt/ripped ismount=True exists=True sample=[]
+2025-12-11 22:58:39,444 INFO: Scanner will walk these roots: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-11 22:58:39,444 INFO: Found 0 candidate video files under /mnt/input
+2025-12-11 22:58:39,444 INFO: Found 0 candidate video files under /mnt/dvd
+2025-12-11 22:58:39,445 INFO: Found 0 candidate video files under /mnt/bluray
+2025-12-11 22:58:39,445 INFO: Found 0 candidate video files under /mnt/usb
+2025-12-11 22:58:39,445 INFO: Found 0 candidate video files under /mnt/smb_staging
+2025-12-11 22:58:39,446 INFO: Found 0 candidate video files under /var/lib/autoencoder/state
+2025-12-11 22:58:39,447 INFO: Found 0 candidate video files under /mnt/usb_staging
+2025-12-11 22:58:39,447 INFO: Found 0 candidate video files under /mnt/ripped
+2025-12-11 22:58:39,447 INFO: Total candidate video files found: 0
+2025-12-11 22:58:39,447 DEBUG: No candidate video files found on this pass.
+2025-12-11 22:59:09,451 INFO: Candidate mountpoints: ['/var/lib/autoencoder/state', '/mnt/smb_staging', '/mnt/usb_staging', '/mnt/output', '/mnt/ripped', '/mnt/bluray', '/mnt/input', '/mnt/dvd', '/mnt/usb']
+2025-12-11 22:59:09,455 INFO: Scanning directories: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-11 22:59:09,455 DEBUG: Scan root: /mnt/input ismount=True exists=True sample=[]
+2025-12-11 22:59:09,455 DEBUG: Scan root: /mnt/dvd ismount=True exists=True sample=[]
+2025-12-11 22:59:09,456 DEBUG: Scan root: /mnt/bluray ismount=True exists=True sample=[]
+2025-12-11 22:59:09,456 DEBUG: Scan root: /mnt/usb ismount=True exists=True sample=[]
+2025-12-11 22:59:09,456 DEBUG: Scan root: /mnt/smb_staging ismount=True exists=True sample=[]
+2025-12-11 22:59:09,456 DEBUG: Scan root: /var/lib/autoencoder/state ismount=True exists=True sample=['smb_allowlist.json', 'diagnostics-repo', 'git', 'config.json', 'usb_seen.json']
+2025-12-11 22:59:09,456 DEBUG: Scan root: /mnt/usb_staging ismount=True exists=True sample=['.gitkeep']
+2025-12-11 22:59:09,457 DEBUG: Scan root: /mnt/ripped ismount=True exists=True sample=[]
+2025-12-11 22:59:09,457 INFO: Scanner will walk these roots: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-11 22:59:09,457 INFO: Found 0 candidate video files under /mnt/input
+2025-12-11 22:59:09,457 INFO: Found 0 candidate video files under /mnt/dvd
+2025-12-11 22:59:09,457 INFO: Found 0 candidate video files under /mnt/bluray
+2025-12-11 22:59:09,458 INFO: Found 0 candidate video files under /mnt/usb
+2025-12-11 22:59:09,458 INFO: Found 0 candidate video files under /mnt/smb_staging
+2025-12-11 22:59:09,459 INFO: Found 0 candidate video files under /var/lib/autoencoder/state
+2025-12-11 22:59:09,459 INFO: Found 0 candidate video files under /mnt/usb_staging
+2025-12-11 22:59:09,459 INFO: Found 0 candidate video files under /mnt/ripped
+2025-12-11 22:59:09,460 INFO: Total candidate video files found: 0
+2025-12-11 22:59:09,460 DEBUG: No candidate video files found on this pass.
+2025-12-11 22:59:39,463 INFO: Candidate mountpoints: ['/var/lib/autoencoder/state', '/mnt/smb_staging', '/mnt/usb_staging', '/mnt/output', '/mnt/ripped', '/mnt/bluray', '/mnt/input', '/mnt/dvd', '/mnt/usb']
+2025-12-11 22:59:39,467 INFO: Scanning directories: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-11 22:59:39,468 DEBUG: Scan root: /mnt/input ismount=True exists=True sample=[]
+2025-12-11 22:59:39,468 DEBUG: Scan root: /mnt/dvd ismount=True exists=True sample=[]
+2025-12-11 22:59:39,468 DEBUG: Scan root: /mnt/bluray ismount=True exists=True sample=[]
+2025-12-11 22:59:39,468 DEBUG: Scan root: /mnt/usb ismount=True exists=True sample=[]
+2025-12-11 22:59:39,469 DEBUG: Scan root: /mnt/smb_staging ismount=True exists=True sample=[]
+2025-12-11 22:59:39,469 DEBUG: Scan root: /var/lib/autoencoder/state ismount=True exists=True sample=['smb_allowlist.json', 'diagnostics-repo', 'git', 'config.json', 'usb_seen.json']
+2025-12-11 22:59:39,469 DEBUG: Scan root: /mnt/usb_staging ismount=True exists=True sample=['.gitkeep']
+2025-12-11 22:59:39,470 DEBUG: Scan root: /mnt/ripped ismount=True exists=True sample=[]
+2025-12-11 22:59:39,470 INFO: Scanner will walk these roots: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-11 22:59:39,470 INFO: Found 0 candidate video files under /mnt/input
+2025-12-11 22:59:39,471 INFO: Found 0 candidate video files under /mnt/dvd
+2025-12-11 22:59:39,471 INFO: Found 0 candidate video files under /mnt/bluray
+2025-12-11 22:59:39,471 INFO: Found 0 candidate video files under /mnt/usb
+2025-12-11 22:59:39,471 INFO: Found 0 candidate video files under /mnt/smb_staging
+2025-12-11 22:59:39,473 INFO: Found 0 candidate video files under /var/lib/autoencoder/state
+2025-12-11 22:59:39,473 INFO: Found 0 candidate video files under /mnt/usb_staging
+2025-12-11 22:59:39,473 INFO: Found 0 candidate video files under /mnt/ripped
+2025-12-11 22:59:39,474 INFO: Total candidate video files found: 0
+2025-12-11 22:59:39,474 DEBUG: No candidate video files found on this pass.
+2025-12-11 23:00:09,477 INFO: Candidate mountpoints: ['/var/lib/autoencoder/state', '/mnt/smb_staging', '/mnt/usb_staging', '/mnt/output', '/mnt/ripped', '/mnt/bluray', '/mnt/input', '/mnt/dvd', '/mnt/usb']
+2025-12-11 23:00:09,481 INFO: Scanning directories: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-11 23:00:09,482 DEBUG: Scan root: /mnt/input ismount=True exists=True sample=[]
+2025-12-11 23:00:09,482 DEBUG: Scan root: /mnt/dvd ismount=True exists=True sample=[]
+2025-12-11 23:00:09,482 DEBUG: Scan root: /mnt/bluray ismount=True exists=True sample=[]
+2025-12-11 23:00:09,483 DEBUG: Scan root: /mnt/usb ismount=True exists=True sample=[]
+2025-12-11 23:00:09,483 DEBUG: Scan root: /mnt/smb_staging ismount=True exists=True sample=[]
+2025-12-11 23:00:09,483 DEBUG: Scan root: /var/lib/autoencoder/state ismount=True exists=True sample=['smb_allowlist.json', 'diagnostics-repo', 'git', 'config.json', 'usb_seen.json']
+2025-12-11 23:00:09,484 DEBUG: Scan root: /mnt/usb_staging ismount=True exists=True sample=['.gitkeep']
+2025-12-11 23:00:09,484 DEBUG: Scan root: /mnt/ripped ismount=True exists=True sample=[]
+2025-12-11 23:00:09,484 INFO: Scanner will walk these roots: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-11 23:00:09,484 INFO: Found 0 candidate video files under /mnt/input
+2025-12-11 23:00:09,485 INFO: Found 0 candidate video files under /mnt/dvd
+2025-12-11 23:00:09,485 INFO: Found 0 candidate video files under /mnt/bluray
+2025-12-11 23:00:09,486 INFO: Found 0 candidate video files under /mnt/usb
+2025-12-11 23:00:09,486 INFO: Found 0 candidate video files under /mnt/smb_staging
+2025-12-11 23:00:09,487 INFO: Found 0 candidate video files under /var/lib/autoencoder/state
+2025-12-11 23:00:09,487 INFO: Found 0 candidate video files under /mnt/usb_staging
+2025-12-11 23:00:09,488 INFO: Found 0 candidate video files under /mnt/ripped
+2025-12-11 23:00:09,488 INFO: Total candidate video files found: 0
+2025-12-11 23:00:09,488 DEBUG: No candidate video files found on this pass.
+2025-12-11 23:00:39,491 INFO: Candidate mountpoints: ['/var/lib/autoencoder/state', '/mnt/smb_staging', '/mnt/usb_staging', '/mnt/output', '/mnt/ripped', '/mnt/bluray', '/mnt/input', '/mnt/dvd', '/mnt/usb']
+2025-12-11 23:00:39,495 INFO: Scanning directories: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-11 23:00:39,495 DEBUG: Scan root: /mnt/input ismount=True exists=True sample=[]
+2025-12-11 23:00:39,496 DEBUG: Scan root: /mnt/dvd ismount=True exists=True sample=[]
+2025-12-11 23:00:39,496 DEBUG: Scan root: /mnt/bluray ismount=True exists=True sample=[]
+2025-12-11 23:00:39,496 DEBUG: Scan root: /mnt/usb ismount=True exists=True sample=[]
+2025-12-11 23:00:39,496 DEBUG: Scan root: /mnt/smb_staging ismount=True exists=True sample=[]
+2025-12-11 23:00:39,497 DEBUG: Scan root: /var/lib/autoencoder/state ismount=True exists=True sample=['smb_allowlist.json', 'diagnostics-repo', 'git', 'config.json', 'usb_seen.json']
+2025-12-11 23:00:39,497 DEBUG: Scan root: /mnt/usb_staging ismount=True exists=True sample=['.gitkeep']
+2025-12-11 23:00:39,497 DEBUG: Scan root: /mnt/ripped ismount=True exists=True sample=[]
+2025-12-11 23:00:39,497 INFO: Scanner will walk these roots: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-11 23:00:39,498 INFO: Found 0 candidate video files under /mnt/input
+2025-12-11 23:00:39,498 INFO: Found 0 candidate video files under /mnt/dvd
+2025-12-11 23:00:39,498 INFO: Found 0 candidate video files under /mnt/bluray
+2025-12-11 23:00:39,499 INFO: Found 0 candidate video files under /mnt/usb
+2025-12-11 23:00:39,499 INFO: Found 0 candidate video files under /mnt/smb_staging
+2025-12-11 23:00:39,500 INFO: Found 0 candidate video files under /var/lib/autoencoder/state
+2025-12-11 23:00:39,500 INFO: Found 0 candidate video files under /mnt/usb_staging
+2025-12-11 23:00:39,501 INFO: Found 0 candidate video files under /mnt/ripped
+2025-12-11 23:00:39,501 INFO: Total candidate video files found: 0
+2025-12-11 23:00:39,501 DEBUG: No candidate video files found on this pass.
+2025-12-11 23:00:55,174 INFO: 192.168.0.118 - - [11/Dec/2025 23:00:55] "GET /settings HTTP/1.1" 200 -
+2025-12-11 23:00:57,005 INFO: 192.168.0.118 - - [11/Dec/2025 23:00:57] "POST /api/diagnostics/push HTTP/1.1" 500 -
+2025-12-11 23:01:09,504 INFO: Candidate mountpoints: ['/var/lib/autoencoder/state', '/mnt/smb_staging', '/mnt/usb_staging', '/mnt/output', '/mnt/ripped', '/mnt/bluray', '/mnt/input', '/mnt/dvd', '/mnt/usb']
+2025-12-11 23:01:09,508 INFO: Scanning directories: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-11 23:01:09,509 DEBUG: Scan root: /mnt/input ismount=True exists=True sample=[]
+2025-12-11 23:01:09,509 DEBUG: Scan root: /mnt/dvd ismount=True exists=True sample=[]
+2025-12-11 23:01:09,509 DEBUG: Scan root: /mnt/bluray ismount=True exists=True sample=[]
+2025-12-11 23:01:09,509 DEBUG: Scan root: /mnt/usb ismount=True exists=True sample=[]
+2025-12-11 23:01:09,509 DEBUG: Scan root: /mnt/smb_staging ismount=True exists=True sample=[]
+2025-12-11 23:01:09,510 DEBUG: Scan root: /var/lib/autoencoder/state ismount=True exists=True sample=['smb_allowlist.json', 'diagnostics-repo', 'git', 'config.json', 'usb_seen.json']
+2025-12-11 23:01:09,510 DEBUG: Scan root: /mnt/usb_staging ismount=True exists=True sample=['.gitkeep']
+2025-12-11 23:01:09,510 DEBUG: Scan root: /mnt/ripped ismount=True exists=True sample=[]
+2025-12-11 23:01:09,510 INFO: Scanner will walk these roots: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-11 23:01:09,510 INFO: Found 0 candidate video files under /mnt/input
+2025-12-11 23:01:09,511 INFO: Found 0 candidate video files under /mnt/dvd
+2025-12-11 23:01:09,511 INFO: Found 0 candidate video files under /mnt/bluray
+2025-12-11 23:01:09,511 INFO: Found 0 candidate video files under /mnt/usb
+2025-12-11 23:01:09,511 INFO: Found 0 candidate video files under /mnt/smb_staging
+2025-12-11 23:01:09,512 INFO: Found 0 candidate video files under /var/lib/autoencoder/state
+2025-12-11 23:01:09,513 INFO: Found 0 candidate video files under /mnt/usb_staging
+2025-12-11 23:01:09,513 INFO: Found 0 candidate video files under /mnt/ripped
+2025-12-11 23:01:09,513 INFO: Total candidate video files found: 0
+2025-12-11 23:01:09,513 DEBUG: No candidate video files found on this pass.
+2025-12-11 23:01:39,516 INFO: Candidate mountpoints: ['/var/lib/autoencoder/state', '/mnt/smb_staging', '/mnt/usb_staging', '/mnt/output', '/mnt/ripped', '/mnt/bluray', '/mnt/input', '/mnt/dvd', '/mnt/usb']
+2025-12-11 23:01:39,520 INFO: Scanning directories: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-11 23:01:39,520 DEBUG: Scan root: /mnt/input ismount=True exists=True sample=[]
+2025-12-11 23:01:39,521 DEBUG: Scan root: /mnt/dvd ismount=True exists=True sample=[]
+2025-12-11 23:01:39,521 DEBUG: Scan root: /mnt/bluray ismount=True exists=True sample=[]
+2025-12-11 23:01:39,521 DEBUG: Scan root: /mnt/usb ismount=True exists=True sample=[]
+2025-12-11 23:01:39,521 DEBUG: Scan root: /mnt/smb_staging ismount=True exists=True sample=[]
+2025-12-11 23:01:39,522 DEBUG: Scan root: /var/lib/autoencoder/state ismount=True exists=True sample=['smb_allowlist.json', 'diagnostics-repo', 'git', 'config.json', 'usb_seen.json']
+2025-12-11 23:01:39,522 DEBUG: Scan root: /mnt/usb_staging ismount=True exists=True sample=['.gitkeep']
+2025-12-11 23:01:39,522 DEBUG: Scan root: /mnt/ripped ismount=True exists=True sample=[]
+2025-12-11 23:01:39,522 INFO: Scanner will walk these roots: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-11 23:01:39,523 INFO: Found 0 candidate video files under /mnt/input
+2025-12-11 23:01:39,523 INFO: Found 0 candidate video files under /mnt/dvd
+2025-12-11 23:01:39,523 INFO: Found 0 candidate video files under /mnt/bluray
+2025-12-11 23:01:39,523 INFO: Found 0 candidate video files under /mnt/usb
+2025-12-11 23:01:39,524 INFO: Found 0 candidate video files under /mnt/smb_staging
+2025-12-11 23:01:39,525 INFO: Found 0 candidate video files under /var/lib/autoencoder/state
+2025-12-11 23:01:39,525 INFO: Found 0 candidate video files under /mnt/usb_staging
+2025-12-11 23:01:39,526 INFO: Found 0 candidate video files under /mnt/ripped
+2025-12-11 23:01:39,526 INFO: Total candidate video files found: 0
+2025-12-11 23:01:39,526 DEBUG: No candidate video files found on this pass.
+2025-12-11 23:02:09,529 INFO: Candidate mountpoints: ['/var/lib/autoencoder/state', '/mnt/smb_staging', '/mnt/usb_staging', '/mnt/output', '/mnt/ripped', '/mnt/bluray', '/mnt/input', '/mnt/dvd', '/mnt/usb']
+2025-12-11 23:02:09,533 INFO: Scanning directories: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-11 23:02:09,533 DEBUG: Scan root: /mnt/input ismount=True exists=True sample=[]
+2025-12-11 23:02:09,534 DEBUG: Scan root: /mnt/dvd ismount=True exists=True sample=[]
+2025-12-11 23:02:09,534 DEBUG: Scan root: /mnt/bluray ismount=True exists=True sample=[]
+2025-12-11 23:02:09,534 DEBUG: Scan root: /mnt/usb ismount=True exists=True sample=[]
+2025-12-11 23:02:09,535 DEBUG: Scan root: /mnt/smb_staging ismount=True exists=True sample=[]
+2025-12-11 23:02:09,535 DEBUG: Scan root: /var/lib/autoencoder/state ismount=True exists=True sample=['smb_allowlist.json', 'diagnostics-repo', 'git', 'config.json', 'usb_seen.json']
+2025-12-11 23:02:09,535 DEBUG: Scan root: /mnt/usb_staging ismount=True exists=True sample=['.gitkeep']
+2025-12-11 23:02:09,535 DEBUG: Scan root: /mnt/ripped ismount=True exists=True sample=[]
+2025-12-11 23:02:09,536 INFO: Scanner will walk these roots: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-11 23:02:09,536 INFO: Found 0 candidate video files under /mnt/input
+2025-12-11 23:02:09,536 INFO: Found 0 candidate video files under /mnt/dvd
+2025-12-11 23:02:09,537 INFO: Found 0 candidate video files under /mnt/bluray
+2025-12-11 23:02:09,537 INFO: Found 0 candidate video files under /mnt/usb
+2025-12-11 23:02:09,537 INFO: Found 0 candidate video files under /mnt/smb_staging
+2025-12-11 23:02:09,538 INFO: Found 0 candidate video files under /var/lib/autoencoder/state
+2025-12-11 23:02:09,539 INFO: Found 0 candidate video files under /mnt/usb_staging
+2025-12-11 23:02:09,539 INFO: Found 0 candidate video files under /mnt/ripped
+2025-12-11 23:02:09,539 INFO: Total candidate video files found: 0
+2025-12-11 23:02:09,540 DEBUG: No candidate video files found on this pass.
+2025-12-11 23:02:39,543 INFO: Candidate mountpoints: ['/var/lib/autoencoder/state', '/mnt/smb_staging', '/mnt/usb_staging', '/mnt/output', '/mnt/ripped', '/mnt/bluray', '/mnt/input', '/mnt/dvd', '/mnt/usb']
+2025-12-11 23:02:39,547 INFO: Scanning directories: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-11 23:02:39,547 DEBUG: Scan root: /mnt/input ismount=True exists=True sample=[]
+2025-12-11 23:02:39,548 DEBUG: Scan root: /mnt/dvd ismount=True exists=True sample=[]
+2025-12-11 23:02:39,548 DEBUG: Scan root: /mnt/bluray ismount=True exists=True sample=[]
+2025-12-11 23:02:39,548 DEBUG: Scan root: /mnt/usb ismount=True exists=True sample=[]
+2025-12-11 23:02:39,548 DEBUG: Scan root: /mnt/smb_staging ismount=True exists=True sample=[]
+2025-12-11 23:02:39,548 DEBUG: Scan root: /var/lib/autoencoder/state ismount=True exists=True sample=['smb_allowlist.json', 'diagnostics-repo', 'git', 'config.json', 'usb_seen.json']
+2025-12-11 23:02:39,548 DEBUG: Scan root: /mnt/usb_staging ismount=True exists=True sample=['.gitkeep']
+2025-12-11 23:02:39,549 DEBUG: Scan root: /mnt/ripped ismount=True exists=True sample=[]
+2025-12-11 23:02:39,549 INFO: Scanner will walk these roots: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-11 23:02:39,549 INFO: Found 0 candidate video files under /mnt/input
+2025-12-11 23:02:39,549 INFO: Found 0 candidate video files under /mnt/dvd
+2025-12-11 23:02:39,549 INFO: Found 0 candidate video files under /mnt/bluray
+2025-12-11 23:02:39,550 INFO: Found 0 candidate video files under /mnt/usb
+2025-12-11 23:02:39,550 INFO: Found 0 candidate video files under /mnt/smb_staging
+2025-12-11 23:02:39,551 INFO: Found 0 candidate video files under /var/lib/autoencoder/state
+2025-12-11 23:02:39,551 INFO: Found 0 candidate video files under /mnt/usb_staging
+2025-12-11 23:02:39,551 INFO: Found 0 candidate video files under /mnt/ripped
+2025-12-11 23:02:39,551 INFO: Total candidate video files found: 0
+2025-12-11 23:02:39,552 DEBUG: No candidate video files found on this pass.
+2025-12-11 23:03:09,555 INFO: Candidate mountpoints: ['/var/lib/autoencoder/state', '/mnt/smb_staging', '/mnt/usb_staging', '/mnt/output', '/mnt/ripped', '/mnt/bluray', '/mnt/input', '/mnt/dvd', '/mnt/usb']
+2025-12-11 23:03:09,559 INFO: Scanning directories: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-11 23:03:09,559 DEBUG: Scan root: /mnt/input ismount=True exists=True sample=[]
+2025-12-11 23:03:09,559 DEBUG: Scan root: /mnt/dvd ismount=True exists=True sample=[]
+2025-12-11 23:03:09,559 DEBUG: Scan root: /mnt/bluray ismount=True exists=True sample=[]
+2025-12-11 23:03:09,560 DEBUG: Scan root: /mnt/usb ismount=True exists=True sample=[]
+2025-12-11 23:03:09,560 DEBUG: Scan root: /mnt/smb_staging ismount=True exists=True sample=[]
+2025-12-11 23:03:09,560 DEBUG: Scan root: /var/lib/autoencoder/state ismount=True exists=True sample=['smb_allowlist.json', 'diagnostics-repo', 'git', 'config.json', 'usb_seen.json']
+2025-12-11 23:03:09,560 DEBUG: Scan root: /mnt/usb_staging ismount=True exists=True sample=['.gitkeep']
+2025-12-11 23:03:09,560 DEBUG: Scan root: /mnt/ripped ismount=True exists=True sample=[]
+2025-12-11 23:03:09,561 INFO: Scanner will walk these roots: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-11 23:03:09,561 INFO: Found 0 candidate video files under /mnt/input
+2025-12-11 23:03:09,561 INFO: Found 0 candidate video files under /mnt/dvd
+2025-12-11 23:03:09,561 INFO: Found 0 candidate video files under /mnt/bluray
+2025-12-11 23:03:09,561 INFO: Found 0 candidate video files under /mnt/usb
+2025-12-11 23:03:09,562 INFO: Found 0 candidate video files under /mnt/smb_staging
+2025-12-11 23:03:09,563 INFO: Found 0 candidate video files under /var/lib/autoencoder/state
+2025-12-11 23:03:09,563 INFO: Found 0 candidate video files under /mnt/usb_staging
+2025-12-11 23:03:09,563 INFO: Found 0 candidate video files under /mnt/ripped
+2025-12-11 23:03:09,564 INFO: Total candidate video files found: 0
+2025-12-11 23:03:09,564 DEBUG: No candidate video files found on this pass.
+2025-12-11 23:03:19,940 INFO: 192.168.0.118 - - [11/Dec/2025 23:03:19] "GET /settings HTTP/1.1" 200 -
