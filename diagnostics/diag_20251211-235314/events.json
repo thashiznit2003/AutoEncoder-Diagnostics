@@ -1,0 +1,27 @@
+[
+  {
+    "message": "USB mount ready.",
+    "level": "info",
+    "ts": 1765496756.1699646
+  },
+  {
+    "message": "Manual MakeMKV rip requested.",
+    "level": "info",
+    "ts": 1765496923.076857
+  },
+  {
+    "message": "MakeMKV rip started (disc 0; titles=2,4; audio=eng; subs=eng)",
+    "level": "info",
+    "ts": 1765496945.3658016
+  },
+  {
+    "message": "MakeMKV rip failed (disc 0)",
+    "level": "error",
+    "ts": 1765496961.6282077
+  },
+  {
+    "message": "Manual MakeMKV rip failed to produce output.",
+    "level": "error",
+    "ts": 1765496961.6282666
+  }
+]
