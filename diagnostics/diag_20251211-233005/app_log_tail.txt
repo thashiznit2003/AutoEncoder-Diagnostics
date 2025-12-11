@@ -1,0 +1,354 @@
+2025-12-11 23:26:03,823 INFO: Excluded device basenames: []
+2025-12-11 23:26:03,824 INFO: Excluded mountpoints: <none>
+2025-12-11 23:26:03,825 INFO: Starting continuous scanner. search_path=<auto-detect> output=/mnt/output interval=30.0s
+2025-12-11 23:26:03,827 INFO: WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5959
+ * Running on http://172.18.0.2:5959
+2025-12-11 23:26:03,827 INFO: Press CTRL+C to quit
+2025-12-11 23:26:03,829 INFO: Candidate mountpoints: ['/var/lib/autoencoder/state', '/mnt/smb_staging', '/mnt/usb_staging', '/mnt/ripped', '/mnt/bluray', '/mnt/output', '/mnt/input', '/mnt/dvd', '/mnt/usb']
+2025-12-11 23:26:03,832 INFO: Scanning directories: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-11 23:26:03,833 DEBUG: Scan root: /mnt/input ismount=True exists=True sample=[]
+2025-12-11 23:26:03,833 DEBUG: Scan root: /mnt/dvd ismount=True exists=True sample=[]
+2025-12-11 23:26:03,833 DEBUG: Scan root: /mnt/bluray ismount=True exists=True sample=[]
+2025-12-11 23:26:03,833 DEBUG: Scan root: /mnt/usb ismount=True exists=True sample=[]
+2025-12-11 23:26:03,834 DEBUG: Scan root: /mnt/smb_staging ismount=True exists=True sample=[]
+2025-12-11 23:26:03,834 DEBUG: Scan root: /var/lib/autoencoder/state ismount=True exists=True sample=['smb_allowlist.json', 'diagnostics-repo', 'git', 'config.json', 'usb_seen.json']
+2025-12-11 23:26:03,834 DEBUG: Scan root: /mnt/usb_staging ismount=True exists=True sample=['.gitkeep']
+2025-12-11 23:26:03,834 DEBUG: Scan root: /mnt/ripped ismount=True exists=True sample=[]
+2025-12-11 23:26:03,834 INFO: Scanner will walk these roots: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-11 23:26:03,835 INFO: Found 0 candidate video files under /mnt/input
+2025-12-11 23:26:03,835 INFO: Found 0 candidate video files under /mnt/dvd
+2025-12-11 23:26:03,835 INFO: Found 0 candidate video files under /mnt/bluray
+2025-12-11 23:26:03,835 INFO: Found 0 candidate video files under /mnt/usb
+2025-12-11 23:26:03,835 INFO: Found 0 candidate video files under /mnt/smb_staging
+2025-12-11 23:26:03,837 INFO: Found 0 candidate video files under /var/lib/autoencoder/state
+2025-12-11 23:26:03,838 INFO: Found 0 candidate video files under /mnt/usb_staging
+2025-12-11 23:26:03,838 INFO: Found 0 candidate video files under /mnt/ripped
+2025-12-11 23:26:03,838 INFO: Total candidate video files found: 0
+2025-12-11 23:26:03,839 DEBUG: No candidate video files found on this pass.
+2025-12-11 23:26:03,941 INFO: Candidate mountpoints: ['/var/lib/autoencoder/state', '/mnt/smb_staging', '/mnt/usb_staging', '/mnt/ripped', '/mnt/bluray', '/mnt/output', '/mnt/input', '/mnt/dvd', '/mnt/usb']
+2025-12-11 23:26:03,944 INFO: Scanning directories: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-11 23:26:03,945 DEBUG: Scan root: /mnt/input ismount=True exists=True sample=[]
+2025-12-11 23:26:03,945 DEBUG: Scan root: /mnt/dvd ismount=True exists=True sample=[]
+2025-12-11 23:26:03,945 DEBUG: Scan root: /mnt/bluray ismount=True exists=True sample=[]
+2025-12-11 23:26:03,945 DEBUG: Scan root: /mnt/usb ismount=True exists=True sample=[]
+2025-12-11 23:26:03,945 DEBUG: Scan root: /mnt/smb_staging ismount=True exists=True sample=[]
+2025-12-11 23:26:03,946 DEBUG: Scan root: /var/lib/autoencoder/state ismount=True exists=True sample=['smb_allowlist.json', 'diagnostics-repo', 'git', 'config.json', 'usb_seen.json']
+2025-12-11 23:26:03,946 DEBUG: Scan root: /mnt/usb_staging ismount=True exists=True sample=['.gitkeep']
+2025-12-11 23:26:03,946 DEBUG: Scan root: /mnt/ripped ismount=True exists=True sample=[]
+2025-12-11 23:26:03,946 INFO: Scanner will walk these roots: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-11 23:26:03,946 INFO: Found 0 candidate video files under /mnt/input
+2025-12-11 23:26:03,947 INFO: Found 0 candidate video files under /mnt/dvd
+2025-12-11 23:26:03,947 INFO: Found 0 candidate video files under /mnt/bluray
+2025-12-11 23:26:03,947 INFO: Found 0 candidate video files under /mnt/usb
+2025-12-11 23:26:03,947 INFO: Found 0 candidate video files under /mnt/smb_staging
+2025-12-11 23:26:03,949 INFO: Found 0 candidate video files under /var/lib/autoencoder/state
+2025-12-11 23:26:03,950 INFO: Found 0 candidate video files under /mnt/usb_staging
+2025-12-11 23:26:03,950 INFO: Found 0 candidate video files under /mnt/ripped
+2025-12-11 23:26:03,950 INFO: Total candidate video files found: 0
+2025-12-11 23:26:03,950 DEBUG: No candidate video files found on this pass.
+2025-12-11 23:26:33,953 INFO: Candidate mountpoints: ['/var/lib/autoencoder/state', '/mnt/smb_staging', '/mnt/usb_staging', '/mnt/ripped', '/mnt/bluray', '/mnt/output', '/mnt/input', '/mnt/dvd', '/mnt/usb']
+2025-12-11 23:26:33,957 INFO: Scanning directories: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-11 23:26:33,958 DEBUG: Scan root: /mnt/input ismount=True exists=True sample=[]
+2025-12-11 23:26:33,958 DEBUG: Scan root: /mnt/dvd ismount=True exists=True sample=[]
+2025-12-11 23:26:33,958 DEBUG: Scan root: /mnt/bluray ismount=True exists=True sample=[]
+2025-12-11 23:26:33,958 DEBUG: Scan root: /mnt/usb ismount=True exists=True sample=[]
+2025-12-11 23:26:33,959 DEBUG: Scan root: /mnt/smb_staging ismount=True exists=True sample=[]
+2025-12-11 23:26:33,959 DEBUG: Scan root: /var/lib/autoencoder/state ismount=True exists=True sample=['smb_allowlist.json', 'diagnostics-repo', 'git', 'config.json', 'usb_seen.json']
+2025-12-11 23:26:33,959 DEBUG: Scan root: /mnt/usb_staging ismount=True exists=True sample=['.gitkeep']
+2025-12-11 23:26:33,959 DEBUG: Scan root: /mnt/ripped ismount=True exists=True sample=[]
+2025-12-11 23:26:33,959 INFO: Scanner will walk these roots: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-11 23:26:33,960 INFO: Found 0 candidate video files under /mnt/input
+2025-12-11 23:26:33,960 INFO: Found 0 candidate video files under /mnt/dvd
+2025-12-11 23:26:33,960 INFO: Found 0 candidate video files under /mnt/bluray
+2025-12-11 23:26:33,960 INFO: Found 0 candidate video files under /mnt/usb
+2025-12-11 23:26:33,960 INFO: Found 0 candidate video files under /mnt/smb_staging
+2025-12-11 23:26:33,963 INFO: Found 0 candidate video files under /var/lib/autoencoder/state
+2025-12-11 23:26:33,963 INFO: Found 0 candidate video files under /mnt/usb_staging
+2025-12-11 23:26:33,963 INFO: Found 0 candidate video files under /mnt/ripped
+2025-12-11 23:26:33,963 INFO: Total candidate video files found: 0
+2025-12-11 23:26:33,963 DEBUG: No candidate video files found on this pass.
+2025-12-11 23:26:34,213 INFO: 192.168.0.118 - - [11/Dec/2025 23:26:34] "GET /settings HTTP/1.1" 200 -
+2025-12-11 23:27:03,966 INFO: Candidate mountpoints: ['/var/lib/autoencoder/state', '/mnt/smb_staging', '/mnt/usb_staging', '/mnt/ripped', '/mnt/bluray', '/mnt/output', '/mnt/input', '/mnt/dvd', '/mnt/usb']
+2025-12-11 23:27:03,971 INFO: Scanning directories: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-11 23:27:03,971 DEBUG: Scan root: /mnt/input ismount=True exists=True sample=[]
+2025-12-11 23:27:03,971 DEBUG: Scan root: /mnt/dvd ismount=True exists=True sample=[]
+2025-12-11 23:27:03,971 DEBUG: Scan root: /mnt/bluray ismount=True exists=True sample=[]
+2025-12-11 23:27:03,972 DEBUG: Scan root: /mnt/usb ismount=True exists=True sample=[]
+2025-12-11 23:27:03,972 DEBUG: Scan root: /mnt/smb_staging ismount=True exists=True sample=[]
+2025-12-11 23:27:03,972 DEBUG: Scan root: /var/lib/autoencoder/state ismount=True exists=True sample=['smb_allowlist.json', 'diagnostics-repo', 'git', 'config.json', 'usb_seen.json']
+2025-12-11 23:27:03,972 DEBUG: Scan root: /mnt/usb_staging ismount=True exists=True sample=['.gitkeep']
+2025-12-11 23:27:03,972 DEBUG: Scan root: /mnt/ripped ismount=True exists=True sample=[]
+2025-12-11 23:27:03,972 INFO: Scanner will walk these roots: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-11 23:27:03,973 INFO: Found 0 candidate video files under /mnt/input
+2025-12-11 23:27:03,973 INFO: Found 0 candidate video files under /mnt/dvd
+2025-12-11 23:27:03,973 INFO: Found 0 candidate video files under /mnt/bluray
+2025-12-11 23:27:03,973 INFO: Found 0 candidate video files under /mnt/usb
+2025-12-11 23:27:03,974 INFO: Found 0 candidate video files under /mnt/smb_staging
+2025-12-11 23:27:03,976 INFO: Found 0 candidate video files under /var/lib/autoencoder/state
+2025-12-11 23:27:03,976 INFO: Found 0 candidate video files under /mnt/usb_staging
+2025-12-11 23:27:03,976 INFO: Found 0 candidate video files under /mnt/ripped
+2025-12-11 23:27:03,976 INFO: Total candidate video files found: 0
+2025-12-11 23:27:03,977 DEBUG: No candidate video files found on this pass.
+2025-12-11 23:27:33,980 INFO: Candidate mountpoints: ['/var/lib/autoencoder/state', '/mnt/smb_staging', '/mnt/usb_staging', '/mnt/ripped', '/mnt/bluray', '/mnt/output', '/mnt/input', '/mnt/dvd', '/mnt/usb']
+2025-12-11 23:27:33,984 INFO: Scanning directories: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-11 23:27:33,984 DEBUG: Scan root: /mnt/input ismount=True exists=True sample=[]
+2025-12-11 23:27:33,984 DEBUG: Scan root: /mnt/dvd ismount=True exists=True sample=[]
+2025-12-11 23:27:33,985 DEBUG: Scan root: /mnt/bluray ismount=True exists=True sample=[]
+2025-12-11 23:27:33,985 DEBUG: Scan root: /mnt/usb ismount=True exists=True sample=[]
+2025-12-11 23:27:33,985 DEBUG: Scan root: /mnt/smb_staging ismount=True exists=True sample=[]
+2025-12-11 23:27:33,985 DEBUG: Scan root: /var/lib/autoencoder/state ismount=True exists=True sample=['smb_allowlist.json', 'diagnostics-repo', 'git', 'config.json', 'usb_seen.json']
+2025-12-11 23:27:33,985 DEBUG: Scan root: /mnt/usb_staging ismount=True exists=True sample=['.gitkeep']
+2025-12-11 23:27:33,986 DEBUG: Scan root: /mnt/ripped ismount=True exists=True sample=[]
+2025-12-11 23:27:33,986 INFO: Scanner will walk these roots: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-11 23:27:33,986 INFO: Found 0 candidate video files under /mnt/input
+2025-12-11 23:27:33,986 INFO: Found 0 candidate video files under /mnt/dvd
+2025-12-11 23:27:33,986 INFO: Found 0 candidate video files under /mnt/bluray
+2025-12-11 23:27:33,987 INFO: Found 0 candidate video files under /mnt/usb
+2025-12-11 23:27:33,987 INFO: Found 0 candidate video files under /mnt/smb_staging
+2025-12-11 23:27:33,989 INFO: Found 0 candidate video files under /var/lib/autoencoder/state
+2025-12-11 23:27:33,989 INFO: Found 0 candidate video files under /mnt/usb_staging
+2025-12-11 23:27:33,990 INFO: Found 0 candidate video files under /mnt/ripped
+2025-12-11 23:27:33,990 INFO: Total candidate video files found: 0
+2025-12-11 23:27:33,990 DEBUG: No candidate video files found on this pass.
+2025-12-11 23:28:03,993 INFO: Candidate mountpoints: ['/var/lib/autoencoder/state', '/mnt/smb_staging', '/mnt/usb_staging', '/mnt/ripped', '/mnt/bluray', '/mnt/output', '/mnt/input', '/mnt/dvd', '/mnt/usb']
+2025-12-11 23:28:03,997 INFO: Scanning directories: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-11 23:28:03,997 DEBUG: Scan root: /mnt/input ismount=True exists=True sample=[]
+2025-12-11 23:28:03,997 DEBUG: Scan root: /mnt/dvd ismount=True exists=True sample=[]
+2025-12-11 23:28:03,998 DEBUG: Scan root: /mnt/bluray ismount=True exists=True sample=[]
+2025-12-11 23:28:03,998 DEBUG: Scan root: /mnt/usb ismount=True exists=True sample=[]
+2025-12-11 23:28:03,998 DEBUG: Scan root: /mnt/smb_staging ismount=True exists=True sample=[]
+2025-12-11 23:28:03,998 DEBUG: Scan root: /var/lib/autoencoder/state ismount=True exists=True sample=['smb_allowlist.json', 'diagnostics-repo', 'git', 'config.json', 'usb_seen.json']
+2025-12-11 23:28:03,998 DEBUG: Scan root: /mnt/usb_staging ismount=True exists=True sample=['.gitkeep']
+2025-12-11 23:28:03,999 DEBUG: Scan root: /mnt/ripped ismount=True exists=True sample=[]
+2025-12-11 23:28:03,999 INFO: Scanner will walk these roots: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-11 23:28:03,999 INFO: Found 0 candidate video files under /mnt/input
+2025-12-11 23:28:03,999 INFO: Found 0 candidate video files under /mnt/dvd
+2025-12-11 23:28:03,999 INFO: Found 0 candidate video files under /mnt/bluray
+2025-12-11 23:28:04,000 INFO: Found 0 candidate video files under /mnt/usb
+2025-12-11 23:28:04,000 INFO: Found 0 candidate video files under /mnt/smb_staging
+2025-12-11 23:28:04,002 INFO: Found 0 candidate video files under /var/lib/autoencoder/state
+2025-12-11 23:28:04,002 INFO: Found 0 candidate video files under /mnt/usb_staging
+2025-12-11 23:28:04,003 INFO: Found 0 candidate video files under /mnt/ripped
+2025-12-11 23:28:04,003 INFO: Total candidate video files found: 0
+2025-12-11 23:28:04,003 DEBUG: No candidate video files found on this pass.
+2025-12-11 23:28:08,650 INFO: 192.168.0.118 - - [11/Dec/2025 23:28:08] "POST /api/diagnostics/push HTTP/1.1" 200 -
+2025-12-11 23:28:34,006 INFO: Candidate mountpoints: ['/var/lib/autoencoder/state', '/mnt/smb_staging', '/mnt/usb_staging', '/mnt/ripped', '/mnt/bluray', '/mnt/output', '/mnt/input', '/mnt/dvd', '/mnt/usb']
+2025-12-11 23:28:34,010 INFO: Scanning directories: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-11 23:28:34,010 DEBUG: Scan root: /mnt/input ismount=True exists=True sample=[]
+2025-12-11 23:28:34,010 DEBUG: Scan root: /mnt/dvd ismount=True exists=True sample=[]
+2025-12-11 23:28:34,011 DEBUG: Scan root: /mnt/bluray ismount=True exists=True sample=[]
+2025-12-11 23:28:34,011 DEBUG: Scan root: /mnt/usb ismount=True exists=True sample=[]
+2025-12-11 23:28:34,011 DEBUG: Scan root: /mnt/smb_staging ismount=True exists=True sample=[]
+2025-12-11 23:28:34,011 DEBUG: Scan root: /var/lib/autoencoder/state ismount=True exists=True sample=['smb_allowlist.json', 'diagnostics-repo', 'git', 'config.json', 'usb_seen.json']
+2025-12-11 23:28:34,011 DEBUG: Scan root: /mnt/usb_staging ismount=True exists=True sample=['.gitkeep']
+2025-12-11 23:28:34,012 DEBUG: Scan root: /mnt/ripped ismount=True exists=True sample=[]
+2025-12-11 23:28:34,012 INFO: Scanner will walk these roots: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-11 23:28:34,012 INFO: Found 0 candidate video files under /mnt/input
+2025-12-11 23:28:34,012 INFO: Found 0 candidate video files under /mnt/dvd
+2025-12-11 23:28:34,012 INFO: Found 0 candidate video files under /mnt/bluray
+2025-12-11 23:28:34,013 INFO: Found 0 candidate video files under /mnt/usb
+2025-12-11 23:28:34,013 INFO: Found 0 candidate video files under /mnt/smb_staging
+2025-12-11 23:28:34,015 INFO: Found 0 candidate video files under /var/lib/autoencoder/state
+2025-12-11 23:28:34,016 INFO: Found 0 candidate video files under /mnt/usb_staging
+2025-12-11 23:28:34,016 INFO: Found 0 candidate video files under /mnt/ripped
+2025-12-11 23:28:34,016 INFO: Total candidate video files found: 0
+2025-12-11 23:28:34,016 DEBUG: No candidate video files found on this pass.
+2025-12-11 23:29:04,019 INFO: Candidate mountpoints: ['/var/lib/autoencoder/state', '/mnt/smb_staging', '/mnt/usb_staging', '/mnt/ripped', '/mnt/bluray', '/mnt/output', '/mnt/input', '/mnt/dvd', '/mnt/usb']
+2025-12-11 23:29:04,023 INFO: Scanning directories: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-11 23:29:04,023 DEBUG: Scan root: /mnt/input ismount=True exists=True sample=[]
+2025-12-11 23:29:04,024 DEBUG: Scan root: /mnt/dvd ismount=True exists=True sample=[]
+2025-12-11 23:29:04,024 DEBUG: Scan root: /mnt/bluray ismount=True exists=True sample=[]
+2025-12-11 23:29:04,024 DEBUG: Scan root: /mnt/usb ismount=True exists=True sample=[]
+2025-12-11 23:29:04,024 DEBUG: Scan root: /mnt/smb_staging ismount=True exists=True sample=[]
+2025-12-11 23:29:04,024 DEBUG: Scan root: /var/lib/autoencoder/state ismount=True exists=True sample=['smb_allowlist.json', 'diagnostics-repo', 'git', 'config.json', 'usb_seen.json']
+2025-12-11 23:29:04,025 DEBUG: Scan root: /mnt/usb_staging ismount=True exists=True sample=['.gitkeep']
+2025-12-11 23:29:04,025 DEBUG: Scan root: /mnt/ripped ismount=True exists=True sample=[]
+2025-12-11 23:29:04,025 INFO: Scanner will walk these roots: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-11 23:29:04,025 INFO: Found 0 candidate video files under /mnt/input
+2025-12-11 23:29:04,025 INFO: Found 0 candidate video files under /mnt/dvd
+2025-12-11 23:29:04,026 INFO: Found 0 candidate video files under /mnt/bluray
+2025-12-11 23:29:04,026 INFO: Found 0 candidate video files under /mnt/usb
+2025-12-11 23:29:04,026 INFO: Found 0 candidate video files under /mnt/smb_staging
+2025-12-11 23:29:04,028 INFO: Found 0 candidate video files under /var/lib/autoencoder/state
+2025-12-11 23:29:04,029 INFO: Found 0 candidate video files under /mnt/usb_staging
+2025-12-11 23:29:04,029 INFO: Found 0 candidate video files under /mnt/ripped
+2025-12-11 23:29:04,029 INFO: Total candidate video files found: 0
+2025-12-11 23:29:04,029 DEBUG: No candidate video files found on this pass.
+2025-12-11 23:29:13,438 INFO: 192.168.0.118 - - [11/Dec/2025 23:29:13] "POST /api/makemkv/rip HTTP/1.1" 200 -
+2025-12-11 23:29:34,032 INFO: Candidate mountpoints: ['/var/lib/autoencoder/state', '/mnt/smb_staging', '/mnt/usb_staging', '/mnt/ripped', '/mnt/bluray', '/mnt/output', '/mnt/input', '/mnt/dvd', '/mnt/usb']
+2025-12-11 23:29:34,037 INFO: Scanning directories: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-11 23:29:34,037 DEBUG: Scan root: /mnt/input ismount=True exists=True sample=[]
+2025-12-11 23:29:34,037 DEBUG: Scan root: /mnt/dvd ismount=True exists=True sample=[]
+2025-12-11 23:29:34,038 DEBUG: Scan root: /mnt/bluray ismount=True exists=True sample=[]
+2025-12-11 23:29:34,038 DEBUG: Scan root: /mnt/usb ismount=True exists=True sample=[]
+2025-12-11 23:29:34,038 DEBUG: Scan root: /mnt/smb_staging ismount=True exists=True sample=[]
+2025-12-11 23:29:34,038 DEBUG: Scan root: /var/lib/autoencoder/state ismount=True exists=True sample=['smb_allowlist.json', 'diagnostics-repo', 'git', 'config.json', 'usb_seen.json']
+2025-12-11 23:29:34,039 DEBUG: Scan root: /mnt/usb_staging ismount=True exists=True sample=['.gitkeep']
+2025-12-11 23:29:34,039 DEBUG: Scan root: /mnt/ripped ismount=True exists=True sample=[]
+2025-12-11 23:29:34,039 INFO: Scanner will walk these roots: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-11 23:29:34,039 INFO: Found 0 candidate video files under /mnt/input
+2025-12-11 23:29:34,040 INFO: Found 0 candidate video files under /mnt/dvd
+2025-12-11 23:29:34,040 INFO: Found 0 candidate video files under /mnt/bluray
+2025-12-11 23:29:34,040 INFO: Found 0 candidate video files under /mnt/usb
+2025-12-11 23:29:34,041 INFO: Found 0 candidate video files under /mnt/smb_staging
+2025-12-11 23:29:34,043 INFO: Found 0 candidate video files under /var/lib/autoencoder/state
+2025-12-11 23:29:34,044 INFO: Found 0 candidate video files under /mnt/usb_staging
+2025-12-11 23:29:34,044 INFO: Found 0 candidate video files under /mnt/ripped
+2025-12-11 23:29:34,044 INFO: Total candidate video files found: 0
+2025-12-11 23:29:34,044 DEBUG: No candidate video files found on this pass.
+2025-12-11 23:29:38,803 INFO: MSG:1005,0,1,"MakeMKV v1.18.2 linux(x64-release) started","%1 started","MakeMKV v1.18.2 linux(x64-release)"
+2025-12-11 23:29:39,317 INFO: PRGT:5018,0,"Scanning CD-ROM devices"
+2025-12-11 23:29:39,317 INFO: PRGC:5018,0,"Scanning CD-ROM devices"
+2025-12-11 23:29:39,318 INFO: PRGV:0,0,65536
+2025-12-11 23:29:39,318 INFO: PRGV:0,0,65536
+2025-12-11 23:29:39,417 INFO: PRGV:65536,0,65536
+2025-12-11 23:29:39,418 INFO: PRGV:65536,65536,65536
+2025-12-11 23:29:39,418 INFO: MSG:3338,0,2,"Downloading latest SDF to /root/.MakeMKV ...","Downloading latest %1 to %2 ...","SDF","/root/.MakeMKV"
+2025-12-11 23:29:43,829 INFO: DRV:0,2,999,12,"BD-RE HL-DT-ST BD-RE  WH14NS40 1.03 M6HJ1EF3211","COP_OUT","/dev/sr0"
+2025-12-11 23:29:43,829 INFO: DRV:1,256,999,0,"","",""
+2025-12-11 23:29:43,829 INFO: DRV:2,256,999,0,"","",""
+2025-12-11 23:29:43,830 INFO: DRV:3,256,999,0,"","",""
+2025-12-11 23:29:43,830 INFO: DRV:4,256,999,0,"","",""
+2025-12-11 23:29:43,831 INFO: DRV:5,256,999,0,"","",""
+2025-12-11 23:29:43,832 INFO: DRV:6,256,999,0,"","",""
+2025-12-11 23:29:43,832 INFO: DRV:7,256,999,0,"","",""
+2025-12-11 23:29:43,832 INFO: DRV:8,256,999,0,"","",""
+2025-12-11 23:29:43,833 INFO: DRV:9,256,999,0,"","",""
+2025-12-11 23:29:43,833 INFO: DRV:10,256,999,0,"","",""
+2025-12-11 23:29:43,833 INFO: DRV:11,256,999,0,"","",""
+2025-12-11 23:29:43,833 INFO: DRV:12,256,999,0,"","",""
+2025-12-11 23:29:43,833 INFO: DRV:13,256,999,0,"","",""
+2025-12-11 23:29:43,833 INFO: DRV:14,256,999,0,"","",""
+2025-12-11 23:29:43,833 INFO: DRV:15,256,999,0,"","",""
+2025-12-11 23:29:43,833 INFO: PRGV:0,65536,65536
+2025-12-11 23:29:43,834 INFO: PRGV:0,0,65536
+2025-12-11 23:29:44,485 INFO: MSG:3007,0,0,"Using direct disc access mode","Using direct disc access mode"
+2025-12-11 23:29:45,237 INFO: PRGT:3404,0,"Opening Blu-ray disc"
+2025-12-11 23:29:45,639 INFO: PRGC:3400,0,"Processing AV clips"
+2025-12-11 23:29:45,639 INFO: PRGV:0,0,65536
+2025-12-11 23:29:45,639 INFO: PRGV:0,0,65536
+2025-12-11 23:29:46,040 INFO: PRGV:2299,0,65536
+2025-12-11 23:29:46,040 INFO: PRGV:2299,249,65536
+2025-12-11 23:29:46,090 INFO: PRGV:10347,249,65536
+2025-12-11 23:29:46,090 INFO: PRGV:10347,1121,65536
+2025-12-11 23:29:46,140 INFO: PRGC:3401,0,"Processing movie playlists"
+2025-12-11 23:29:46,141 INFO: PRGV:0,1121,65536
+2025-12-11 23:29:46,241 INFO: PRGV:60222,1121,65536
+2025-12-11 23:29:46,241 INFO: PRGV:60222,5357,65536
+2025-12-11 23:29:46,291 INFO: PRGV:65536,5357,65536
+2025-12-11 23:29:46,291 INFO: PRGV:65536,5731,65536
+2025-12-11 23:29:46,341 INFO: PRGC:3402,0,"Decrypting"
+2025-12-11 23:29:46,341 INFO: PRGV:0,5731,65536
+2025-12-11 23:29:46,391 INFO: MSG:5050,0,2,"Evaluation version, 30 day(s) out of 30 remaining","Evaluation version, %1 day(s) out of %2 remaining","30","30"
+2025-12-11 23:29:46,491 INFO: PRGV:9830,5731,65536
+2025-12-11 23:29:46,492 INFO: PRGV:9830,6478,65536
+2025-12-11 23:29:46,642 INFO: PRGV:16384,6478,65536
+2025-12-11 23:29:46,642 INFO: PRGV:16384,6977,65536
+2025-12-11 23:29:47,645 INFO: PRGV:24576,6977,65536
+2025-12-11 23:29:47,646 INFO: PRGV:24576,7600,65536
+2025-12-11 23:29:48,147 INFO: MSG:5085,0,0,"Loaded content hash table, will verify integrity of M2TS files.","Loaded content hash table, will verify integrity of M2TS files."
+2025-12-11 23:29:50,703 INFO: PRGC:3406,0,"Processing BD+ code"
+2025-12-11 23:29:50,703 INFO: PRGV:0,7600,65536
+2025-12-11 23:29:51,455 INFO: PRGC:3103,0,"Processing titles"
+2025-12-11 23:29:51,556 INFO: MSG:3025,16777216,3,"Title #00210.mpls has length of 244 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00210.mpls","244","1200"
+2025-12-11 23:29:51,556 INFO: MSG:3025,0,3,"Title #00017.mpls has length of 179 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00017.mpls","179","1200"
+2025-12-11 23:29:51,556 INFO: PRGV:7363,7600,65536
+2025-12-11 23:29:51,556 INFO: PRGV:7363,8846,65536
+2025-12-11 23:29:51,806 INFO: MSG:3307,0,2,"File 00101.mpls was added as title #0","File %1 was added as title #%2","00101.mpls","0"
+2025-12-11 23:29:51,807 INFO: PRGV:16199,8846,65536
+2025-12-11 23:29:51,807 INFO: PRGV:16199,10341,65536
+2025-12-11 23:29:52,057 INFO: MSG:3307,16777216,2,"File 00200.mpls was added as title #1","File %1 was added as title #%2","00200.mpls","1"
+2025-12-11 23:29:52,057 INFO: MSG:3025,0,3,"Title #00005.mpls has length of 30 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00005.mpls","30","1200"
+2025-12-11 23:29:52,057 INFO: PRGV:21354,10341,65536
+2025-12-11 23:29:52,057 INFO: PRGV:21354,11213,65536
+2025-12-11 23:29:52,408 INFO: MSG:3307,16777216,2,"File 00100.mpls was added as title #2","File %1 was added as title #%2","00100.mpls","2"
+2025-12-11 23:29:52,408 INFO: MSG:3025,0,3,"Title #00051.m2ts has length of 934 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00051.m2ts","934","1200"
+2025-12-11 23:29:52,408 INFO: PRGV:25036,11213,65536
+2025-12-11 23:29:52,408 INFO: PRGV:25036,11836,65536
+2025-12-11 23:29:53,110 INFO: MSG:3307,16777216,2,"File 00050.m2ts was added as title #3","File %1 was added as title #%2","00050.m2ts","3"
+2025-12-11 23:29:53,110 INFO: MSG:3025,16777216,3,"Title #00048.m2ts has length of 362 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00048.m2ts","362","1200"
+2025-12-11 23:29:53,110 INFO: MSG:3025,16777216,3,"Title #00047.m2ts has length of 605 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00047.m2ts","605","1200"
+2025-12-11 23:29:53,110 INFO: MSG:3025,0,3,"Title #00046.m2ts has length of 812 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00046.m2ts","812","1200"
+2025-12-11 23:29:53,110 INFO: PRGV:27981,11836,65536
+2025-12-11 23:29:53,110 INFO: PRGV:27981,12334,65536
+2025-12-11 23:29:53,761 INFO: MSG:3307,16777216,2,"File 00045.m2ts was added as title #4","File %1 was added as title #%2","00045.m2ts","4"
+2025-12-11 23:29:53,761 INFO: MSG:3025,16777216,3,"Title #00044.m2ts has length of 994 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00044.m2ts","994","1200"
+2025-12-11 23:29:53,762 INFO: MSG:3025,16777216,3,"Title #00049.m2ts has length of 205 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00049.m2ts","205","1200"
+2025-12-11 23:29:53,762 INFO: MSG:3025,16777216,3,"Title #00041.m2ts has length of 36 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00041.m2ts","36","1200"
+2025-12-11 23:29:53,762 INFO: MSG:3025,16777216,3,"Title #00040.m2ts has length of 31 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00040.m2ts","31","1200"
+2025-12-11 23:29:53,762 INFO: MSG:3025,16777216,3,"Title #00039.m2ts has length of 21 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00039.m2ts","21","1200"
+2025-12-11 23:29:53,762 INFO: MSG:3025,16777216,3,"Title #00038.m2ts has length of 21 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00038.m2ts","21","1200"
+2025-12-11 23:29:53,762 INFO: MSG:3025,16777216,3,"Title #00037.m2ts has length of 22 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00037.m2ts","22","1200"
+2025-12-11 23:29:53,762 INFO: MSG:3025,16777216,3,"Title #00036.m2ts has length of 24 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00036.m2ts","24","1200"
+2025-12-11 23:29:53,762 INFO: MSG:3025,16777216,3,"Title #00035.m2ts has length of 22 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00035.m2ts","22","1200"
+2025-12-11 23:29:53,762 INFO: MSG:3025,16777216,3,"Title #00034.m2ts has length of 19 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00034.m2ts","19","1200"
+2025-12-11 23:29:53,762 INFO: MSG:3025,16777216,3,"Title #00033.m2ts has length of 23 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00033.m2ts","23","1200"
+2025-12-11 23:29:53,762 INFO: MSG:3025,16777216,3,"Title #00012.m2ts has length of 23 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00012.m2ts","23","1200"
+2025-12-11 23:29:53,762 INFO: MSG:3025,16777216,3,"Title #00053.m2ts has length of 120 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00053.m2ts","120","1200"
+2025-12-11 23:29:53,762 INFO: MSG:3025,16777216,3,"Title #00005.m2ts has length of 5 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00005.m2ts","5","1200"
+2025-12-11 23:29:53,762 INFO: MSG:3025,16777216,3,"Title #00052.m2ts has length of 53 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00052.m2ts","53","1200"
+2025-12-11 23:29:53,763 INFO: MSG:3025,16777216,3,"Title #00032.m2ts has length of 25 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00032.m2ts","25","1200"
+2025-12-11 23:29:53,763 INFO: MSG:3025,16777216,3,"Title #00003.m2ts has length of 11 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00003.m2ts","11","1200"
+2025-12-11 23:29:53,763 INFO: MSG:3025,16777216,3,"Title #00002.m2ts has length of 11 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00002.m2ts","11","1200"
+2025-12-11 23:29:53,763 INFO: MSG:3025,16777216,3,"Title #00031.m2ts has length of 191 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00031.m2ts","191","1200"
+2025-12-11 23:29:53,763 INFO: MSG:3025,16777216,3,"Title #00030.m2ts has length of 48 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00030.m2ts","48","1200"
+2025-12-11 23:29:53,763 INFO: MSG:3025,16777216,3,"Title #00029.m2ts has length of 151 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00029.m2ts","151","1200"
+2025-12-11 23:29:53,763 INFO: MSG:3025,16777216,3,"Title #00028.m2ts has length of 182 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00028.m2ts","182","1200"
+2025-12-11 23:29:53,763 INFO: MSG:3025,16777216,3,"Title #00027.m2ts has length of 127 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00027.m2ts","127","1200"
+2025-12-11 23:29:53,763 INFO: MSG:3025,16777216,3,"Title #00026.m2ts has length of 209 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00026.m2ts","209","1200"
+2025-12-11 23:29:53,763 INFO: MSG:3025,16777216,3,"Title #00025.m2ts has length of 102 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00025.m2ts","102","1200"
+2025-12-11 23:29:53,763 INFO: MSG:3025,16777216,3,"Title #00024.m2ts has length of 206 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00024.m2ts","206","1200"
+2025-12-11 23:29:53,763 INFO: MSG:3025,16777216,3,"Title #00023.m2ts has length of 65 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00023.m2ts","65","1200"
+2025-12-11 23:29:53,763 INFO: MSG:3025,16777216,3,"Title #00014.m2ts has length of 30 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00014.m2ts","30","1200"
+2025-12-11 23:29:53,763 INFO: MSG:3025,16777216,3,"Title #00021.m2ts has length of 517 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00021.m2ts","517","1200"
+2025-12-11 23:29:53,763 INFO: MSG:3025,0,3,"Title #00006.m2ts has length of 6 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00006.m2ts","6","1200"
+2025-12-11 23:29:53,764 INFO: PRGV:53017,12334,65536
+2025-12-11 23:29:53,764 INFO: PRGV:53017,16570,65536
+2025-12-11 23:29:54,413 INFO: MSG:3307,16777216,2,"File 00019.m2ts was added as title #5","File %1 was added as title #%2","00019.m2ts","5"
+2025-12-11 23:29:54,413 INFO: MSG:3025,16777216,3,"Title #00018.m2ts has length of 161 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00018.m2ts","161","1200"
+2025-12-11 23:29:54,414 INFO: MSG:3025,16777216,3,"Title #00017.m2ts has length of 205 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00017.m2ts","205","1200"
+2025-12-11 23:29:54,414 INFO: MSG:3025,16777216,3,"Title #00016.m2ts has length of 147 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00016.m2ts","147","1200"
+2025-12-11 23:29:54,414 INFO: MSG:3025,16777216,3,"Title #00015.m2ts has length of 86 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00015.m2ts","86","1200"
+2025-12-11 23:29:54,414 INFO: MSG:3025,16777216,3,"Title #00013.m2ts has length of 215 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00013.m2ts","215","1200"
+2025-12-11 23:29:54,414 INFO: MSG:3025,16777216,3,"Title #00011.m2ts has length of 403 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00011.m2ts","403","1200"
+2025-12-11 23:29:54,414 INFO: MSG:3025,16777216,3,"Title #00010.m2ts has length of 417 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00010.m2ts","417","1200"
+2025-12-11 23:29:54,414 INFO: MSG:3025,16777216,3,"Title #00022.m2ts has length of 233 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00022.m2ts","233","1200"
+2025-12-11 23:29:54,414 INFO: MSG:3025,16777216,3,"Title #00009.m2ts has length of 342 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00009.m2ts","342","1200"
+2025-12-11 23:29:54,414 INFO: MSG:3025,0,3,"Title #00008.m2ts has length of 194 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00008.m2ts","194","1200"
+2025-12-11 23:29:54,414 INFO: PRGV:61117,16570,65536
+2025-12-11 23:29:54,414 INFO: PRGV:61117,17941,65536
+2025-12-11 23:29:54,915 INFO: MSG:3307,16777216,2,"File 00007.m2ts was added as title #6","File %1 was added as title #%2","00007.m2ts","6"
+2025-12-11 23:29:54,915 INFO: MSG:3025,16777216,3,"Title #00004.m2ts has length of 128 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00004.m2ts","128","1200"
+2025-12-11 23:29:54,915 INFO: MSG:3025,16777216,3,"Title #00001.m2ts has length of 264 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00001.m2ts","264","1200"
+2025-12-11 23:29:54,915 INFO: MSG:3025,16777216,3,"Title #00020.m2ts has length of 216 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00020.m2ts","216","1200"
+2025-12-11 23:29:54,915 INFO: MSG:3025,16777216,3,"Title #00901.m2ts has length of 15 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00901.m2ts","15","1200"
+2025-12-11 23:29:54,915 INFO: MSG:3025,0,3,"Title #00900.m2ts has length of 15 seconds which is less than minimum title length of 1200 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00900.m2ts","15","1200"
+2025-12-11 23:29:54,916 INFO: PRGV:65536,17941,65536
+2025-12-11 23:29:54,916 INFO: PRGV:65536,18688,65536
+2025-12-11 23:29:54,916 INFO: MSG:5011,0,0,"Operation successfully completed","Operation successfully completed"
+2025-12-11 23:29:54,920 INFO: Use: makemkvcon [switches] Command [Parameters]
+2025-12-11 23:29:54,920 INFO: 
+2025-12-11 23:29:54,921 INFO: Commands:
+2025-12-11 23:29:54,921 INFO:   info <source>
+2025-12-11 23:29:54,921 INFO:       prints info about disc
+2025-12-11 23:29:54,921 INFO:   mkv <source> <title id> <destination folder>
+2025-12-11 23:29:54,921 INFO:       saves a single title to mkv file
+2025-12-11 23:29:54,921 INFO:   backup <source> <destination folder>
+2025-12-11 23:29:54,921 INFO:       backs up disc to a hard drive
+2025-12-11 23:29:54,921 INFO:   f <args>
+2025-12-11 23:29:54,921 INFO:       run universal firmware tool
+2025-12-11 23:29:54,921 INFO:   reg <key string or file name>
+2025-12-11 23:29:54,922 INFO:       enter registration key into program
+2025-12-11 23:29:54,922 INFO: 
+2025-12-11 23:29:54,922 INFO: Source specification:
+2025-12-11 23:29:54,922 INFO:   iso:<FileName>    - open iso image <FileName>
+2025-12-11 23:29:54,922 INFO:   file:<FolderName> - open files in folder <FolderName>
+2025-12-11 23:29:54,922 INFO:   disc:<DiscId>     - open disc with id <DiscId> (see list Command)
+2025-12-11 23:29:54,922 INFO:   dev:<DeviceName>  - open disc with OS device name <DeviceName>
+2025-12-11 23:29:54,922 INFO: 
+2025-12-11 23:29:54,922 INFO: Switches:
+2025-12-11 23:29:54,922 INFO:   -r --robot        - turn on "robot" mode, see http://www.makemkv.com/developers
+2025-12-11 23:29:54,936 DEBUG: exited with code 1
+2025-12-11 23:30:02,931 INFO: 192.168.0.118 - - [11/Dec/2025 23:30:02] "GET /settings HTTP/1.1" 200 -
