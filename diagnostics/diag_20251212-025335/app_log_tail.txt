@@ -1,0 +1,107 @@
+2025-12-12 02:48:10,064 INFO: Excluded device basenames: []
+2025-12-12 02:48:10,064 INFO: Excluded mountpoints: <none>
+2025-12-12 02:48:10,064 INFO: Starting continuous scanner. search_path=<auto-detect> output=/mnt/output interval=30.0s
+2025-12-12 02:48:10,068 INFO: WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5959
+ * Running on http://172.18.0.2:5959
+2025-12-12 02:48:10,069 INFO: Press CTRL+C to quit
+2025-12-12 02:48:10,070 INFO: Candidate mountpoints: ['/var/lib/autoencoder/state', '/mnt/usb_staging', '/mnt/smb_staging', '/mnt/bluray', '/mnt/ripped', '/mnt/output', '/mnt/input', '/mnt/dvd', '/mnt/usb']
+2025-12-12 02:48:10,074 INFO: Scanning directories: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-12 02:48:10,075 DEBUG: Scan root: /mnt/input ismount=True exists=True sample=[]
+2025-12-12 02:48:10,075 DEBUG: Scan root: /mnt/dvd ismount=True exists=True sample=[]
+2025-12-12 02:48:10,075 DEBUG: Scan root: /mnt/bluray ismount=True exists=True sample=[]
+2025-12-12 02:48:10,075 DEBUG: Scan root: /mnt/usb ismount=True exists=True sample=[]
+2025-12-12 02:48:10,075 DEBUG: Scan root: /mnt/smb_staging ismount=True exists=True sample=[]
+2025-12-12 02:48:10,076 DEBUG: Scan root: /var/lib/autoencoder/state ismount=True exists=True sample=['smb_allowlist.json', 'diagnostics-repo', 'git', 'config.json', 'usb_seen.json']
+2025-12-12 02:48:10,076 DEBUG: Scan root: /mnt/usb_staging ismount=True exists=True sample=['.gitkeep']
+2025-12-12 02:48:10,076 DEBUG: Scan root: /mnt/ripped ismount=True exists=True sample=['Cop Out_t02.mkv']
+2025-12-12 02:48:10,076 INFO: Scanner will walk these roots: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-12 02:48:10,076 INFO: Found 0 candidate video files under /mnt/input
+2025-12-12 02:48:10,076 INFO: Found 0 candidate video files under /mnt/dvd
+2025-12-12 02:48:10,077 INFO: Found 0 candidate video files under /mnt/bluray
+2025-12-12 02:48:10,077 INFO: Found 0 candidate video files under /mnt/usb
+2025-12-12 02:48:10,077 INFO: Found 0 candidate video files under /mnt/smb_staging
+2025-12-12 02:48:10,080 INFO: Found 0 candidate video files under /var/lib/autoencoder/state
+2025-12-12 02:48:10,080 INFO: Found 0 candidate video files under /mnt/usb_staging
+2025-12-12 02:48:10,080 INFO: Found 0 candidate video files under /mnt/ripped
+2025-12-12 02:48:10,080 INFO: Total candidate video files found: 0
+2025-12-12 02:48:10,082 DEBUG: No candidate video files found on this pass.
+2025-12-12 02:48:10,185 INFO: Candidate mountpoints: ['/var/lib/autoencoder/state', '/mnt/usb_staging', '/mnt/smb_staging', '/mnt/bluray', '/mnt/ripped', '/mnt/output', '/mnt/input', '/mnt/dvd', '/mnt/usb']
+2025-12-12 02:48:10,188 INFO: Scanning directories: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-12 02:48:10,189 DEBUG: Scan root: /mnt/input ismount=True exists=True sample=[]
+2025-12-12 02:48:10,189 DEBUG: Scan root: /mnt/dvd ismount=True exists=True sample=[]
+2025-12-12 02:48:10,189 DEBUG: Scan root: /mnt/bluray ismount=True exists=True sample=[]
+2025-12-12 02:48:10,189 DEBUG: Scan root: /mnt/usb ismount=True exists=True sample=[]
+2025-12-12 02:48:10,189 DEBUG: Scan root: /mnt/smb_staging ismount=True exists=True sample=[]
+2025-12-12 02:48:10,192 DEBUG: Scan root: /var/lib/autoencoder/state ismount=True exists=True sample=['smb_allowlist.json', 'diagnostics-repo', 'git', 'config.json', 'usb_seen.json']
+2025-12-12 02:48:10,192 DEBUG: Scan root: /mnt/usb_staging ismount=True exists=True sample=['.gitkeep']
+2025-12-12 02:48:10,192 DEBUG: Scan root: /mnt/ripped ismount=True exists=True sample=['Cop Out_t02.mkv']
+2025-12-12 02:48:10,192 INFO: Scanner will walk these roots: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-12 02:48:10,193 INFO: Found 0 candidate video files under /mnt/input
+2025-12-12 02:48:10,193 INFO: Found 0 candidate video files under /mnt/dvd
+2025-12-12 02:48:10,193 INFO: Found 0 candidate video files under /mnt/bluray
+2025-12-12 02:48:10,194 INFO: Found 0 candidate video files under /mnt/usb
+2025-12-12 02:48:10,194 INFO: Found 0 candidate video files under /mnt/smb_staging
+2025-12-12 02:48:10,198 INFO: Found 0 candidate video files under /var/lib/autoencoder/state
+2025-12-12 02:48:10,198 INFO: Found 0 candidate video files under /mnt/usb_staging
+2025-12-12 02:48:10,198 INFO: Found 0 candidate video files under /mnt/ripped
+2025-12-12 02:48:10,199 INFO: Total candidate video files found: 0
+2025-12-12 02:48:10,200 DEBUG: No candidate video files found on this pass.
+2025-12-12 02:48:13,891 INFO: 192.168.0.118 - - [12/Dec/2025 02:48:13] "GET /assets/linux-video-encoder-icon.svg HTTP/1.1" 200 -
+2025-12-12 02:48:19,037 INFO: 192.168.0.118 - - [12/Dec/2025 02:48:19] "GET /settings HTTP/1.1" 200 -
+2025-12-12 02:48:40,203 INFO: Candidate mountpoints: ['/var/lib/autoencoder/state', '/mnt/usb_staging', '/mnt/smb_staging', '/mnt/bluray', '/mnt/ripped', '/mnt/output', '/mnt/input', '/mnt/dvd', '/mnt/usb']
+2025-12-12 02:48:40,208 INFO: Scanning directories: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-12 02:48:40,208 DEBUG: Scan root: /mnt/input ismount=True exists=True sample=[]
+2025-12-12 02:48:40,209 DEBUG: Scan root: /mnt/dvd ismount=True exists=True sample=[]
+2025-12-12 02:48:40,209 DEBUG: Scan root: /mnt/bluray ismount=True exists=True sample=[]
+2025-12-12 02:48:40,209 DEBUG: Scan root: /mnt/usb ismount=True exists=True sample=[]
+2025-12-12 02:48:40,209 DEBUG: Scan root: /mnt/smb_staging ismount=True exists=True sample=[]
+2025-12-12 02:48:40,209 DEBUG: Scan root: /var/lib/autoencoder/state ismount=True exists=True sample=['smb_allowlist.json', 'diagnostics-repo', 'git', 'config.json', 'usb_seen.json']
+2025-12-12 02:48:40,209 DEBUG: Scan root: /mnt/usb_staging ismount=True exists=True sample=['.gitkeep']
+2025-12-12 02:48:40,210 DEBUG: Scan root: /mnt/ripped ismount=True exists=True sample=['Cop Out_t02.mkv']
+2025-12-12 02:48:40,210 INFO: Scanner will walk these roots: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-12 02:48:40,210 INFO: Found 0 candidate video files under /mnt/input
+2025-12-12 02:48:40,210 INFO: Found 0 candidate video files under /mnt/dvd
+2025-12-12 02:48:40,210 INFO: Found 0 candidate video files under /mnt/bluray
+2025-12-12 02:48:40,211 INFO: Found 0 candidate video files under /mnt/usb
+2025-12-12 02:48:40,211 INFO: Found 0 candidate video files under /mnt/smb_staging
+2025-12-12 02:48:40,214 INFO: Found 0 candidate video files under /var/lib/autoencoder/state
+2025-12-12 02:48:40,214 INFO: Found 0 candidate video files under /mnt/usb_staging
+2025-12-12 02:48:40,215 DEBUG: Matched stable file: /mnt/ripped/Cop Out_t02.mkv
+2025-12-12 02:48:40,215 INFO: Found 1 candidate video files under /mnt/ripped
+2025-12-12 02:48:40,215 INFO: Total candidate video files found: 1
+2025-12-12 02:48:40,356 INFO: Selected profile=handbrake encoder=nvenc_h265 ext=.mkv out=/mnt/output/Cop Out_t02(13).mkv use_ffmpeg=False audio_mode=auto_dolby audio_kbps=128
+2025-12-12 02:48:40,418 INFO: Running HandBrakeCLI: HandBrakeCLI -i /mnt/ripped/Cop Out_t02.mkv -o /mnt/output/Cop Out_t02(13).mkv -e nvenc_h265 --width 1920 --height 1080 -q 28 -E eac3 -6 5point1 -B 128 --all-subtitles
+2025-12-12 02:48:40,457 INFO: [02:48:40] Compile-time hardening features are enabled
+2025-12-12 02:48:40,458 INFO: [02:48:40] nvenc: version 12.1 is available
+2025-12-12 02:48:40,458 INFO: [02:48:40] nvdec: is not compiled into this build
+2025-12-12 02:48:40,572 INFO: [02:48:40] CUDA Version: 6.1
+2025-12-12 02:48:40,573 INFO: [02:48:40] qsv: not available on this system
+2025-12-12 02:48:40,597 INFO: [02:48:40] hb_init: starting libhb thread
+2025-12-12 02:48:40,597 INFO: [02:48:40] thread 7d9ee140b6c0 started ("libhb")
+2025-12-12 02:48:40,597 INFO: HandBrake 1.7.2 (2024040100) - Linux x86_64 - https://handbrake.fr
+2025-12-12 02:48:40,597 INFO: 4 CPUs detected
+2025-12-12 02:48:40,598 INFO: Opening /mnt/ripped/Cop Out_t02.mkv...
+2025-12-12 02:48:40,598 INFO: [02:48:40] CPU: Intel(R) Core(TM) i7-5820K CPU @ 3.30GHz
+2025-12-12 02:48:40,598 INFO: [02:48:40]  - Intel microarchitecture Haswell
+2025-12-12 02:48:40,598 INFO: [02:48:40]  - logical processor count: 4
+2025-12-12 02:48:40,598 INFO: [02:48:40] Intel Quick Sync Video support: no
+2025-12-12 02:48:40,598 INFO: [02:48:40] hb_scan: path=/mnt/ripped/Cop Out_t02.mkv, title_index=1
+2025-12-12 02:48:40,604 INFO: Input #0, dts, from '/mnt/ripped/Cop Out_t02.mkv':
+2025-12-12 02:48:40,604 INFO: Duration: N/A, start: 0.000000, bitrate: N/A
+2025-12-12 02:48:40,605 INFO: Stream #0:0: Audio: dts (DTS-HD MA), 48000 Hz, 5.1(side), s16p
+2025-12-12 02:48:40,605 INFO: [02:48:40] hb_stream_open: open /mnt/ripped/Cop Out_t02.mkv failed
+2025-12-12 02:48:40,605 INFO: [02:48:40] scan: unrecognized file type
+2025-12-12 02:48:40,647 INFO: [02:48:40] libhb: scan thread found 0 valid title(s)
+2025-12-12 02:48:40,798 INFO: No title found.
+2025-12-12 02:48:40,800 INFO: HandBrake has exited.
+2025-12-12 02:48:40,828 DEBUG: exited with code 2
+2025-12-12 02:48:40,828 WARNING: Encoding failed for /mnt/ripped/Cop Out_t02.mkv -> /mnt/output/Cop Out_t02(13).mkv; attempting Software Encoder fallback
+2025-12-12 02:48:41,359 INFO: 192.168.0.118 - - [12/Dec/2025 02:48:41] "POST /api/config HTTP/1.1" 200 -
+2025-12-12 02:48:41,367 INFO: 192.168.0.118 - - [12/Dec/2025 02:48:41] "POST /api/events HTTP/1.1" 200 -
+2025-12-12 02:49:04,429 INFO: 192.168.0.118 - - [12/Dec/2025 02:49:04] "POST /api/makemkv/rip HTTP/1.1" 200 -
+2025-12-12 02:50:05,995 INFO: 192.168.0.118 - - [12/Dec/2025 02:50:05] "GET /settings HTTP/1.1" 200 -
+2025-12-12 02:50:09,922 INFO: 192.168.0.118 - - [12/Dec/2025 02:50:09] "POST /api/diagnostics/push HTTP/1.1" 200 -
+2025-12-12 02:53:11,996 INFO: 192.168.0.118 - - [12/Dec/2025 02:53:11] "POST /api/stop HTTP/1.1" 200 -
+2025-12-12 02:53:33,773 INFO: 192.168.0.118 - - [12/Dec/2025 02:53:33] "GET /settings HTTP/1.1" 200 -
