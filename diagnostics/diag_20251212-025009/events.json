@@ -1,0 +1,32 @@
+[
+  {
+    "message": "USB mount ready.",
+    "level": "info",
+    "ts": 1765507690.0751746
+  },
+  {
+    "message": "Detected new file: /mnt/ripped/Cop Out_t02.mkv",
+    "level": "info",
+    "ts": 1765507720.2154324
+  },
+  {
+    "message": "Encoding started: /mnt/ripped/Cop Out_t02.mkv",
+    "level": "info",
+    "ts": 1765507720.4188118
+  },
+  {
+    "message": "HandBrake failed; falling back to ffmpeg",
+    "level": "info",
+    "ts": 1765507720.8285432
+  },
+  {
+    "message": "MakeMKV settings saved",
+    "level": "info",
+    "ts": 1765507721.3673167
+  },
+  {
+    "message": "Manual MakeMKV rip requested.",
+    "level": "info",
+    "ts": 1765507744.4298248
+  }
+]
