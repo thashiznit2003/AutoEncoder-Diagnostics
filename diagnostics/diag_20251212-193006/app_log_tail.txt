@@ -1,0 +1,35 @@
+2025-12-12 19:28:19,717 INFO: Excluded device basenames: []
+2025-12-12 19:28:19,717 INFO: Excluded mountpoints: <none>
+2025-12-12 19:28:19,717 INFO: Starting continuous scanner. search_path=<auto-detect> output=/mnt/output interval=30.0s
+2025-12-12 19:28:19,723 INFO: WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5959
+ * Running on http://172.18.0.2:5959
+2025-12-12 19:28:19,723 INFO: Press CTRL+C to quit
+2025-12-12 19:28:19,724 INFO: Candidate mountpoints: ['/var/lib/autoencoder/state', '/mnt/usb_staging', '/mnt/smb_staging', '/mnt/ripped', '/mnt/output', '/mnt/bluray', '/mnt/input', '/mnt/dvd', '/mnt/usb']
+2025-12-12 19:28:19,727 INFO: Scanning directories: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-12 19:28:19,728 DEBUG: Scan root: /mnt/input ismount=True exists=True sample=[]
+2025-12-12 19:28:19,728 DEBUG: Scan root: /mnt/dvd ismount=True exists=True sample=[]
+2025-12-12 19:28:19,728 DEBUG: Scan root: /mnt/bluray ismount=True exists=True sample=[]
+2025-12-12 19:28:19,728 DEBUG: Scan root: /mnt/usb ismount=True exists=True sample=[]
+2025-12-12 19:28:19,728 DEBUG: Scan root: /mnt/smb_staging ismount=True exists=True sample=[]
+2025-12-12 19:28:19,728 DEBUG: Scan root: /var/lib/autoencoder/state ismount=True exists=True sample=['smb_allowlist.json', 'diagnostics-repo', 'git', 'config.json', 'usb_seen.json']
+2025-12-12 19:28:19,729 DEBUG: Scan root: /mnt/usb_staging ismount=True exists=True sample=['.gitkeep']
+2025-12-12 19:28:19,729 DEBUG: Scan root: /mnt/ripped ismount=True exists=True sample=[]
+2025-12-12 19:28:19,729 INFO: Scanner will walk these roots: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-12 19:28:19,729 INFO: Found 0 candidate video files under /mnt/input
+2025-12-12 19:28:19,729 INFO: Found 0 candidate video files under /mnt/dvd
+2025-12-12 19:28:19,729 INFO: Found 0 candidate video files under /mnt/bluray
+2025-12-12 19:28:19,729 INFO: Found 0 candidate video files under /mnt/usb
+2025-12-12 19:28:19,730 INFO: Found 0 candidate video files under /mnt/smb_staging
+2025-12-12 19:28:19,732 INFO: Found 0 candidate video files under /var/lib/autoencoder/state
+2025-12-12 19:28:19,733 INFO: Found 0 candidate video files under /mnt/usb_staging
+2025-12-12 19:28:19,733 INFO: Found 0 candidate video files under /mnt/ripped
+2025-12-12 19:28:19,733 INFO: Total candidate video files found: 0
+2025-12-12 19:28:19,733 DEBUG: No candidate video files found on this pass.
+2025-12-12 19:28:42,202 INFO: 192.168.0.118 - - [12/Dec/2025 19:28:42] "GET /settings HTTP/1.1" 200 -
+2025-12-12 19:28:46,318 INFO: 192.168.0.118 - - [12/Dec/2025 19:28:46] "GET /settings HTTP/1.1" 200 -
+2025-12-12 19:28:50,774 INFO: 192.168.0.118 - - [12/Dec/2025 19:28:50] "GET /settings HTTP/1.1" 200 -
+2025-12-12 19:28:59,868 INFO: 192.168.0.118 - - [12/Dec/2025 19:28:59] "GET /settings HTTP/1.1" 200 -
+2025-12-12 19:29:01,805 INFO: 192.168.0.118 - - [12/Dec/2025 19:29:01] "POST /api/diagnostics/push HTTP/1.1" 200 -
+2025-12-12 19:30:04,713 INFO: 192.168.0.118 - - [12/Dec/2025 19:30:04] "GET /settings HTTP/1.1" 200 -
