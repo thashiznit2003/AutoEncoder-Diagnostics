@@ -1,0 +1,48 @@
+$ ls -l /dev/sr* /dev/sg*
+crw-rw---- 1 root disk  21, 0 Dec 12 21:13 /dev/sg0
+crw-rw---- 1 root cdrom 21, 1 Dec 12 21:13 /dev/sg1
+brw-rw---- 1 root cdrom 11, 0 Dec 12 21:13 /dev/sr0
+
+$ sg_map -i
+/dev/sg0  /dev/sda  QEMU      QEMU HARDDISK     2.5+
+/dev/sg1  /dev/sr0  HL-DT-ST  BD-RE  WH14NS40   1.03
+
+$ lsblk -nP
+NAME="sda" TYPE="disk" RM="0" MOUNTPOINT="" FSTYPE="" TRAN=""
+NAME="sda1" TYPE="part" RM="0" MOUNTPOINT="" FSTYPE="" TRAN=""
+NAME="sda2" TYPE="part" RM="0" MOUNTPOINT="/usr/lib/x86_64-linux-gnu/nvidia/xorg/nvidia_drv.so" FSTYPE="" TRAN=""
+NAME="sr0" TYPE="rom" RM="1" MOUNTPOINT="" FSTYPE="" TRAN="sata"
+
+$ udevadm info /dev/sr0
+P: /devices/pci0000:00/0000:00:1c.0/0000:01:00.0/ata10/host10/target10:0:0/10:0:0:0/block/sr0
+M: sr0
+R: 0
+U: block
+T: disk
+D: b 11:0
+N: sr0
+L: 0
+Q: 11
+E: DEVPATH=/devices/pci0000:00/0000:00:1c.0/0000:01:00.0/ata10/host10/target10:0:0/10:0:0:0/block/sr0
+E: DEVNAME=/dev/sr0
+E: DEVTYPE=disk
+E: DISKSEQ=11
+E: MAJOR=11
+E: MINOR=0
+E: SUBSYSTEM=block
+
+$ sg_inq /dev/sg1
+standard INQUIRY:
+  PQual=0  PDT=5  RMB=1  LU_CONG=0  hot_pluggable=0  version=0x05  [SPC-3]
+  [AERC=0]  [TrmTsk=0]  NormACA=1  HiSUP=1  Resp_data_format=2
+  SCCS=0  ACC=0  TPGS=0  3PC=0  Protect=0  [BQue=0]
+  EncServ=0  MultiP=0  [MChngr=0]  [ACKREQQ=0]  Addr16=0
+  [RelAdr=0]  WBus16=0  Sync=0  [Linked=0]  [TranDis=0]  CmdQue=0
+  [SPI: Clocking=0x0  QAS=0  IUS=0]
+    length=96 (0x60)   Peripheral device type: cd/dvd
+ Vendor identification: HL-DT-ST
+ Product identification: BD-RE  WH14NS40 
+ Product revision level: 1.03
+
+$ makemkvcon info disc:0
+(timeout)
