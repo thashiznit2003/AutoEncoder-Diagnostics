@@ -1,0 +1,1319 @@
+2025-12-12 20:39:36 api/status 0.000s 
+2025-12-12 20:39:36 api/logs 0.000s lines=29
+2025-12-12 20:39:36 api/events 0.000s events=1
+2025-12-12 20:39:36 api/metrics 0.016s 
+2025-12-12 20:39:36 api/status 0.000s 
+2025-12-12 20:39:38 api/status 0.000s 
+2025-12-12 20:39:38 api/status 0.000s 
+2025-12-12 20:39:38 api/logs 0.000s lines=29
+2025-12-12 20:39:38 api/events 0.000s events=1
+2025-12-12 20:39:38 api/metrics 0.019s 
+2025-12-12 20:39:39 api/makemkv/info 2.867s 
+2025-12-12 20:39:39 api/logs 0.000s lines=50
+2025-12-12 20:39:39 api/events 0.000s events=1
+2025-12-12 20:39:39 api/metrics 0.016s 
+2025-12-12 20:39:40 api/status 0.000s 
+2025-12-12 20:39:40 api/logs 0.000s lines=50
+2025-12-12 20:39:40 api/events 0.000s events=1
+2025-12-12 20:39:40 api/metrics 0.019s 
+2025-12-12 20:39:40 api/status 0.000s 
+2025-12-12 20:39:40 api/logs 0.000s lines=50
+2025-12-12 20:39:40 api/events 0.000s events=1
+2025-12-12 20:39:40 api/status 0.001s 
+2025-12-12 20:39:40 api/logs 0.000s lines=50
+2025-12-12 20:39:40 api/events 0.000s events=1
+2025-12-12 20:39:40 api/metrics 0.024s 
+2025-12-12 20:39:40 api/metrics 0.019s 
+2025-12-12 20:39:42 api/status 0.000s 
+2025-12-12 20:39:42 api/logs 0.000s lines=50
+2025-12-12 20:39:42 api/events 0.000s events=1
+2025-12-12 20:39:42 api/metrics 0.018s 
+2025-12-12 20:39:42 api/status 0.000s 
+2025-12-12 20:39:42 api/logs 0.000s lines=50
+2025-12-12 20:39:42 api/events 0.000s events=1
+2025-12-12 20:39:42 api/metrics 0.018s 
+2025-12-12 20:39:44 api/status 0.000s 
+2025-12-12 20:39:44 api/logs 0.000s lines=50
+2025-12-12 20:39:44 api/events 0.000s events=1
+2025-12-12 20:39:44 api/metrics 0.017s 
+2025-12-12 20:39:44 api/status 0.000s 
+2025-12-12 20:39:44 api/logs 0.000s lines=50
+2025-12-12 20:39:44 api/events 0.000s events=1
+2025-12-12 20:39:44 api/metrics 0.016s 
+2025-12-12 20:39:45 api/status 0.000s 
+2025-12-12 20:39:45 api/logs 0.000s lines=50
+2025-12-12 20:39:45 api/events 0.000s events=1
+2025-12-12 20:39:45 api/metrics 0.017s 
+2025-12-12 20:39:46 api/makemkv/info 6.729s 
+2025-12-12 20:39:46 api/status 0.000s 
+2025-12-12 20:39:46 api/logs 0.000s lines=50
+2025-12-12 20:39:46 api/events 0.000s events=1
+2025-12-12 20:39:46 api/metrics 0.020s 
+2025-12-12 20:39:47 api/status 0.000s 
+2025-12-12 20:39:47 api/logs 0.000s lines=50
+2025-12-12 20:39:47 api/events 0.000s events=1
+2025-12-12 20:39:47 api/metrics 0.019s 
+2025-12-12 20:39:48 api/status 0.000s 
+2025-12-12 20:39:48 api/logs 0.000s lines=50
+2025-12-12 20:39:48 api/events 0.000s events=1
+2025-12-12 20:39:48 api/metrics 0.018s 
+2025-12-12 20:39:49 api/status 0.000s 
+2025-12-12 20:39:49 api/logs 0.000s lines=50
+2025-12-12 20:39:49 api/events 0.000s events=1
+2025-12-12 20:39:49 api/metrics 0.019s 
+2025-12-12 20:39:50 api/status 0.000s 
+2025-12-12 20:39:50 api/logs 0.000s lines=50
+2025-12-12 20:39:50 api/events 0.000s events=1
+2025-12-12 20:39:50 api/metrics 0.019s 
+2025-12-12 20:39:51 api/status 0.000s 
+2025-12-12 20:39:51 api/logs 0.000s lines=50
+2025-12-12 20:39:51 api/events 0.000s events=1
+2025-12-12 20:39:51 api/metrics 0.019s 
+2025-12-12 20:39:52 api/status 0.000s 
+2025-12-12 20:39:52 api/logs 0.000s lines=50
+2025-12-12 20:39:52 api/events 0.000s events=1
+2025-12-12 20:39:52 api/metrics 0.020s 
+2025-12-12 20:39:53 api/status 0.000s 
+2025-12-12 20:39:53 api/logs 0.000s lines=50
+2025-12-12 20:39:53 api/events 0.000s events=1
+2025-12-12 20:39:53 api/metrics 0.019s 
+2025-12-12 20:39:54 api/status 0.000s 
+2025-12-12 20:39:54 api/logs 0.000s lines=50
+2025-12-12 20:39:54 api/events 0.000s events=1
+2025-12-12 20:39:54 api/metrics 0.019s 
+2025-12-12 20:39:55 api/status 0.000s 
+2025-12-12 20:39:55 api/logs 0.000s lines=50
+2025-12-12 20:39:55 api/events 0.000s events=1
+2025-12-12 20:39:55 api/metrics 0.019s 
+2025-12-12 20:39:56 api/status 0.000s 
+2025-12-12 20:39:56 api/logs 0.000s lines=50
+2025-12-12 20:39:56 api/events 0.000s events=1
+2025-12-12 20:39:56 api/metrics 0.020s 
+2025-12-12 20:39:57 api/status 0.000s 
+2025-12-12 20:39:57 api/logs 0.000s lines=50
+2025-12-12 20:39:57 api/events 0.000s events=1
+2025-12-12 20:39:57 api/metrics 0.019s 
+2025-12-12 20:39:58 api/status 0.000s 
+2025-12-12 20:39:58 api/logs 0.000s lines=50
+2025-12-12 20:39:58 api/events 0.000s events=1
+2025-12-12 20:39:58 api/metrics 0.020s 
+2025-12-12 20:39:59 api/status 0.000s 
+2025-12-12 20:39:59 api/logs 0.000s lines=50
+2025-12-12 20:39:59 api/events 0.000s events=1
+2025-12-12 20:39:59 api/metrics 0.019s 
+2025-12-12 20:40:00 api/status 0.000s 
+2025-12-12 20:40:00 api/logs 0.000s lines=50
+2025-12-12 20:40:00 api/events 0.000s events=1
+2025-12-12 20:40:00 api/metrics 0.019s 
+2025-12-12 20:40:01 api/status 0.000s 
+2025-12-12 20:40:01 api/logs 0.000s lines=50
+2025-12-12 20:40:01 api/events 0.000s events=1
+2025-12-12 20:40:01 api/metrics 0.019s 
+2025-12-12 20:40:02 api/status 0.000s 
+2025-12-12 20:40:02 api/logs 0.000s lines=50
+2025-12-12 20:40:02 api/events 0.000s events=1
+2025-12-12 20:40:02 api/metrics 0.019s 
+2025-12-12 20:40:03 api/status 0.000s 
+2025-12-12 20:40:03 api/logs 0.000s lines=50
+2025-12-12 20:40:03 api/events 0.000s events=1
+2025-12-12 20:40:03 api/metrics 0.017s 
+2025-12-12 20:40:04 api/status 0.000s 
+2025-12-12 20:40:04 api/logs 0.000s lines=50
+2025-12-12 20:40:04 api/events 0.000s events=1
+2025-12-12 20:40:04 api/metrics 0.019s 
+2025-12-12 20:40:05 api/status 0.000s 
+2025-12-12 20:40:05 api/logs 0.000s lines=50
+2025-12-12 20:40:05 api/events 0.000s events=1
+2025-12-12 20:40:05 api/metrics 0.019s 
+2025-12-12 20:40:06 api/status 0.000s 
+2025-12-12 20:40:06 api/logs 0.000s lines=50
+2025-12-12 20:40:06 api/events 0.000s events=1
+2025-12-12 20:40:06 api/metrics 0.019s 
+2025-12-12 20:40:07 api/status 0.000s 
+2025-12-12 20:40:07 api/logs 0.000s lines=50
+2025-12-12 20:40:07 api/events 0.000s events=1
+2025-12-12 20:40:07 api/metrics 0.019s 
+2025-12-12 20:40:08 api/status 0.000s 
+2025-12-12 20:40:08 api/logs 0.000s lines=50
+2025-12-12 20:40:08 api/events 0.000s events=1
+2025-12-12 20:40:08 api/metrics 0.020s 
+2025-12-12 20:40:09 api/status 0.000s 
+2025-12-12 20:40:09 api/logs 0.000s lines=50
+2025-12-12 20:40:09 api/events 0.000s events=1
+2025-12-12 20:40:09 api/metrics 0.019s 
+2025-12-12 20:40:10 api/status 0.000s 
+2025-12-12 20:40:10 api/logs 0.000s lines=50
+2025-12-12 20:40:10 api/events 0.000s events=1
+2025-12-12 20:40:10 api/metrics 0.019s 
+2025-12-12 20:40:11 api/status 0.000s 
+2025-12-12 20:40:11 api/logs 0.000s lines=50
+2025-12-12 20:40:11 api/events 0.000s events=1
+2025-12-12 20:40:11 api/metrics 0.019s 
+2025-12-12 20:40:12 api/status 0.000s 
+2025-12-12 20:40:12 api/logs 0.000s lines=50
+2025-12-12 20:40:12 api/events 0.000s events=1
+2025-12-12 20:40:12 api/metrics 0.017s 
+2025-12-12 20:40:13 api/status 0.000s 
+2025-12-12 20:40:13 api/logs 0.000s lines=50
+2025-12-12 20:40:13 api/events 0.000s events=1
+2025-12-12 20:40:13 api/metrics 0.019s 
+2025-12-12 20:40:14 api/status 0.000s 
+2025-12-12 20:40:14 api/logs 0.000s lines=50
+2025-12-12 20:40:14 api/events 0.000s events=1
+2025-12-12 20:40:14 api/metrics 0.018s 
+2025-12-12 20:40:15 api/status 0.000s 
+2025-12-12 20:40:15 api/logs 0.000s lines=50
+2025-12-12 20:40:15 api/events 0.000s events=1
+2025-12-12 20:40:15 api/metrics 0.019s 
+2025-12-12 20:40:16 api/status 0.000s 
+2025-12-12 20:40:16 api/logs 0.000s lines=50
+2025-12-12 20:40:16 api/events 0.000s events=1
+2025-12-12 20:40:16 api/metrics 0.018s 
+2025-12-12 20:40:17 api/status 0.000s 
+2025-12-12 20:40:17 api/logs 0.000s lines=71
+2025-12-12 20:40:17 api/events 0.000s events=1
+2025-12-12 20:40:17 api/metrics 0.016s 
+2025-12-12 20:40:18 api/status 0.000s 
+2025-12-12 20:40:18 api/logs 0.000s lines=71
+2025-12-12 20:40:18 api/events 0.000s events=1
+2025-12-12 20:40:18 api/metrics 0.018s 
+2025-12-12 20:40:19 api/status 0.000s 
+2025-12-12 20:40:19 api/logs 0.000s lines=71
+2025-12-12 20:40:19 api/events 0.000s events=1
+2025-12-12 20:40:19 api/metrics 0.020s 
+2025-12-12 20:40:20 api/status 0.000s 
+2025-12-12 20:40:20 api/logs 0.000s lines=71
+2025-12-12 20:40:20 api/events 0.000s events=1
+2025-12-12 20:40:20 api/metrics 0.019s 
+2025-12-12 20:40:21 api/status 0.000s 
+2025-12-12 20:40:21 api/logs 0.000s lines=71
+2025-12-12 20:40:21 api/events 0.000s events=1
+2025-12-12 20:40:21 api/metrics 0.019s 
+2025-12-12 20:40:22 api/status 0.000s 
+2025-12-12 20:40:22 api/logs 0.000s lines=71
+2025-12-12 20:40:22 api/events 0.000s events=1
+2025-12-12 20:40:22 api/metrics 0.018s 
+2025-12-12 20:40:23 api/status 0.000s 
+2025-12-12 20:40:23 api/logs 0.000s lines=71
+2025-12-12 20:40:23 api/events 0.000s events=1
+2025-12-12 20:40:23 api/metrics 0.019s 
+2025-12-12 20:40:24 api/status 0.000s 
+2025-12-12 20:40:24 api/logs 0.000s lines=71
+2025-12-12 20:40:24 api/events 0.000s events=1
+2025-12-12 20:40:24 api/metrics 0.019s 
+2025-12-12 20:40:25 api/status 0.000s 
+2025-12-12 20:40:25 api/logs 0.000s lines=71
+2025-12-12 20:40:25 api/events 0.000s events=1
+2025-12-12 20:40:25 api/metrics 0.019s 
+2025-12-12 20:40:26 api/status 0.000s 
+2025-12-12 20:40:26 api/logs 0.000s lines=71
+2025-12-12 20:40:26 api/events 0.000s events=1
+2025-12-12 20:40:26 api/metrics 0.019s 
+2025-12-12 20:40:27 api/status 0.000s 
+2025-12-12 20:40:27 api/logs 0.000s lines=71
+2025-12-12 20:40:27 api/events 0.000s events=1
+2025-12-12 20:40:27 api/metrics 0.019s 
+2025-12-12 20:40:28 api/status 0.000s 
+2025-12-12 20:40:28 api/logs 0.000s lines=71
+2025-12-12 20:40:28 api/events 0.000s events=1
+2025-12-12 20:40:28 api/metrics 0.019s 
+2025-12-12 20:40:29 api/status 0.000s 
+2025-12-12 20:40:29 api/logs 0.000s lines=71
+2025-12-12 20:40:29 api/events 0.000s events=1
+2025-12-12 20:40:29 api/metrics 0.019s 
+2025-12-12 20:40:30 api/status 0.000s 
+2025-12-12 20:40:30 api/logs 0.000s lines=71
+2025-12-12 20:40:30 api/events 0.000s events=1
+2025-12-12 20:40:30 api/metrics 0.019s 
+2025-12-12 20:40:31 api/status 0.000s 
+2025-12-12 20:40:31 api/logs 0.000s lines=71
+2025-12-12 20:40:31 api/events 0.000s events=1
+2025-12-12 20:40:31 api/metrics 0.019s 
+2025-12-12 20:40:32 api/status 0.000s 
+2025-12-12 20:40:32 api/logs 0.000s lines=71
+2025-12-12 20:40:32 api/events 0.000s events=1
+2025-12-12 20:40:32 api/metrics 0.017s 
+2025-12-12 20:40:33 api/status 0.000s 
+2025-12-12 20:40:33 api/logs 0.000s lines=71
+2025-12-12 20:40:33 api/events 0.000s events=1
+2025-12-12 20:40:33 api/metrics 0.019s 
+2025-12-12 20:40:34 api/status 0.000s 
+2025-12-12 20:40:34 api/logs 0.000s lines=71
+2025-12-12 20:40:34 api/events 0.000s events=1
+2025-12-12 20:40:34 api/metrics 0.019s 
+2025-12-12 20:40:35 api/status 0.000s 
+2025-12-12 20:40:35 api/logs 0.000s lines=71
+2025-12-12 20:40:35 api/events 0.000s events=1
+2025-12-12 20:40:35 api/metrics 0.019s 
+2025-12-12 20:40:36 api/status 0.000s 
+2025-12-12 20:40:36 api/logs 0.000s lines=71
+2025-12-12 20:40:36 api/events 0.000s events=1
+2025-12-12 20:40:36 api/metrics 0.019s 
+2025-12-12 20:40:37 api/status 0.000s 
+2025-12-12 20:40:37 api/logs 0.000s lines=71
+2025-12-12 20:40:37 api/events 0.000s events=1
+2025-12-12 20:40:37 api/metrics 0.020s 
+2025-12-12 20:40:38 api/status 0.000s 
+2025-12-12 20:40:38 api/logs 0.000s lines=71
+2025-12-12 20:40:38 api/events 0.000s events=1
+2025-12-12 20:40:38 api/metrics 0.019s 
+2025-12-12 20:40:39 api/status 0.000s 
+2025-12-12 20:40:39 api/logs 0.001s lines=71
+2025-12-12 20:40:39 api/events 0.000s events=1
+2025-12-12 20:40:39 api/metrics 0.019s 
+2025-12-12 20:40:40 api/status 0.000s 
+2025-12-12 20:40:40 api/logs 0.000s lines=71
+2025-12-12 20:40:40 api/events 0.000s events=1
+2025-12-12 20:40:40 api/metrics 0.020s 
+2025-12-12 20:40:41 api/status 0.000s 
+2025-12-12 20:40:41 api/logs 0.000s lines=71
+2025-12-12 20:40:41 api/events 0.000s events=1
+2025-12-12 20:40:41 api/metrics 0.019s 
+2025-12-12 20:40:42 api/status 0.000s 
+2025-12-12 20:40:42 api/logs 0.000s lines=71
+2025-12-12 20:40:42 api/events 0.000s events=1
+2025-12-12 20:40:43 api/status 0.000s 
+2025-12-12 20:40:43 api/logs 0.000s lines=71
+2025-12-12 20:40:43 api/metrics 0.018s 
+2025-12-12 20:40:43 api/events 0.000s events=1
+2025-12-12 20:40:43 api/metrics 0.017s 
+2025-12-12 20:40:44 api/status 0.000s 
+2025-12-12 20:40:44 api/logs 0.000s lines=71
+2025-12-12 20:40:45 api/events 0.000s events=1
+2025-12-12 20:40:45 api/status 0.000s 
+2025-12-12 20:40:45 api/logs 0.000s lines=71
+2025-12-12 20:40:45 api/events 0.000s events=1
+2025-12-12 20:40:45 api/metrics 0.021s 
+2025-12-12 20:40:45 api/metrics 0.019s 
+2025-12-12 20:40:46 api/status 0.000s 
+2025-12-12 20:40:47 api/status 0.000s 
+2025-12-12 20:40:47 api/logs 0.001s lines=71
+2025-12-12 20:40:47 api/logs 0.000s lines=71
+2025-12-12 20:40:47 api/events 0.000s events=1
+2025-12-12 20:40:47 api/events 0.000s events=1
+2025-12-12 20:40:47 api/metrics 0.020s 
+2025-12-12 20:40:47 api/metrics 0.023s 
+2025-12-12 20:40:49 api/status 0.000s 
+2025-12-12 20:40:49 api/status 0.000s 
+2025-12-12 20:40:49 api/logs 0.000s lines=92
+2025-12-12 20:40:49 api/logs 0.001s lines=92
+2025-12-12 20:40:49 api/events 0.000s events=1
+2025-12-12 20:40:49 api/events 0.000s events=1
+2025-12-12 20:40:49 api/metrics 0.020s 
+2025-12-12 20:40:49 api/metrics 0.019s 
+2025-12-12 20:40:51 api/status 0.000s 
+2025-12-12 20:40:51 api/logs 0.000s lines=92
+2025-12-12 20:40:51 api/events 0.000s events=1
+2025-12-12 20:40:51 api/status 0.000s 
+2025-12-12 20:40:51 api/metrics 0.019s 
+2025-12-12 20:40:51 api/logs 0.000s lines=92
+2025-12-12 20:40:51 api/events 0.000s events=1
+2025-12-12 20:40:51 api/metrics 0.019s 
+2025-12-12 20:40:53 api/status 0.000s 
+2025-12-12 20:40:53 api/logs 0.000s lines=92
+2025-12-12 20:40:53 api/events 0.000s events=1
+2025-12-12 20:40:53 api/metrics 0.017s 
+2025-12-12 20:40:53 api/status 0.000s 
+2025-12-12 20:40:53 api/logs 0.000s lines=92
+2025-12-12 20:40:53 api/events 0.000s events=1
+2025-12-12 20:40:53 api/metrics 0.018s 
+2025-12-12 20:40:55 api/status 0.000s 
+2025-12-12 20:40:55 api/logs 0.000s lines=92
+2025-12-12 20:40:55 api/events 0.000s events=1
+2025-12-12 20:40:55 api/metrics 0.019s 
+2025-12-12 20:40:55 api/status 0.000s 
+2025-12-12 20:40:55 api/logs 0.000s lines=92
+2025-12-12 20:40:55 api/events 0.000s events=1
+2025-12-12 20:40:55 api/metrics 0.019s 
+2025-12-12 20:40:57 api/status 0.000s 
+2025-12-12 20:40:57 api/logs 0.000s lines=92
+2025-12-12 20:40:57 api/events 0.000s events=1
+2025-12-12 20:40:57 api/metrics 0.019s 
+2025-12-12 20:40:57 api/status 0.000s 
+2025-12-12 20:40:57 api/logs 0.000s lines=92
+2025-12-12 20:40:57 api/events 0.000s events=1
+2025-12-12 20:40:57 api/metrics 0.019s 
+2025-12-12 20:40:59 api/status 0.000s 
+2025-12-12 20:40:59 api/logs 0.000s lines=92
+2025-12-12 20:40:59 api/events 0.000s events=1
+2025-12-12 20:40:59 api/metrics 0.019s 
+2025-12-12 20:40:59 api/status 0.000s 
+2025-12-12 20:40:59 api/logs 0.000s lines=92
+2025-12-12 20:40:59 api/events 0.000s events=1
+2025-12-12 20:40:59 api/metrics 0.020s 
+2025-12-12 20:41:01 api/status 0.000s 
+2025-12-12 20:41:01 api/logs 0.000s lines=92
+2025-12-12 20:41:01 api/events 0.000s events=1
+2025-12-12 20:41:01 api/metrics 0.019s 
+2025-12-12 20:41:01 api/status 0.000s 
+2025-12-12 20:41:01 api/logs 0.000s lines=92
+2025-12-12 20:41:01 api/events 0.000s events=1
+2025-12-12 20:41:01 api/metrics 0.019s 
+2025-12-12 20:41:03 api/status 0.000s 
+2025-12-12 20:41:03 api/logs 0.000s lines=92
+2025-12-12 20:41:03 api/events 0.000s events=1
+2025-12-12 20:41:03 api/metrics 0.018s 
+2025-12-12 20:41:03 api/status 0.000s 
+2025-12-12 20:41:03 api/logs 0.000s lines=92
+2025-12-12 20:41:03 api/events 0.000s events=1
+2025-12-12 20:41:03 api/metrics 0.019s 
+2025-12-12 20:41:05 api/status 0.000s 
+2025-12-12 20:41:05 api/logs 0.000s lines=92
+2025-12-12 20:41:05 api/events 0.000s events=1
+2025-12-12 20:41:05 api/metrics 0.019s 
+2025-12-12 20:41:05 api/status 0.000s 
+2025-12-12 20:41:05 api/logs 0.000s lines=92
+2025-12-12 20:41:05 api/events 0.000s events=1
+2025-12-12 20:41:05 api/metrics 0.019s 
+2025-12-12 20:41:07 api/status 0.000s 
+2025-12-12 20:41:07 api/logs 0.000s lines=92
+2025-12-12 20:41:07 api/events 0.000s events=1
+2025-12-12 20:41:07 api/metrics 0.019s 
+2025-12-12 20:41:07 api/status 0.000s 
+2025-12-12 20:41:07 api/logs 0.000s lines=92
+2025-12-12 20:41:07 api/events 0.000s events=1
+2025-12-12 20:41:07 api/metrics 0.019s 
+2025-12-12 20:41:09 api/status 0.000s 
+2025-12-12 20:41:09 api/logs 0.000s lines=92
+2025-12-12 20:41:09 api/events 0.000s events=1
+2025-12-12 20:41:09 api/metrics 0.019s 
+2025-12-12 20:41:09 api/status 0.000s 
+2025-12-12 20:41:09 api/logs 0.000s lines=92
+2025-12-12 20:41:09 api/events 0.000s events=1
+2025-12-12 20:41:09 api/metrics 0.019s 
+2025-12-12 20:41:11 api/status 0.000s 
+2025-12-12 20:41:11 api/logs 0.000s lines=92
+2025-12-12 20:41:11 api/events 0.000s events=1
+2025-12-12 20:41:11 api/metrics 0.019s 
+2025-12-12 20:41:11 api/status 0.000s 
+2025-12-12 20:41:11 api/logs 0.000s lines=92
+2025-12-12 20:41:11 api/events 0.000s events=1
+2025-12-12 20:41:11 api/metrics 0.019s 
+2025-12-12 20:41:13 api/status 0.000s 
+2025-12-12 20:41:13 api/logs 0.000s lines=92
+2025-12-12 20:41:13 api/events 0.000s events=1
+2025-12-12 20:41:13 api/metrics 0.019s 
+2025-12-12 20:41:13 api/status 0.000s 
+2025-12-12 20:41:13 api/logs 0.000s lines=92
+2025-12-12 20:41:13 api/events 0.000s events=1
+2025-12-12 20:41:13 api/metrics 0.019s 
+2025-12-12 20:41:15 api/status 0.000s 
+2025-12-12 20:41:15 api/logs 0.000s lines=92
+2025-12-12 20:41:15 api/events 0.000s events=1
+2025-12-12 20:41:15 api/metrics 0.019s 
+2025-12-12 20:41:15 api/status 0.000s 
+2025-12-12 20:41:15 api/logs 0.000s lines=92
+2025-12-12 20:41:15 api/events 0.000s events=1
+2025-12-12 20:41:15 api/metrics 0.019s 
+2025-12-12 20:41:17 api/status 0.000s 
+2025-12-12 20:41:17 api/logs 0.000s lines=92
+2025-12-12 20:41:17 api/events 0.000s events=1
+2025-12-12 20:41:17 api/metrics 0.019s 
+2025-12-12 20:41:17 api/status 0.000s 
+2025-12-12 20:41:17 api/logs 0.000s lines=92
+2025-12-12 20:41:17 api/events 0.000s events=1
+2025-12-12 20:41:17 api/metrics 0.019s 
+2025-12-12 20:41:19 api/status 0.000s 
+2025-12-12 20:41:19 api/logs 0.000s lines=113
+2025-12-12 20:41:19 api/events 0.000s events=1
+2025-12-12 20:41:19 api/metrics 0.020s 
+2025-12-12 20:41:19 api/status 0.000s 
+2025-12-12 20:41:19 api/logs 0.000s lines=113
+2025-12-12 20:41:19 api/events 0.000s events=1
+2025-12-12 20:41:19 api/metrics 0.019s 
+2025-12-12 20:41:21 api/status 0.000s 
+2025-12-12 20:41:21 api/logs 0.001s lines=113
+2025-12-12 20:41:21 api/events 0.000s events=1
+2025-12-12 20:41:21 api/metrics 0.019s 
+2025-12-12 20:41:21 api/status 0.000s 
+2025-12-12 20:41:21 api/logs 0.000s lines=113
+2025-12-12 20:41:21 api/events 0.000s events=1
+2025-12-12 20:41:21 api/metrics 0.020s 
+2025-12-12 20:41:23 api/status 0.000s 
+2025-12-12 20:41:23 api/logs 0.000s lines=113
+2025-12-12 20:41:23 api/events 0.000s events=1
+2025-12-12 20:41:23 api/metrics 0.017s 
+2025-12-12 20:41:23 api/status 0.000s 
+2025-12-12 20:41:23 api/logs 0.000s lines=113
+2025-12-12 20:41:23 api/events 0.000s events=1
+2025-12-12 20:41:23 api/metrics 0.019s 
+2025-12-12 20:41:25 api/status 0.000s 
+2025-12-12 20:41:25 api/logs 0.000s lines=113
+2025-12-12 20:41:25 api/events 0.000s events=1
+2025-12-12 20:41:25 api/metrics 0.019s 
+2025-12-12 20:41:25 api/status 0.000s 
+2025-12-12 20:41:25 api/logs 0.000s lines=113
+2025-12-12 20:41:25 api/events 0.000s events=1
+2025-12-12 20:41:25 api/metrics 0.019s 
+2025-12-12 20:41:27 api/status 0.001s 
+2025-12-12 20:41:27 api/logs 0.000s lines=113
+2025-12-12 20:41:27 api/events 0.000s events=1
+2025-12-12 20:41:27 api/metrics 0.019s 
+2025-12-12 20:41:27 api/status 0.000s 
+2025-12-12 20:41:27 api/logs 0.000s lines=113
+2025-12-12 20:41:27 api/events 0.000s events=1
+2025-12-12 20:41:27 api/metrics 0.019s 
+2025-12-12 20:41:29 api/status 0.000s 
+2025-12-12 20:41:29 api/logs 0.000s lines=113
+2025-12-12 20:41:29 api/events 0.000s events=1
+2025-12-12 20:41:29 api/metrics 0.020s 
+2025-12-12 20:41:29 api/status 0.000s 
+2025-12-12 20:41:29 api/logs 0.000s lines=113
+2025-12-12 20:41:29 api/events 0.000s events=1
+2025-12-12 20:41:29 api/metrics 0.019s 
+2025-12-12 20:41:31 api/status 0.000s 
+2025-12-12 20:41:31 api/logs 0.000s lines=113
+2025-12-12 20:41:31 api/events 0.000s events=1
+2025-12-12 20:41:31 api/metrics 0.019s 
+2025-12-12 20:41:31 api/status 0.000s 
+2025-12-12 20:41:31 api/logs 0.000s lines=113
+2025-12-12 20:41:31 api/events 0.000s events=1
+2025-12-12 20:41:31 api/metrics 0.019s 
+2025-12-12 20:41:33 api/status 0.000s 
+2025-12-12 20:41:33 api/logs 0.000s lines=113
+2025-12-12 20:41:33 api/events 0.000s events=1
+2025-12-12 20:41:33 api/metrics 0.018s 
+2025-12-12 20:41:34 api/status 0.000s 
+2025-12-12 20:41:34 api/logs 0.000s lines=113
+2025-12-12 20:41:34 api/events 0.000s events=1
+2025-12-12 20:41:34 api/metrics 0.019s 
+2025-12-12 20:41:35 api/status 0.000s 
+2025-12-12 20:41:35 api/logs 0.000s lines=113
+2025-12-12 20:41:35 api/events 0.000s events=1
+2025-12-12 20:41:35 api/metrics 0.019s 
+2025-12-12 20:41:36 api/status 0.000s 
+2025-12-12 20:41:36 api/logs 0.000s lines=113
+2025-12-12 20:41:36 api/events 0.000s events=1
+2025-12-12 20:41:36 api/metrics 0.020s 
+2025-12-12 20:41:37 api/status 0.000s 
+2025-12-12 20:41:37 api/logs 0.000s lines=113
+2025-12-12 20:41:37 api/events 0.000s events=1
+2025-12-12 20:41:37 api/metrics 0.019s 
+2025-12-12 20:41:38 api/status 0.000s 
+2025-12-12 20:41:38 api/logs 0.000s lines=113
+2025-12-12 20:41:38 api/events 0.000s events=1
+2025-12-12 20:41:38 api/metrics 0.019s 
+2025-12-12 20:41:39 api/status 0.000s 
+2025-12-12 20:41:39 api/logs 0.001s lines=113
+2025-12-12 20:41:39 api/events 0.000s events=1
+2025-12-12 20:41:39 api/metrics 0.019s 
+2025-12-12 20:41:40 api/status 0.000s 
+2025-12-12 20:41:40 api/logs 0.000s lines=113
+2025-12-12 20:41:40 api/events 0.000s events=1
+2025-12-12 20:41:40 api/metrics 0.019s 
+2025-12-12 20:41:41 api/status 0.000s 
+2025-12-12 20:41:41 api/logs 0.000s lines=113
+2025-12-12 20:41:41 api/events 0.000s events=1
+2025-12-12 20:41:41 api/metrics 0.019s 
+2025-12-12 20:41:42 api/status 0.000s 
+2025-12-12 20:41:42 api/logs 0.000s lines=113
+2025-12-12 20:41:42 api/events 0.000s events=1
+2025-12-12 20:41:42 api/metrics 0.018s 
+2025-12-12 20:41:43 api/status 0.000s 
+2025-12-12 20:41:43 api/logs 0.000s lines=113
+2025-12-12 20:41:43 api/events 0.000s events=1
+2025-12-12 20:41:43 api/metrics 0.019s 
+2025-12-12 20:41:44 api/status 0.000s 
+2025-12-12 20:41:44 api/logs 0.000s lines=113
+2025-12-12 20:41:44 api/events 0.000s events=1
+2025-12-12 20:41:44 api/metrics 0.019s 
+2025-12-12 20:41:45 api/status 0.000s 
+2025-12-12 20:41:45 api/logs 0.000s lines=113
+2025-12-12 20:41:45 api/events 0.000s events=1
+2025-12-12 20:41:45 api/metrics 0.019s 
+2025-12-12 20:41:46 api/status 0.000s 
+2025-12-12 20:41:46 api/logs 0.000s lines=113
+2025-12-12 20:41:46 api/events 0.000s events=1
+2025-12-12 20:41:46 api/metrics 0.018s 
+2025-12-12 20:41:47 api/status 0.000s 
+2025-12-12 20:41:47 api/logs 0.000s lines=113
+2025-12-12 20:41:47 api/events 0.000s events=1
+2025-12-12 20:41:47 api/metrics 0.019s 
+2025-12-12 20:41:48 api/status 0.000s 
+2025-12-12 20:41:48 api/logs 0.000s lines=113
+2025-12-12 20:41:48 api/events 0.000s events=1
+2025-12-12 20:41:48 api/metrics 0.019s 
+2025-12-12 20:41:49 api/status 0.000s 
+2025-12-12 20:41:49 api/logs 0.001s lines=134
+2025-12-12 20:41:49 api/events 0.000s events=1
+2025-12-12 20:41:49 api/metrics 0.017s 
+2025-12-12 20:41:50 api/status 0.000s 
+2025-12-12 20:41:50 api/logs 0.000s lines=134
+2025-12-12 20:41:50 api/events 0.000s events=1
+2025-12-12 20:41:50 api/metrics 0.019s 
+2025-12-12 20:41:51 api/status 0.000s 
+2025-12-12 20:41:51 api/logs 0.000s lines=134
+2025-12-12 20:41:51 api/events 0.000s events=1
+2025-12-12 20:41:51 api/metrics 0.019s 
+2025-12-12 20:41:52 api/status 0.000s 
+2025-12-12 20:41:52 api/logs 0.000s lines=134
+2025-12-12 20:41:52 api/events 0.000s events=1
+2025-12-12 20:41:52 api/metrics 0.017s 
+2025-12-12 20:41:53 api/status 0.000s 
+2025-12-12 20:41:53 api/logs 0.000s lines=134
+2025-12-12 20:41:53 api/events 0.000s events=1
+2025-12-12 20:41:53 api/metrics 0.018s 
+2025-12-12 20:41:54 api/status 0.000s 
+2025-12-12 20:41:54 api/logs 0.000s lines=134
+2025-12-12 20:41:54 api/events 0.000s events=1
+2025-12-12 20:41:54 api/metrics 0.019s 
+2025-12-12 20:41:55 api/status 0.000s 
+2025-12-12 20:41:55 api/logs 0.000s lines=134
+2025-12-12 20:41:55 api/events 0.000s events=1
+2025-12-12 20:41:55 api/metrics 0.019s 
+2025-12-12 20:41:56 api/status 0.000s 
+2025-12-12 20:41:56 api/logs 0.001s lines=134
+2025-12-12 20:41:56 api/events 0.000s events=1
+2025-12-12 20:41:56 api/metrics 0.019s 
+2025-12-12 20:41:57 api/status 0.000s 
+2025-12-12 20:41:57 api/logs 0.000s lines=134
+2025-12-12 20:41:57 api/events 0.000s events=1
+2025-12-12 20:41:57 api/metrics 0.019s 
+2025-12-12 20:41:58 api/status 0.000s 
+2025-12-12 20:41:58 api/logs 0.000s lines=134
+2025-12-12 20:41:58 api/events 0.000s events=1
+2025-12-12 20:41:58 api/metrics 0.019s 
+2025-12-12 20:41:59 api/status 0.000s 
+2025-12-12 20:41:59 api/logs 0.001s lines=134
+2025-12-12 20:41:59 api/events 0.000s events=1
+2025-12-12 20:41:59 api/metrics 0.019s 
+2025-12-12 20:42:00 api/status 0.000s 
+2025-12-12 20:42:00 api/logs 0.000s lines=134
+2025-12-12 20:42:00 api/events 0.000s events=1
+2025-12-12 20:42:00 api/metrics 0.019s 
+2025-12-12 20:42:01 api/status 0.000s 
+2025-12-12 20:42:01 api/logs 0.000s lines=134
+2025-12-12 20:42:01 api/events 0.000s events=1
+2025-12-12 20:42:01 api/metrics 0.019s 
+2025-12-12 20:42:02 api/status 0.000s 
+2025-12-12 20:42:02 api/logs 0.000s lines=134
+2025-12-12 20:42:02 api/events 0.000s events=1
+2025-12-12 20:42:02 api/metrics 0.018s 
+2025-12-12 20:42:03 api/status 0.000s 
+2025-12-12 20:42:03 api/logs 0.001s lines=134
+2025-12-12 20:42:03 api/events 0.000s events=1
+2025-12-12 20:42:03 api/metrics 0.018s 
+2025-12-12 20:42:04 api/status 0.000s 
+2025-12-12 20:42:04 api/logs 0.001s lines=134
+2025-12-12 20:42:04 api/events 0.000s events=1
+2025-12-12 20:42:04 api/metrics 0.019s 
+2025-12-12 20:42:05 api/status 0.000s 
+2025-12-12 20:42:05 api/logs 0.001s lines=134
+2025-12-12 20:42:05 api/events 0.000s events=1
+2025-12-12 20:42:05 api/metrics 0.019s 
+2025-12-12 20:42:06 api/status 0.000s 
+2025-12-12 20:42:06 api/logs 0.000s lines=134
+2025-12-12 20:42:06 api/events 0.000s events=1
+2025-12-12 20:42:06 api/metrics 0.018s 
+2025-12-12 20:42:07 api/status 0.000s 
+2025-12-12 20:42:07 api/logs 0.000s lines=134
+2025-12-12 20:42:07 api/events 0.000s events=1
+2025-12-12 20:42:07 api/metrics 0.019s 
+2025-12-12 20:42:08 api/status 0.000s 
+2025-12-12 20:42:08 api/logs 0.001s lines=134
+2025-12-12 20:42:08 api/events 0.000s events=1
+2025-12-12 20:42:08 api/metrics 0.018s 
+2025-12-12 20:42:09 api/status 0.000s 
+2025-12-12 20:42:09 api/logs 0.001s lines=134
+2025-12-12 20:42:09 api/events 0.000s events=1
+2025-12-12 20:42:09 api/metrics 0.019s 
+2025-12-12 20:42:10 api/status 0.000s 
+2025-12-12 20:42:10 api/logs 0.000s lines=134
+2025-12-12 20:42:10 api/events 0.000s events=1
+2025-12-12 20:42:10 api/metrics 0.018s 
+2025-12-12 20:42:11 api/status 0.000s 
+2025-12-12 20:42:11 api/logs 0.000s lines=134
+2025-12-12 20:42:11 api/events 0.000s events=1
+2025-12-12 20:42:11 api/metrics 0.019s 
+2025-12-12 20:42:12 api/status 0.000s 
+2025-12-12 20:42:12 api/logs 0.000s lines=134
+2025-12-12 20:42:12 api/events 0.000s events=1
+2025-12-12 20:42:12 api/metrics 0.017s 
+2025-12-12 20:42:13 api/status 0.000s 
+2025-12-12 20:42:13 api/logs 0.001s lines=134
+2025-12-12 20:42:13 api/events 0.000s events=1
+2025-12-12 20:42:13 api/metrics 0.019s 
+2025-12-12 20:42:14 api/status 0.000s 
+2025-12-12 20:42:14 api/logs 0.000s lines=134
+2025-12-12 20:42:14 api/events 0.000s events=1
+2025-12-12 20:42:14 api/metrics 0.019s 
+2025-12-12 20:42:15 api/status 0.000s 
+2025-12-12 20:42:15 api/logs 0.000s lines=134
+2025-12-12 20:42:15 api/events 0.000s events=1
+2025-12-12 20:42:15 api/metrics 0.019s 
+2025-12-12 20:42:16 api/status 0.000s 
+2025-12-12 20:42:16 api/logs 0.000s lines=134
+2025-12-12 20:42:16 api/events 0.000s events=1
+2025-12-12 20:42:16 api/metrics 0.019s 
+2025-12-12 20:42:17 api/status 0.000s 
+2025-12-12 20:42:17 api/logs 0.000s lines=134
+2025-12-12 20:42:17 api/events 0.000s events=1
+2025-12-12 20:42:17 api/metrics 0.019s 
+2025-12-12 20:42:18 api/status 0.000s 
+2025-12-12 20:42:18 api/logs 0.000s lines=134
+2025-12-12 20:42:18 api/events 0.000s events=1
+2025-12-12 20:42:18 api/metrics 0.019s 
+2025-12-12 20:42:19 api/status 0.000s 
+2025-12-12 20:42:19 api/logs 0.000s lines=134
+2025-12-12 20:42:19 api/events 0.000s events=1
+2025-12-12 20:42:19 api/metrics 0.019s 
+2025-12-12 20:42:20 api/status 0.000s 
+2025-12-12 20:42:20 api/logs 0.000s lines=155
+2025-12-12 20:42:20 api/events 0.000s events=1
+2025-12-12 20:42:21 api/status 0.000s 
+2025-12-12 20:42:21 api/logs 0.001s lines=155
+2025-12-12 20:42:21 api/metrics 0.020s 
+2025-12-12 20:42:21 api/events 0.000s events=1
+2025-12-12 20:42:21 api/metrics 0.019s 
+2025-12-12 20:42:22 api/status 0.000s 
+2025-12-12 20:42:23 api/status 0.000s 
+2025-12-12 20:42:23 api/logs 0.001s lines=155
+2025-12-12 20:42:23 api/logs 0.000s lines=155
+2025-12-12 20:42:23 api/events 0.000s events=1
+2025-12-12 20:42:23 api/events 0.000s events=1
+2025-12-12 20:42:23 api/metrics 0.020s 
+2025-12-12 20:42:23 api/metrics 0.019s 
+2025-12-12 20:42:25 api/status 0.000s 
+2025-12-12 20:42:25 api/logs 0.001s lines=155
+2025-12-12 20:42:25 api/events 0.000s events=1
+2025-12-12 20:42:25 api/metrics 0.019s 
+2025-12-12 20:42:25 api/status 0.000s 
+2025-12-12 20:42:25 api/logs 0.000s lines=155
+2025-12-12 20:42:25 api/events 0.000s events=1
+2025-12-12 20:42:25 api/metrics 0.018s 
+2025-12-12 20:42:27 api/status 0.000s 
+2025-12-12 20:42:27 api/logs 0.001s lines=155
+2025-12-12 20:42:27 api/events 0.000s events=1
+2025-12-12 20:42:27 api/metrics 0.019s 
+2025-12-12 20:42:27 api/status 0.000s 
+2025-12-12 20:42:27 api/logs 0.000s lines=155
+2025-12-12 20:42:27 api/events 0.000s events=1
+2025-12-12 20:42:27 api/metrics 0.019s 
+2025-12-12 20:42:29 api/status 0.000s 
+2025-12-12 20:42:29 api/logs 0.001s lines=155
+2025-12-12 20:42:29 api/events 0.000s events=1
+2025-12-12 20:42:29 api/metrics 0.019s 
+2025-12-12 20:42:29 api/status 0.000s 
+2025-12-12 20:42:29 api/logs 0.001s lines=155
+2025-12-12 20:42:29 api/events 0.000s events=1
+2025-12-12 20:42:29 api/metrics 0.019s 
+2025-12-12 20:42:31 api/status 0.000s 
+2025-12-12 20:42:31 api/logs 0.000s lines=155
+2025-12-12 20:42:31 api/events 0.000s events=1
+2025-12-12 20:42:31 api/metrics 0.019s 
+2025-12-12 20:42:31 api/status 0.000s 
+2025-12-12 20:42:31 api/logs 0.001s lines=155
+2025-12-12 20:42:31 api/events 0.000s events=1
+2025-12-12 20:42:31 api/metrics 0.019s 
+2025-12-12 20:42:33 api/status 0.000s 
+2025-12-12 20:42:33 api/logs 0.001s lines=155
+2025-12-12 20:42:33 api/events 0.000s events=1
+2025-12-12 20:42:33 api/metrics 0.018s 
+2025-12-12 20:42:33 api/status 0.000s 
+2025-12-12 20:42:33 api/logs 0.001s lines=155
+2025-12-12 20:42:33 api/events 0.000s events=1
+2025-12-12 20:42:33 api/metrics 0.019s 
+2025-12-12 20:42:35 api/status 0.000s 
+2025-12-12 20:42:35 api/logs 0.001s lines=155
+2025-12-12 20:42:35 api/events 0.000s events=1
+2025-12-12 20:42:35 api/metrics 0.019s 
+2025-12-12 20:42:35 api/status 0.000s 
+2025-12-12 20:42:35 api/logs 0.000s lines=155
+2025-12-12 20:42:35 api/events 0.000s events=1
+2025-12-12 20:42:35 api/metrics 0.019s 
+2025-12-12 20:42:37 api/status 0.000s 
+2025-12-12 20:42:37 api/logs 0.001s lines=155
+2025-12-12 20:42:37 api/events 0.000s events=1
+2025-12-12 20:42:37 api/metrics 0.018s 
+2025-12-12 20:42:37 api/status 0.000s 
+2025-12-12 20:42:37 api/logs 0.001s lines=155
+2025-12-12 20:42:37 api/events 0.000s events=1
+2025-12-12 20:42:37 api/metrics 0.019s 
+2025-12-12 20:42:39 api/status 0.000s 
+2025-12-12 20:42:39 api/logs 0.001s lines=155
+2025-12-12 20:42:39 api/events 0.000s events=1
+2025-12-12 20:42:39 api/metrics 0.019s 
+2025-12-12 20:42:39 api/status 0.000s 
+2025-12-12 20:42:39 api/logs 0.001s lines=155
+2025-12-12 20:42:39 api/events 0.000s events=1
+2025-12-12 20:42:39 api/metrics 0.019s 
+2025-12-12 20:42:41 api/status 0.000s 
+2025-12-12 20:42:41 api/logs 0.001s lines=155
+2025-12-12 20:42:41 api/events 0.000s events=1
+2025-12-12 20:42:41 api/metrics 0.019s 
+2025-12-12 20:42:41 api/status 0.000s 
+2025-12-12 20:42:41 api/logs 0.001s lines=155
+2025-12-12 20:42:41 api/events 0.000s events=1
+2025-12-12 20:42:41 api/metrics 0.019s 
+2025-12-12 20:42:43 api/status 0.000s 
+2025-12-12 20:42:43 api/logs 0.001s lines=155
+2025-12-12 20:42:43 api/events 0.000s events=1
+2025-12-12 20:42:43 api/metrics 0.020s 
+2025-12-12 20:42:43 api/status 0.000s 
+2025-12-12 20:42:43 api/logs 0.001s lines=155
+2025-12-12 20:42:43 api/events 0.000s events=1
+2025-12-12 20:42:43 api/metrics 0.020s 
+2025-12-12 20:42:45 api/status 0.000s 
+2025-12-12 20:42:45 api/logs 0.000s lines=155
+2025-12-12 20:42:45 api/events 0.000s events=1
+2025-12-12 20:42:45 api/metrics 0.019s 
+2025-12-12 20:42:45 api/status 0.000s 
+2025-12-12 20:42:45 api/logs 0.001s lines=155
+2025-12-12 20:42:45 api/events 0.000s events=1
+2025-12-12 20:42:45 api/metrics 0.019s 
+2025-12-12 20:42:47 api/status 0.000s 
+2025-12-12 20:42:47 api/logs 0.000s lines=155
+2025-12-12 20:42:47 api/events 0.000s events=1
+2025-12-12 20:42:47 api/metrics 0.019s 
+2025-12-12 20:42:47 api/status 0.000s 
+2025-12-12 20:42:47 api/logs 0.001s lines=155
+2025-12-12 20:42:47 api/events 0.000s events=1
+2025-12-12 20:42:47 api/metrics 0.019s 
+2025-12-12 20:42:49 api/status 0.000s 
+2025-12-12 20:42:49 api/logs 0.001s lines=155
+2025-12-12 20:42:49 api/events 0.000s events=1
+2025-12-12 20:42:49 api/metrics 0.019s 
+2025-12-12 20:42:49 api/status 0.000s 
+2025-12-12 20:42:49 api/logs 0.001s lines=155
+2025-12-12 20:42:49 api/events 0.000s events=1
+2025-12-12 20:42:49 api/metrics 0.019s 
+2025-12-12 20:42:51 api/status 0.000s 
+2025-12-12 20:42:51 api/logs 0.001s lines=176
+2025-12-12 20:42:51 api/events 0.000s events=1
+2025-12-12 20:42:51 api/status 0.001s 
+2025-12-12 20:42:51 api/logs 0.001s lines=176
+2025-12-12 20:42:51 api/events 0.000s events=1
+2025-12-12 20:42:51 api/metrics 0.020s 
+2025-12-12 20:42:51 api/metrics 0.019s 
+2025-12-12 20:42:53 api/status 0.000s 
+2025-12-12 20:42:53 api/status 0.000s 
+2025-12-12 20:42:53 api/logs 0.001s lines=176
+2025-12-12 20:42:53 api/logs 0.001s lines=176
+2025-12-12 20:42:53 api/events 0.000s events=1
+2025-12-12 20:42:53 api/events 0.000s events=1
+2025-12-12 20:42:53 api/metrics 0.020s 
+2025-12-12 20:42:53 api/metrics 0.019s 
+2025-12-12 20:42:55 api/status 0.000s 
+2025-12-12 20:42:55 api/status 0.000s 
+2025-12-12 20:42:55 api/logs 0.000s lines=29
+2025-12-12 20:42:55 api/events 0.000s events=1
+2025-12-12 20:42:55 api/metrics 0.017s 
+2025-12-12 20:42:56 api/makemkv/info 0.641s 
+2025-12-12 20:42:56 api/logs 0.000s lines=29
+2025-12-12 20:42:56 api/events 0.000s events=1
+2025-12-12 20:42:56 api/metrics 0.016s 
+2025-12-12 20:42:57 api/status 0.000s 
+2025-12-12 20:42:57 api/logs 0.000s lines=29
+2025-12-12 20:42:57 api/events 0.000s events=1
+2025-12-12 20:42:57 api/metrics 0.019s 
+2025-12-12 20:42:57 api/status 0.000s 
+2025-12-12 20:42:57 api/logs 0.000s lines=29
+2025-12-12 20:42:57 api/events 0.000s events=1
+2025-12-12 20:42:57 api/metrics 0.019s 
+2025-12-12 20:42:59 api/status 0.000s 
+2025-12-12 20:42:59 api/logs 0.000s lines=50
+2025-12-12 20:42:59 api/events 0.000s events=1
+2025-12-12 20:42:59 api/metrics 0.019s 
+2025-12-12 20:42:59 api/status 0.000s 
+2025-12-12 20:42:59 api/logs 0.000s lines=50
+2025-12-12 20:42:59 api/events 0.000s events=1
+2025-12-12 20:42:59 api/metrics 0.020s 
+2025-12-12 20:43:01 api/status 0.000s 
+2025-12-12 20:43:01 api/logs 0.000s lines=50
+2025-12-12 20:43:01 api/events 0.000s events=1
+2025-12-12 20:43:01 api/metrics 0.018s 
+2025-12-12 20:43:01 api/status 0.000s 
+2025-12-12 20:43:01 api/logs 0.000s lines=50
+2025-12-12 20:43:01 api/events 0.000s events=1
+2025-12-12 20:43:01 api/metrics 0.018s 
+2025-12-12 20:43:03 api/status 0.000s 
+2025-12-12 20:43:03 api/logs 0.000s lines=50
+2025-12-12 20:43:03 api/events 0.000s events=1
+2025-12-12 20:43:03 api/metrics 0.019s 
+2025-12-12 20:43:03 api/status 0.000s 
+2025-12-12 20:43:03 api/logs 0.000s lines=50
+2025-12-12 20:43:03 api/events 0.000s events=1
+2025-12-12 20:43:03 api/metrics 0.019s 
+2025-12-12 20:43:05 api/status 0.000s 
+2025-12-12 20:43:05 api/logs 0.000s lines=50
+2025-12-12 20:43:05 api/events 0.000s events=1
+2025-12-12 20:43:05 api/metrics 0.019s 
+2025-12-12 20:43:05 api/status 0.000s 
+2025-12-12 20:43:05 api/logs 0.000s lines=50
+2025-12-12 20:43:05 api/events 0.000s events=1
+2025-12-12 20:43:05 api/metrics 0.019s 
+2025-12-12 20:43:07 api/status 0.000s 
+2025-12-12 20:43:07 api/logs 0.000s lines=50
+2025-12-12 20:43:07 api/events 0.000s events=1
+2025-12-12 20:43:07 api/metrics 0.019s 
+2025-12-12 20:43:07 api/status 0.000s 
+2025-12-12 20:43:07 api/logs 0.000s lines=50
+2025-12-12 20:43:07 api/events 0.000s events=1
+2025-12-12 20:43:07 api/metrics 0.019s 
+2025-12-12 20:43:09 api/status 0.000s 
+2025-12-12 20:43:09 api/logs 0.000s lines=50
+2025-12-12 20:43:09 api/events 0.000s events=1
+2025-12-12 20:43:09 api/metrics 0.019s 
+2025-12-12 20:43:09 api/status 0.000s 
+2025-12-12 20:43:09 api/logs 0.000s lines=50
+2025-12-12 20:43:09 api/events 0.000s events=1
+2025-12-12 20:43:09 api/metrics 0.019s 
+2025-12-12 20:43:11 api/status 0.000s 
+2025-12-12 20:43:11 api/logs 0.000s lines=50
+2025-12-12 20:43:11 api/events 0.000s events=1
+2025-12-12 20:43:11 api/metrics 0.019s 
+2025-12-12 20:43:11 api/status 0.000s 
+2025-12-12 20:43:11 api/logs 0.000s lines=50
+2025-12-12 20:43:11 api/events 0.000s events=1
+2025-12-12 20:43:11 api/metrics 0.019s 
+2025-12-12 20:43:13 api/status 0.000s 
+2025-12-12 20:43:13 api/logs 0.000s lines=50
+2025-12-12 20:43:13 api/events 0.000s events=1
+2025-12-12 20:43:13 api/metrics 0.019s 
+2025-12-12 20:43:13 api/status 0.000s 
+2025-12-12 20:43:13 api/logs 0.000s lines=50
+2025-12-12 20:43:13 api/events 0.000s events=1
+2025-12-12 20:43:13 api/metrics 0.018s 
+2025-12-12 20:43:15 api/status 0.000s 
+2025-12-12 20:43:15 api/logs 0.000s lines=50
+2025-12-12 20:43:15 api/events 0.000s events=1
+2025-12-12 20:43:15 api/metrics 0.019s 
+2025-12-12 20:43:15 api/status 0.000s 
+2025-12-12 20:43:15 api/logs 0.000s lines=50
+2025-12-12 20:43:15 api/events 0.000s events=1
+2025-12-12 20:43:15 api/metrics 0.019s 
+2025-12-12 20:43:15 api/status 0.000s 
+2025-12-12 20:43:15 api/logs 0.000s lines=50
+2025-12-12 20:43:16 api/events 0.000s events=1
+2025-12-12 20:43:16 api/metrics 0.019s 
+2025-12-12 20:43:17 api/status 0.000s 
+2025-12-12 20:43:17 api/logs 0.000s lines=50
+2025-12-12 20:43:17 api/events 0.000s events=1
+2025-12-12 20:43:17 api/metrics 0.019s 
+2025-12-12 20:43:17 api/status 0.000s 
+2025-12-12 20:43:17 api/logs 0.000s lines=50
+2025-12-12 20:43:18 api/events 0.000s events=1
+2025-12-12 20:43:18 api/metrics 0.020s 
+2025-12-12 20:43:19 api/status 0.000s 
+2025-12-12 20:43:19 api/logs 0.000s lines=50
+2025-12-12 20:43:19 api/events 0.000s events=1
+2025-12-12 20:43:19 api/metrics 0.019s 
+2025-12-12 20:43:20 api/status 0.000s 
+2025-12-12 20:43:20 api/logs 0.000s lines=50
+2025-12-12 20:43:20 api/events 0.000s events=1
+2025-12-12 20:43:20 api/metrics 0.019s 
+2025-12-12 20:43:22 api/status 0.000s 
+2025-12-12 20:43:22 api/logs 0.000s lines=51
+2025-12-12 20:43:22 api/events 0.000s events=1
+2025-12-12 20:43:22 api/metrics 0.019s 
+2025-12-12 20:43:24 api/status 0.000s 
+2025-12-12 20:43:24 api/logs 0.000s lines=52
+2025-12-12 20:43:24 api/events 0.000s events=1
+2025-12-12 20:43:24 api/metrics 0.020s 
+2025-12-12 20:43:26 api/status 0.000s 
+2025-12-12 20:43:26 api/logs 0.000s lines=52
+2025-12-12 20:43:26 api/events 0.000s events=1
+2025-12-12 20:43:26 api/metrics 0.019s 
+2025-12-12 20:43:28 api/status 0.000s 
+2025-12-12 20:43:28 api/logs 0.000s lines=52
+2025-12-12 20:43:28 api/events 0.000s events=1
+2025-12-12 20:43:28 api/metrics 0.019s 
+2025-12-12 20:43:30 api/status 0.000s 
+2025-12-12 20:43:30 api/logs 0.000s lines=52
+2025-12-12 20:43:30 api/events 0.000s events=1
+2025-12-12 20:43:30 api/metrics 0.020s 
+2025-12-12 20:43:32 api/status 0.000s 
+2025-12-12 20:43:32 api/logs 0.000s lines=52
+2025-12-12 20:43:32 api/events 0.000s events=1
+2025-12-12 20:43:32 api/metrics 0.019s 
+2025-12-12 20:43:34 api/status 0.000s 
+2025-12-12 20:43:34 api/logs 0.000s lines=73
+2025-12-12 20:43:34 api/events 0.000s events=1
+2025-12-12 20:43:34 api/metrics 0.019s 
+2025-12-12 20:43:36 api/status 0.000s 
+2025-12-12 20:43:36 api/logs 0.000s lines=73
+2025-12-12 20:43:36 api/events 0.000s events=1
+2025-12-12 20:43:36 api/metrics 0.019s 
+2025-12-12 20:43:38 api/status 0.000s 
+2025-12-12 20:43:38 api/logs 0.000s lines=73
+2025-12-12 20:43:38 api/events 0.000s events=1
+2025-12-12 20:43:38 api/metrics 0.019s 
+2025-12-12 20:43:40 api/status 0.000s 
+2025-12-12 20:43:40 api/logs 0.000s lines=73
+2025-12-12 20:43:40 api/events 0.000s events=1
+2025-12-12 20:43:40 api/metrics 0.019s 
+2025-12-12 20:43:42 api/status 0.000s 
+2025-12-12 20:43:42 api/logs 0.000s lines=73
+2025-12-12 20:43:42 api/events 0.000s events=1
+2025-12-12 20:43:42 api/metrics 0.017s 
+2025-12-12 20:43:44 api/status 0.000s 
+2025-12-12 20:43:44 api/logs 0.000s lines=73
+2025-12-12 20:43:44 api/events 0.000s events=1
+2025-12-12 20:43:44 api/metrics 0.019s 
+2025-12-12 20:43:46 api/status 0.000s 
+2025-12-12 20:43:46 api/logs 0.000s lines=73
+2025-12-12 20:43:46 api/events 0.000s events=1
+2025-12-12 20:43:46 api/metrics 0.019s 
+2025-12-12 20:43:48 api/status 0.000s 
+2025-12-12 20:43:48 api/logs 0.000s lines=73
+2025-12-12 20:43:48 api/events 0.000s events=1
+2025-12-12 20:43:48 api/metrics 0.019s 
+2025-12-12 20:43:50 api/status 0.000s 
+2025-12-12 20:43:50 api/logs 0.000s lines=73
+2025-12-12 20:43:50 api/events 0.000s events=1
+2025-12-12 20:43:50 api/metrics 0.019s 
+2025-12-12 20:43:52 api/status 0.000s 
+2025-12-12 20:43:52 api/logs 0.000s lines=73
+2025-12-12 20:43:52 api/events 0.000s events=1
+2025-12-12 20:43:52 api/metrics 0.016s 
+2025-12-12 20:43:54 api/status 0.000s 
+2025-12-12 20:43:54 api/logs 0.000s lines=73
+2025-12-12 20:43:54 api/events 0.000s events=1
+2025-12-12 20:43:54 api/metrics 0.019s 
+2025-12-12 20:43:56 api/status 0.000s 
+2025-12-12 20:43:56 api/logs 0.000s lines=73
+2025-12-12 20:43:56 api/events 0.000s events=1
+2025-12-12 20:43:56 api/metrics 0.019s 
+2025-12-12 20:43:58 api/status 0.000s 
+2025-12-12 20:43:58 api/logs 0.000s lines=73
+2025-12-12 20:43:58 api/events 0.000s events=1
+2025-12-12 20:43:58 api/metrics 0.019s 
+2025-12-12 20:44:00 api/status 0.000s 
+2025-12-12 20:44:00 api/logs 0.000s lines=73
+2025-12-12 20:44:00 api/events 0.000s events=1
+2025-12-12 20:44:00 api/metrics 0.020s 
+2025-12-12 20:44:02 api/status 0.000s 
+2025-12-12 20:44:02 api/logs 0.000s lines=73
+2025-12-12 20:44:02 api/events 0.000s events=1
+2025-12-12 20:44:02 api/metrics 0.019s 
+2025-12-12 20:44:04 api/status 0.000s 
+2025-12-12 20:44:04 api/logs 0.000s lines=94
+2025-12-12 20:44:04 api/events 0.000s events=1
+2025-12-12 20:44:04 api/metrics 0.020s 
+2025-12-12 20:44:06 api/status 0.000s 
+2025-12-12 20:44:06 api/logs 0.000s lines=94
+2025-12-12 20:44:06 api/events 0.000s events=1
+2025-12-12 20:44:06 api/metrics 0.017s 
+2025-12-12 20:44:08 api/status 0.000s 
+2025-12-12 20:44:08 api/logs 0.000s lines=94
+2025-12-12 20:44:08 api/events 0.000s events=1
+2025-12-12 20:44:08 api/metrics 0.018s 
+2025-12-12 20:44:10 api/status 0.000s 
+2025-12-12 20:44:10 api/logs 0.000s lines=94
+2025-12-12 20:44:10 api/events 0.000s events=1
+2025-12-12 20:44:10 api/metrics 0.018s 
+2025-12-12 20:44:12 api/status 0.001s 
+2025-12-12 20:44:12 api/logs 0.000s lines=94
+2025-12-12 20:44:12 api/events 0.000s events=1
+2025-12-12 20:44:12 api/metrics 0.018s 
+2025-12-12 20:44:14 api/status 0.000s 
+2025-12-12 20:44:14 api/logs 0.000s lines=94
+2025-12-12 20:44:14 api/events 0.000s events=1
+2025-12-12 20:44:14 api/metrics 0.019s 
+2025-12-12 20:44:16 api/status 0.000s 
+2025-12-12 20:44:16 api/logs 0.000s lines=94
+2025-12-12 20:44:16 api/events 0.000s events=1
+2025-12-12 20:44:16 api/metrics 0.019s 
+2025-12-12 20:44:18 api/status 0.000s 
+2025-12-12 20:44:18 api/logs 0.000s lines=94
+2025-12-12 20:44:18 api/events 0.000s events=1
+2025-12-12 20:44:19 api/metrics 0.019s 
+2025-12-12 20:44:20 api/status 0.000s 
+2025-12-12 20:44:20 api/logs 0.000s lines=94
+2025-12-12 20:44:20 api/events 0.000s events=1
+2025-12-12 20:44:21 api/metrics 0.019s 
+2025-12-12 20:44:23 api/status 0.000s 
+2025-12-12 20:44:23 api/logs 0.000s lines=94
+2025-12-12 20:44:23 api/events 0.000s events=1
+2025-12-12 20:44:23 api/metrics 0.017s 
+2025-12-12 20:44:25 api/status 0.000s 
+2025-12-12 20:44:25 api/logs 0.000s lines=94
+2025-12-12 20:44:25 api/events 0.000s events=1
+2025-12-12 20:44:25 api/metrics 0.019s 
+2025-12-12 20:44:27 api/status 0.000s 
+2025-12-12 20:44:27 api/logs 0.000s lines=94
+2025-12-12 20:44:27 api/events 0.000s events=1
+2025-12-12 20:44:27 api/metrics 0.019s 
+2025-12-12 20:44:29 api/status 0.000s 
+2025-12-12 20:44:29 api/logs 0.000s lines=94
+2025-12-12 20:44:29 api/events 0.000s events=1
+2025-12-12 20:44:29 api/metrics 0.019s 
+2025-12-12 20:44:31 api/status 0.000s 
+2025-12-12 20:44:31 api/logs 0.000s lines=94
+2025-12-12 20:44:31 api/events 0.000s events=1
+2025-12-12 20:44:31 api/metrics 0.019s 
+2025-12-12 20:44:33 api/status 0.000s 
+2025-12-12 20:44:33 api/logs 0.000s lines=94
+2025-12-12 20:44:33 api/events 0.000s events=1
+2025-12-12 20:44:33 api/metrics 0.019s 
+2025-12-12 20:44:35 api/status 0.000s 
+2025-12-12 20:44:35 api/logs 0.000s lines=115
+2025-12-12 20:44:35 api/events 0.000s events=1
+2025-12-12 20:44:35 api/metrics 0.019s 
+2025-12-12 20:44:37 api/status 0.000s 
+2025-12-12 20:44:37 api/logs 0.000s lines=115
+2025-12-12 20:44:37 api/events 0.000s events=1
+2025-12-12 20:44:37 api/metrics 0.019s 
+2025-12-12 20:44:39 api/status 0.000s 
+2025-12-12 20:44:39 api/logs 0.000s lines=115
+2025-12-12 20:44:39 api/events 0.000s events=1
+2025-12-12 20:44:39 api/metrics 0.019s 
+2025-12-12 20:44:41 api/status 0.000s 
+2025-12-12 20:44:41 api/logs 0.000s lines=115
+2025-12-12 20:44:41 api/events 0.000s events=1
+2025-12-12 20:44:41 api/metrics 0.019s 
+2025-12-12 20:44:43 api/status 0.000s 
+2025-12-12 20:44:43 api/logs 0.000s lines=115
+2025-12-12 20:44:43 api/events 0.000s events=1
+2025-12-12 20:44:43 api/metrics 0.019s 
+2025-12-12 20:44:45 api/status 0.000s 
+2025-12-12 20:44:45 api/logs 0.000s lines=115
+2025-12-12 20:44:45 api/events 0.000s events=1
+2025-12-12 20:44:45 api/metrics 0.019s 
+2025-12-12 20:44:47 api/status 0.000s 
+2025-12-12 20:44:47 api/logs 0.000s lines=115
+2025-12-12 20:44:47 api/events 0.000s events=1
+2025-12-12 20:44:47 api/metrics 0.019s 
+2025-12-12 20:44:49 api/status 0.000s 
+2025-12-12 20:44:49 api/logs 0.000s lines=115
+2025-12-12 20:44:49 api/events 0.000s events=1
+2025-12-12 20:44:49 api/metrics 0.019s 
+2025-12-12 20:44:51 api/status 0.000s 
+2025-12-12 20:44:51 api/logs 0.000s lines=115
+2025-12-12 20:44:51 api/events 0.000s events=1
+2025-12-12 20:44:51 api/metrics 0.019s 
+2025-12-12 20:44:53 api/status 0.000s 
+2025-12-12 20:44:53 api/logs 0.000s lines=115
+2025-12-12 20:44:53 api/events 0.000s events=1
+2025-12-12 20:44:53 api/metrics 0.019s 
+2025-12-12 20:44:55 api/status 0.000s 
+2025-12-12 20:44:55 api/logs 0.000s lines=115
+2025-12-12 20:44:55 api/events 0.000s events=1
+2025-12-12 20:44:55 api/metrics 0.019s 
+2025-12-12 20:44:57 api/status 0.000s 
+2025-12-12 20:44:57 api/logs 0.000s lines=115
+2025-12-12 20:44:57 api/events 0.000s events=1
+2025-12-12 20:44:57 api/metrics 0.019s 
+2025-12-12 20:44:59 api/status 0.000s 
+2025-12-12 20:44:59 api/logs 0.000s lines=115
+2025-12-12 20:44:59 api/events 0.000s events=1
+2025-12-12 20:44:59 api/metrics 0.019s 
+2025-12-12 20:45:01 api/status 0.000s 
+2025-12-12 20:45:01 api/logs 0.000s lines=115
+2025-12-12 20:45:01 api/events 0.000s events=1
+2025-12-12 20:45:01 api/metrics 0.019s 
+2025-12-12 20:45:03 api/status 0.000s 
+2025-12-12 20:45:03 api/logs 0.000s lines=115
+2025-12-12 20:45:03 api/events 0.000s events=1
+2025-12-12 20:45:03 api/metrics 0.019s 
+2025-12-12 20:45:05 api/status 0.000s 
+2025-12-12 20:45:05 api/logs 0.000s lines=136
+2025-12-12 20:45:05 api/events 0.000s events=1
+2025-12-12 20:45:05 api/metrics 0.019s 
+2025-12-12 20:45:08 api/status 0.000s 
+2025-12-12 20:45:08 api/logs 0.000s lines=136
+2025-12-12 20:45:08 api/events 0.000s events=1
+2025-12-12 20:45:08 api/metrics 0.019s 
+2025-12-12 20:45:10 api/status 0.000s 
+2025-12-12 20:45:10 api/logs 0.000s lines=136
+2025-12-12 20:45:10 api/events 0.000s events=1
+2025-12-12 20:45:10 api/metrics 0.020s 
+2025-12-12 20:45:12 api/status 0.000s 
+2025-12-12 20:45:12 api/logs 0.000s lines=136
+2025-12-12 20:45:12 api/events 0.000s events=1
+2025-12-12 20:45:12 api/metrics 0.018s 
+2025-12-12 20:45:14 api/status 0.000s 
+2025-12-12 20:45:14 api/logs 0.000s lines=136
+2025-12-12 20:45:14 api/events 0.000s events=1
+2025-12-12 20:45:14 api/metrics 0.020s 
+2025-12-12 20:45:16 api/status 0.000s 
+2025-12-12 20:45:16 api/logs 0.000s lines=136
+2025-12-12 20:45:16 api/events 0.000s events=1
+2025-12-12 20:45:16 api/metrics 0.019s 
+2025-12-12 20:45:18 api/status 0.000s 
+2025-12-12 20:45:18 api/logs 0.000s lines=136
+2025-12-12 20:45:18 api/events 0.000s events=1
+2025-12-12 20:45:18 api/metrics 0.019s 
+2025-12-12 20:45:20 api/status 0.000s 
+2025-12-12 20:45:20 api/logs 0.000s lines=136
+2025-12-12 20:45:20 api/events 0.000s events=1
+2025-12-12 20:45:20 api/metrics 0.019s 
+2025-12-12 20:45:22 api/status 0.000s 
+2025-12-12 20:45:22 api/logs 0.000s lines=136
+2025-12-12 20:45:22 api/events 0.000s events=1
+2025-12-12 20:45:22 api/metrics 0.020s 
+2025-12-12 20:45:24 api/status 0.000s 
+2025-12-12 20:45:24 api/logs 0.001s lines=136
+2025-12-12 20:45:24 api/events 0.000s events=1
+2025-12-12 20:45:24 api/metrics 0.019s 
+2025-12-12 20:45:26 api/status 0.000s 
+2025-12-12 20:45:26 api/logs 0.000s lines=136
+2025-12-12 20:45:26 api/events 0.000s events=1
+2025-12-12 20:45:26 api/metrics 0.019s 
+2025-12-12 20:45:28 api/status 0.000s 
+2025-12-12 20:45:28 api/logs 0.000s lines=136
+2025-12-12 20:45:28 api/events 0.000s events=1
+2025-12-12 20:45:28 api/metrics 0.019s 
+2025-12-12 20:45:30 api/status 0.000s 
+2025-12-12 20:45:30 api/logs 0.000s lines=136
+2025-12-12 20:45:30 api/events 0.000s events=1
+2025-12-12 20:45:30 api/metrics 0.019s 
+2025-12-12 20:45:32 api/status 0.000s 
+2025-12-12 20:45:32 api/logs 0.001s lines=136
+2025-12-12 20:45:32 api/events 0.000s events=1
+2025-12-12 20:45:32 api/metrics 0.017s 
+2025-12-12 20:45:34 api/status 0.000s 
+2025-12-12 20:45:34 api/logs 0.001s lines=136
+2025-12-12 20:45:34 api/events 0.000s events=1
+2025-12-12 20:45:34 api/metrics 0.020s 
+2025-12-12 20:45:36 api/status 0.000s 
+2025-12-12 20:45:36 api/logs 0.001s lines=157
+2025-12-12 20:45:36 api/events 0.000s events=1
+2025-12-12 20:45:36 api/metrics 0.020s 
+2025-12-12 20:45:38 api/status 0.000s 
+2025-12-12 20:45:38 api/logs 0.000s lines=157
+2025-12-12 20:45:38 api/events 0.000s events=1
+2025-12-12 20:45:38 api/metrics 0.018s 
+2025-12-12 20:45:40 api/status 0.000s 
+2025-12-12 20:45:40 api/logs 0.000s lines=157
+2025-12-12 20:45:40 api/events 0.000s events=1
+2025-12-12 20:45:40 api/metrics 0.018s 
+2025-12-12 20:45:42 api/status 0.000s 
+2025-12-12 20:45:42 api/logs 0.000s lines=157
+2025-12-12 20:45:42 api/events 0.000s events=1
+2025-12-12 20:45:42 api/metrics 0.017s 
+2025-12-12 20:45:44 api/status 0.000s 
+2025-12-12 20:45:44 api/logs 0.000s lines=157
+2025-12-12 20:45:44 api/events 0.000s events=1
+2025-12-12 20:45:44 api/metrics 0.019s 
+2025-12-12 20:45:46 api/status 0.000s 
+2025-12-12 20:45:46 api/logs 0.001s lines=157
+2025-12-12 20:45:46 api/events 0.000s events=1
+2025-12-12 20:45:46 api/metrics 0.019s 
+2025-12-12 20:45:48 api/status 0.000s 
+2025-12-12 20:45:48 api/logs 0.000s lines=157
+2025-12-12 20:45:48 api/events 0.000s events=1
+2025-12-12 20:45:48 api/metrics 0.019s 
+2025-12-12 20:45:50 api/status 0.000s 
+2025-12-12 20:45:50 api/logs 0.000s lines=157
+2025-12-12 20:45:50 api/events 0.000s events=1
+2025-12-12 20:45:50 api/metrics 0.019s 
+2025-12-12 20:45:52 api/status 0.000s 
+2025-12-12 20:45:52 api/logs 0.000s lines=157
+2025-12-12 20:45:52 api/events 0.000s events=1
+2025-12-12 20:45:53 api/metrics 0.018s 
+2025-12-12 20:45:55 api/status 0.000s 
+2025-12-12 20:45:55 api/logs 0.000s lines=157
+2025-12-12 20:45:55 api/events 0.000s events=1
+2025-12-12 20:45:55 api/metrics 0.019s 
+2025-12-12 20:45:57 api/status 0.000s 
+2025-12-12 20:45:57 api/logs 0.000s lines=157
+2025-12-12 20:45:57 api/events 0.000s events=1
+2025-12-12 20:45:57 api/metrics 0.019s 
+2025-12-12 20:45:59 api/status 0.000s 
+2025-12-12 20:45:59 api/logs 0.000s lines=157
+2025-12-12 20:45:59 api/events 0.000s events=1
+2025-12-12 20:45:59 api/metrics 0.019s 
+2025-12-12 20:46:01 api/status 0.000s 
+2025-12-12 20:46:01 api/logs 0.000s lines=157
+2025-12-12 20:46:01 api/events 0.000s events=1
+2025-12-12 20:46:01 api/metrics 0.019s 
+2025-12-12 20:46:03 api/status 0.000s 
+2025-12-12 20:46:03 api/logs 0.000s lines=157
+2025-12-12 20:46:03 api/events 0.000s events=1
+2025-12-12 20:46:03 api/metrics 0.019s 
+2025-12-12 20:46:05 api/status 0.000s 
+2025-12-12 20:46:05 api/logs 0.000s lines=157
+2025-12-12 20:46:05 api/events 0.000s events=1
+2025-12-12 20:46:05 api/metrics 0.019s 
+2025-12-12 20:46:07 api/status 0.000s 
+2025-12-12 20:46:07 api/logs 0.000s lines=178
+2025-12-12 20:46:07 api/events 0.000s events=1
+2025-12-12 20:46:07 api/metrics 0.019s 
+2025-12-12 20:46:09 api/status 0.000s 
+2025-12-12 20:46:09 api/logs 0.000s lines=178
+2025-12-12 20:46:09 api/events 0.000s events=1
+2025-12-12 20:46:09 api/metrics 0.019s 
+2025-12-12 20:46:11 api/status 0.000s 
+2025-12-12 20:46:11 api/logs 0.000s lines=178
+2025-12-12 20:46:11 api/events 0.000s events=1
+2025-12-12 20:46:11 api/metrics 0.019s 
+2025-12-12 20:46:13 api/status 0.000s 
+2025-12-12 20:46:13 api/logs 0.000s lines=178
+2025-12-12 20:46:13 api/events 0.000s events=1
+2025-12-12 20:46:13 api/metrics 0.019s 
+2025-12-12 20:46:15 api/status 0.000s 
+2025-12-12 20:46:15 api/logs 0.000s lines=178
+2025-12-12 20:46:15 api/events 0.000s events=1
+2025-12-12 20:46:15 api/metrics 0.019s 
+2025-12-12 20:46:17 api/status 0.000s 
+2025-12-12 20:46:17 api/logs 0.000s lines=178
+2025-12-12 20:46:17 api/events 0.000s events=1
+2025-12-12 20:46:17 api/metrics 0.019s 
+2025-12-12 20:46:19 api/status 0.000s 
+2025-12-12 20:46:19 api/logs 0.000s lines=178
+2025-12-12 20:46:19 api/events 0.000s events=1
+2025-12-12 20:46:19 api/metrics 0.019s 
+2025-12-12 20:46:21 api/status 0.000s 
+2025-12-12 20:46:21 api/logs 0.000s lines=178
+2025-12-12 20:46:21 api/events 0.000s events=1
+2025-12-12 20:46:21 api/metrics 0.019s 
+2025-12-12 20:46:23 api/status 0.000s 
+2025-12-12 20:46:23 api/logs 0.001s lines=178
+2025-12-12 20:46:23 api/events 0.000s events=1
+2025-12-12 20:46:23 api/metrics 0.019s 
+2025-12-12 20:46:25 api/status 0.000s 
+2025-12-12 20:46:25 api/logs 0.000s lines=178
+2025-12-12 20:46:25 api/events 0.000s events=1
+2025-12-12 20:46:25 api/metrics 0.019s 
+2025-12-12 20:46:29 api/status 0.000s 
+2025-12-12 20:46:29 api/logs 0.000s lines=29
+2025-12-12 20:46:29 api/events 0.000s events=1
+2025-12-12 20:46:29 api/metrics 0.019s 
+2025-12-12 20:46:31 api/status 0.000s 
+2025-12-12 20:46:31 api/status 0.000s 
+2025-12-12 20:46:31 api/logs 0.000s lines=51
+2025-12-12 20:46:31 api/events 0.000s events=1
+2025-12-12 20:46:31 api/metrics 0.016s 
+2025-12-12 20:46:33 api/status 0.000s 
+2025-12-12 20:46:33 api/status 0.000s 
+2025-12-12 20:46:33 api/logs 0.000s lines=51
+2025-12-12 20:46:33 api/events 0.000s events=1
+2025-12-12 20:46:33 api/metrics 0.019s 
+2025-12-12 20:46:35 api/status 0.000s 
+2025-12-12 20:46:35 api/status 0.000s 
+2025-12-12 20:46:35 api/logs 0.000s lines=51
+2025-12-12 20:46:35 api/events 0.000s events=1
+2025-12-12 20:46:35 api/metrics 0.016s 
+2025-12-12 20:46:37 api/makemkv/info 5.406s 
+2025-12-12 20:46:37 api/logs 0.000s lines=51
+2025-12-12 20:46:37 api/events 0.000s events=1
+2025-12-12 20:46:37 api/metrics 0.017s 
+2025-12-12 20:46:37 api/status 0.000s 
+2025-12-12 20:46:37 api/logs 0.000s lines=51
+2025-12-12 20:46:37 api/events 0.000s events=1
+2025-12-12 20:46:37 api/metrics 0.017s 
+2025-12-12 20:46:37 api/makemkv/info 0.649s 
+2025-12-12 20:46:37 api/logs 0.000s lines=51
+2025-12-12 20:46:37 api/events 0.000s events=1
+2025-12-12 20:46:37 api/status 0.000s 
+2025-12-12 20:46:37 api/metrics 0.017s 
+2025-12-12 20:46:37 api/logs 0.000s lines=51
+2025-12-12 20:46:37 api/events 0.000s events=1
+2025-12-12 20:46:37 api/metrics 0.016s 
+2025-12-12 20:46:38 api/makemkv/info 0.636s 
+2025-12-12 20:46:38 api/logs 0.000s lines=51
+2025-12-12 20:46:38 api/events 0.000s events=1
+2025-12-12 20:46:38 api/metrics 0.017s 
+2025-12-12 20:46:39 api/status 0.000s 
+2025-12-12 20:46:39 api/logs 0.000s lines=51
+2025-12-12 20:46:39 api/events 0.000s events=1
+2025-12-12 20:46:39 api/metrics 0.019s 
+2025-12-12 20:46:39 api/status 0.000s 
+2025-12-12 20:46:39 api/logs 0.000s lines=51
+2025-12-12 20:46:39 api/events 0.000s events=1
+2025-12-12 20:46:39 api/metrics 0.019s 
+2025-12-12 20:46:41 api/status 0.000s 
+2025-12-12 20:46:41 api/logs 0.000s lines=52
+2025-12-12 20:46:41 api/events 0.000s events=1
+2025-12-12 20:46:41 api/metrics 0.019s 

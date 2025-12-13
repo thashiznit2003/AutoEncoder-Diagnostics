@@ -1,0 +1,68 @@
+$ ls -l /dev/sr* /dev/sg*
+crw-rw---- 1 root disk  21, 0 Dec 12 20:46 /dev/sg0
+crw-rw---- 1 root cdrom 21, 1 Dec 12 20:46 /dev/sg1
+brw-rw---- 1 root cdrom 11, 0 Dec 12 20:46 /dev/sr0
+
+$ sg_map -i
+/dev/sg0  /dev/sda  QEMU      QEMU HARDDISK     2.5+
+/dev/sg1  /dev/sr0      
+inquiry: transport: Host_status=0x04 [DID_BAD_TARGET]
+Driver_status=0x00 [DRIVER_OK]
+
+$ lsblk -nP
+NAME="sda" TYPE="disk" RM="0" MOUNTPOINT="" FSTYPE="" TRAN=""
+NAME="sda1" TYPE="part" RM="0" MOUNTPOINT="" FSTYPE="" TRAN=""
+NAME="sda2" TYPE="part" RM="0" MOUNTPOINT="/usr/lib/x86_64-linux-gnu/nvidia/xorg/nvidia_drv.so" FSTYPE="" TRAN=""
+NAME="sr0" TYPE="rom" RM="1" MOUNTPOINT="" FSTYPE="" TRAN="sata"
+
+$ udevadm info /dev/sr0
+P: /devices/pci0000:00/0000:00:1c.0/0000:01:00.0/ata10/host10/target10:0:0/10:0:0:0/block/sr0
+M: sr0
+R: 0
+U: block
+T: disk
+D: b 11:0
+N: sr0
+L: 0
+Q: 15
+E: DEVPATH=/devices/pci0000:00/0000:00:1c.0/0000:01:00.0/ata10/host10/target10:0:0/10:0:0:0/block/sr0
+E: DEVNAME=/dev/sr0
+E: DEVTYPE=disk
+E: DISKSEQ=15
+E: MAJOR=11
+E: MINOR=0
+E: SUBSYSTEM=block
+
+$ sg_inq /dev/sg1
+standard INQUIRY:
+  PQual=0  PDT=0  RMB=0  LU_CONG=0  hot_pluggable=0  version=0x00  [no conformance claimed]
+  [AERC=0]  [TrmTsk=0]  NormACA=0  HiSUP=0  Resp_data_format=0
+  SCCS=0  ACC=0  TPGS=0  3PC=0  Protect=0  [BQue=0]
+  EncServ=0  MultiP=0  [MChngr=0]  [ACKREQQ=0]  Addr16=0
+  [RelAdr=0]  WBus16=0  Sync=0  [Linked=0]  [TranDis=0]  CmdQue=0
+    length=5 (0x5)   Peripheral device type: disk
+ Inquiry response length=5, no vendor, product or revision data
+inquiry: transport: Host_status=0x04 [DID_BAD_TARGET]
+Driver_status=0x00 [DRIVER_OK]
+
+$ makemkvcon info disc:0
+MSG:1005,0,1,"MakeMKV v1.18.2 linux(x64-release) started","%1 started","MakeMKV v1.18.2 linux(x64-release)"
+MSG:5042,0,0,"The program can't find any usable optical drives.","The program can't find any usable optical drives."
+DRV:0,256,999,0,"","",""
+DRV:1,256,999,0,"","",""
+DRV:2,256,999,0,"","",""
+DRV:3,256,999,0,"","",""
+DRV:4,256,999,0,"","",""
+DRV:5,256,999,0,"","",""
+DRV:6,256,999,0,"","",""
+DRV:7,256,999,0,"","",""
+DRV:8,256,999,0,"","",""
+DRV:9,256,999,0,"","",""
+DRV:10,256,999,0,"","",""
+DRV:11,256,999,0,"","",""
+DRV:12,256,999,0,"","",""
+DRV:13,256,999,0,"","",""
+DRV:14,256,999,0,"","",""
+DRV:15,256,999,0,"","",""
+MSG:5010,0,0,"Failed to open disc","Failed to open disc"
+TCOUNT:0
