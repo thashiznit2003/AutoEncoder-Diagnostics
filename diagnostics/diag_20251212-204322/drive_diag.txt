@@ -1,0 +1,34 @@
+$ ls -l /dev/sr* /dev/sg*
+crw-rw---- 1 root disk  21, 0 Dec 12 20:42 /dev/sg0
+crw-rw---- 1 root cdrom 21, 1 Dec 12 20:42 /dev/sg1
+brw-rw---- 1 root cdrom 11, 0 Dec 12 20:42 /dev/sr0
+
+$ sg_map -i
+/dev/sg0  /dev/sda  QEMU      QEMU HARDDISK     2.5+
+/dev/sg1  /dev/sr0      
+inquiry: transport: Host_status=0x04 [DID_BAD_TARGET]
+Driver_status=0x00 [DRIVER_OK]
+
+$ lsblk -nP
+NAME="sda" TYPE="disk" RM="0" MOUNTPOINT="" FSTYPE="" TRAN=""
+NAME="sda1" TYPE="part" RM="0" MOUNTPOINT="" FSTYPE="" TRAN=""
+NAME="sda2" TYPE="part" RM="0" MOUNTPOINT="/usr/lib/x86_64-linux-gnu/nvidia/xorg/nvidia_drv.so" FSTYPE="" TRAN=""
+NAME="sr0" TYPE="rom" RM="1" MOUNTPOINT="" FSTYPE="" TRAN="sata"
+
+$ udevadm info /dev/sr0
+P: /devices/pci0000:00/0000:00:1c.0/0000:01:00.0/ata10/host10/target10:0:0/10:0:0:0/block/sr0
+M: sr0
+R: 0
+U: block
+T: disk
+D: b 11:0
+N: sr0
+L: 0
+Q: 15
+E: DEVPATH=/devices/pci0000:00/0000:00:1c.0/0000:01:00.0/ata10/host10/target10:0:0/10:0:0:0/block/sr0
+E: DEVNAME=/dev/sr0
+E: DEVTYPE=disk
+E: DISKSEQ=15
+E: MAJOR=11
+E: MINOR=0
+E: SUBSYSTEM=block
