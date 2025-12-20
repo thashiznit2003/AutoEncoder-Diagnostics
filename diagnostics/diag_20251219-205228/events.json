@@ -1,0 +1,52 @@
+[
+  {
+    "message": "USB mount ready.",
+    "level": "info",
+    "ts": 1766195105.994736
+  },
+  {
+    "message": "Auto-rip requested for disc:0",
+    "level": "info",
+    "ts": 1766195123.8614275
+  },
+  {
+    "message": "MakeMKV rip started (disc 0; titles=all; audio=eng; subs=eng)",
+    "level": "info",
+    "ts": 1766195126.2450755
+  },
+  {
+    "message": "Rip rename set for disc:0: Harry Potter 2",
+    "level": "info",
+    "ts": 1766195212.8429105
+  },
+  {
+    "message": "MakeMKV rip complete (disc 0)",
+    "level": "info",
+    "ts": 1766196462.777655
+  },
+  {
+    "message": "Manual MakeMKV rip produced: /mnt/ripped/Harry Potter 2.mkv",
+    "level": "info",
+    "ts": 1766196462.778066
+  },
+  {
+    "message": "Auto-rip requested for disc:0",
+    "level": "info",
+    "ts": 1766196465.1055777
+  },
+  {
+    "message": "Using existing ripped MKV: /mnt/ripped/Harry Potter 2.mkv",
+    "level": "info",
+    "ts": 1766196467.5752754
+  },
+  {
+    "message": "Encoding started: /mnt/ripped/Harry Potter 2.mkv",
+    "level": "info",
+    "ts": 1766196467.6529968
+  },
+  {
+    "message": "Stopped encode: /mnt/ripped/Harry Potter 2.mkv",
+    "level": "info",
+    "ts": 1766199141.8493788
+  }
+]
