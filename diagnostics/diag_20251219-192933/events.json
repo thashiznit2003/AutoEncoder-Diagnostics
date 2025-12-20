@@ -1,0 +1,12 @@
+[
+  {
+    "message": "USB mount ready.",
+    "level": "info",
+    "ts": 1766194110.7876556
+  },
+  {
+    "message": "Detected new file: /mnt/ripped/title_t00.mkv",
+    "level": "info",
+    "ts": 1766194150.3842893
+  }
+]
