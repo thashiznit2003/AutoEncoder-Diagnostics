@@ -1,0 +1,176 @@
+{
+  "active": [],
+  "recent": [],
+  "timestamp": 1766337371.409893,
+  "disc_info": {
+    "disc_index": 0,
+    "info": {
+      "raw": "MSG:1005,0,1,\"MakeMKV v1.18.2 linux(x64-release) started\",\"%1 started\",\"MakeMKV v1.18.2 linux(x64-release)\"\nMSG:3338,0,2,\"Downloading latest SDF to /root/.MakeMKV ...\",\"Downloading latest %1 to %2 ...\",\"SDF\",\"/root/.MakeMKV\"\nDRV:0,2,999,12,\"BD-RE HL-DT-ST BD-RE  WH16NS40 1.03 M6HIB9G2035\",\"HARRYPOTTER3\",\"/dev/sr0\"\nDRV:1,256,999,0,\"\",\"\",\"\"\nDRV:2,256,999,0,\"\",\"\",\"\"\nDRV:3,256,999,0,\"\",\"\",\"\"\nDRV:4,256,999,0,\"\",\"\",\"\"\nDRV:5,256,999,0,\"\",\"\",\"\"\nDRV:6,256,999,0,\"\",\"\",\"\"\nDRV:7,256,999,0,\"\",\"\",\"\"\nDRV:8,256,999,0,\"\",\"\",\"\"\nDRV:9,256,999,0,\"\",\"\",\"\"\nDRV:10,256,999,0,\"\",\"\",\"\"\nDRV:11,256,999,0,\"\",\"\",\"\"\nDRV:12,256,999,0,\"\",\"\",\"\"\nDRV:13,256,999,0,\"\",\"\",\"\"\nDRV:14,256,999,0,\"\",\"\",\"\"\nDRV:15,256,999,0,\"\",\"\",\"\"\nMSG:3007,0,0,\"Using direct disc access mode\",\"Using direct disc access mode\"\nMSG:5053,1544,1,\"This functionality is shareware. You may evaluate it for 30 days after what you would need to purchase an activation key if you like the functionality. Do you want to start evaluation period now?\",\"This functionality is shareware. You may evaluate it for %1 days after what you would need to purchase an activation key if you like the functionality. Do you want to start evaluation period now?\",\"30\"\nMSG:5050,0,2,\"Evaluation version, 30 day(s) out of 30 remaining\",\"Evaluation version, %1 day(s) out of %2 remaining\",\"30\",\"30\"\nMSG:5085,0,0,\"Loaded content hash table, will verify integrity of M2TS files.\",\"Loaded content hash table, will verify integrity of M2TS files.\"\nMSG:3025,16777216,3,\"Title #00000.mpls has length of 0 seconds which is less than minimum title length of 120 seconds and was therefore skipped\",\"Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped\",\"00000.mpls\",\"0\",\"120\"\nMSG:3025,16777216,3,\"Title #00040.mpls has length of 0 seconds which is less than minimum title length of 120 seconds and was therefore skipped\",\"Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped\",\"00040.mpls\",\"0\",\"120\"\nMSG:3025,0,3,\"Title #00043.mpls has length of 0 seconds which is less than minimum title length of 120 seconds and was therefore skipped\",\"Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped\",\"00043.mpls\",\"0\",\"120\"\nMSG:3307,0,2,\"File 00044.mpls was added as title #0\",\"File %1 was added as title #%2\",\"00044.mpls\",\"0\"\nMSG:3307,0,2,\"File 00054.mpls was added as title #1\",\"File %1 was added as title #%2\",\"00054.mpls\",\"1\"\nMSG:3307,0,2,\"File 00048.mpls was added as title #2\",\"File %1 was added as title #%2\",\"00048.mpls\",\"2\"\nMSG:3307,0,2,\"File 00050.mpls was added as title #3\",\"File %1 was added as title #%2\",\"00050.mpls\",\"3\"\nMSG:3307,16777216,2,\"File 00051.mpls was added as title #4\",\"File %1 was added as title #%2\",\"00051.mpls\",\"4\"\nMSG:3309,16777216,2,\"Title 00053.mpls is equal to title 00054.mpls and was skipped\",\"Title %1 is equal to title %2 and was skipped\",\"00053.mpls\",\"00054.mpls\"\nMSG:3025,16777216,3,\"Title #00001.m2ts has length of 11 seconds which is less than minimum title length of 120 seconds and was therefore skipped\",\"Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped\",\"00001.m2ts\",\"11\",\"120\"\nMSG:3025,0,3,\"Title #00003.m2ts has length of 23 seconds which is less than minimum title length of 120 seconds and was therefore skipped\",\"Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped\",\"00003.m2ts\",\"23\",\"120\"\nMSG:3307,0,2,\"File 00004.m2ts was added as title #5\",\"File %1 was added as title #%2\",\"00004.m2ts\",\"5\"\nMSG:3307,0,2,\"File 00006.m2ts was added as title #6\",\"File %1 was added as title #%2\",\"00006.m2ts\",\"6\"\nMSG:3307,0,2,\"File 00007.m2ts was added as title #7\",\"File %1 was added as title #%2\",\"00007.m2ts\",\"7\"\n",
+      "titles": [],
+      "summary": {
+        "drive": "BD-RE HL-DT-ST BD-RE  WH16NS40 1.03 M6HIB9G2035",
+        "disc_label": "HARRYPOTTER3",
+        "titles_detected": 8
+      },
+      "formatted": "Label: HARRYPOTTER3 | Drive: BD-RE HL-DT-ST BD-RE  WH16NS40 1.03 M6HIB9G2035 | Titles: 8"
+    },
+    "raw": "MSG:1005,0,1,\"MakeMKV v1.18.2 linux(x64-release) started\",\"%1 started\",\"MakeMKV v1.18.2 linux(x64-release)\"\nMSG:3338,0,2,\"Downloading latest SDF to /root/.MakeMKV ...\",\"Downloading latest %1 to %2 ...\",\"SDF\",\"/root/.MakeMKV\"\nDRV:0,2,999,12,\"BD-RE HL-DT-ST BD-RE  WH16NS40 1.03 M6HIB9G2035\",\"HARRYPOTTER3\",\"/dev/sr0\"\nDRV:1,256,999,0,\"\",\"\",\"\"\nDRV:2,256,999,0,\"\",\"\",\"\"\nDRV:3,256,999,0,\"\",\"\",\"\"\nDRV:4,256,999,0,\"\",\"\",\"\"\nDRV:5,256,999,0,\"\",\"\",\"\"\nDRV:6,256,999,0,\"\",\"\",\"\"\nDRV:7,256,999,0,\"\",\"\",\"\"\nDRV:8,256,999,0,\"\",\"\",\"\"\nDRV:9,256,999,0,\"\",\"\",\"\"\nDRV:10,256,999,0,\"\",\"\",\"\"\nDRV:11,256,999,0,\"\",\"\",\"\"\nDRV:12,256,999,0,\"\",\"\",\"\"\nDRV:13,256,999,0,\"\",\"\",\"\"\nDRV:14,256,999,0,\"\",\"\",\"\"\nDRV:15,256,999,0,\"\",\"\",\"\"\nMSG:3007,0,0,\"Using direct disc access mode\",\"Using direct disc access mode\"\nMSG:5053,1544,1,\"This functionality is shareware. You may evaluate it for 30 days after what you would need to purchase an activation key if you like the functionality. Do you want to start evaluation period now?\",\"This functionality is shareware. You may evaluate it for %1 days after what you would need to purchase an activation key if you like the functionality. Do you want to start evaluation period now?\",\"30\"\nMSG:5050,0,2,\"Evaluation version, 30 day(s) out of 30 remaining\",\"Evaluation version, %1 day(s) out of %2 remaining\",\"30\",\"30\"\nMSG:5085,0,0,\"Loaded content hash table, will verify integrity of M2TS files.\",\"Loaded content hash table, will verify integrity of M2TS files.\"\nMSG:3025,16777216,3,\"Title #00000.mpls has length of 0 seconds which is less than minimum title length of 120 seconds and was therefore skipped\",\"Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped\",\"00000.mpls\",\"0\",\"120\"\nMSG:3025,16777216,3,\"Title #00040.mpls has length of 0 seconds which is less than minimum title length of 120 seconds and was therefore skipped\",\"Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped\",\"00040.mpls\",\"0\",\"120\"\nMSG:3025,0,3,\"Title #00043.mpls has length of 0 seconds which is less than minimum title length of 120 seconds and was therefore skipped\",\"Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped\",\"00043.mpls\",\"0\",\"120\"\nMSG:3307,0,2,\"File 00044.mpls was added as title #0\",\"File %1 was added as title #%2\",\"00044.mpls\",\"0\"\nMSG:3307,0,2,\"File 00054.mpls was added as title #1\",\"File %1 was added as title #%2\",\"00054.mpls\",\"1\"\nMSG:3307,0,2,\"File 00048.mpls was added as title #2\",\"File %1 was added as title #%2\",\"00048.mpls\",\"2\"\nMSG:3307,0,2,\"File 00050.mpls was added as title #3\",\"File %1 was added as title #%2\",\"00050.mpls\",\"3\"\nMSG:3307,16777216,2,\"File 00051.mpls was added as title #4\",\"File %1 was added as title #%2\",\"00051.mpls\",\"4\"\nMSG:3309,16777216,2,\"Title 00053.mpls is equal to title 00054.mpls and was skipped\",\"Title %1 is equal to title %2 and was skipped\",\"00053.mpls\",\"00054.mpls\"\nMSG:3025,16777216,3,\"Title #00001.m2ts has length of 11 seconds which is less than minimum title length of 120 seconds and was therefore skipped\",\"Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped\",\"00001.m2ts\",\"11\",\"120\"\nMSG:3025,0,3,\"Title #00003.m2ts has length of 23 seconds which is less than minimum title length of 120 seconds and was therefore skipped\",\"Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped\",\"00003.m2ts\",\"23\",\"120\"\nMSG:3307,0,2,\"File 00004.m2ts was added as title #5\",\"File %1 was added as title #%2\",\"00004.m2ts\",\"5\"\nMSG:3307,0,2,\"File 00006.m2ts was added as title #6\",\"File %1 was added as title #%2\",\"00006.m2ts\",\"6\"\nMSG:3307,0,2,\"File 00007.m2ts was added as title #7\",\"File %1 was added as title #%2\",\"00007.m2ts\",\"7\"\n",
+    "summary": {
+      "drive": "BD-RE HL-DT-ST BD-RE  WH16NS40 1.03 M6HIB9G2035",
+      "disc_label": "HARRYPOTTER3",
+      "titles_detected": 8
+    },
+    "formatted": "Label: HARRYPOTTER3 | Drive: BD-RE HL-DT-ST BD-RE  WH16NS40 1.03 M6HIB9G2035 | Titles: 8",
+    "pending": true,
+    "note": "MakeMKV scan still in progress"
+  },
+  "disc_pending": true,
+  "disc_rip_blocked": false,
+  "disc_scan_paused": false,
+  "disc_present": true,
+  "usb_status": {
+    "state": "ready",
+    "message": "USB mount ready"
+  },
+  "version": "1.25.106",
+  "config": {
+    "search_path": null,
+    "output_dir": "/mnt/output",
+    "rip_dir": "/mnt/ripped",
+    "final_dir": "",
+    "profile": "handbrake",
+    "handbrake_presets": [],
+    "max_threads": 4,
+    "rescan_interval": 30,
+    "min_size_mb": 100,
+    "low_bitrate_auto_proceed": true,
+    "low_bitrate_auto_skip": false,
+    "video_extensions": [
+      ".mp4",
+      ".mkv",
+      ".avi",
+      ".mov",
+      ".flv",
+      ".wmv",
+      ".m4v"
+    ],
+    "smb_staging_dir": "/mnt/smb_staging",
+    "usb_staging_dir": "/mnt/usb_staging",
+    "handbrake": {
+      "encoder": "nvenc_h265",
+      "quality": 28,
+      "video_bitrate_kbps": null,
+      "two_pass": false,
+      "audio_offset_ms": 0,
+      "audio_bitrate_kbps": 128,
+      "audio_mode": "auto_dolby",
+      "audio_encoder": "av_aac",
+      "audio_mixdown": "",
+      "audio_drc": null,
+      "audio_gain": null,
+      "audio_samplerate": "",
+      "audio_lang_list": [],
+      "audio_track_list": "",
+      "audio_all": false,
+      "subtitle_mode": "copy_all",
+      "extra_args": [],
+      "extension": ".mkv",
+      "width": 1920,
+      "height": 1080
+    },
+    "handbrake_dvd": {
+      "encoder": "nvenc_h265",
+      "quality": 28,
+      "video_bitrate_kbps": null,
+      "two_pass": false,
+      "audio_offset_ms": 0,
+      "width": 1920,
+      "height": 1080,
+      "extension": ".mkv",
+      "extra_args": [],
+      "audio_bitrate_kbps": 128,
+      "audio_mode": "auto_dolby",
+      "audio_encoder": "av_aac",
+      "audio_mixdown": "",
+      "audio_drc": null,
+      "audio_gain": null,
+      "audio_samplerate": "",
+      "audio_lang_list": [],
+      "audio_track_list": "",
+      "audio_all": false,
+      "subtitle_mode": "copy_all"
+    },
+    "handbrake_br": {
+      "encoder": "nvenc_h265",
+      "quality": 28,
+      "video_bitrate_kbps": null,
+      "two_pass": false,
+      "audio_offset_ms": 0,
+      "width": 3840,
+      "height": 2160,
+      "extension": ".mkv",
+      "extra_args": [],
+      "audio_bitrate_kbps": 128,
+      "audio_mode": "auto_dolby",
+      "audio_encoder": "av_aac",
+      "audio_mixdown": "",
+      "audio_drc": null,
+      "audio_gain": null,
+      "audio_samplerate": "",
+      "audio_lang_list": [],
+      "audio_track_list": "",
+      "audio_all": false,
+      "subtitle_mode": "copy_all"
+    },
+    "makemkv_minlength": 1200,
+    "makemkv_titles": [
+      "1"
+    ],
+    "makemkv_audio_langs": [
+      "eng"
+    ],
+    "makemkv_subtitle_langs": [
+      "eng"
+    ],
+    "makemkv_keep_ripped": false,
+    "makemkv_preferred_audio_langs": [
+      "eng"
+    ],
+    "makemkv_preferred_subtitle_langs": [
+      "eng"
+    ],
+    "makemkv_exclude_commentary": false,
+    "makemkv_prefer_surround": true,
+    "makemkv_auto_rip": false,
+    "debug_mode_enabled": true,
+    "ffmpeg": {
+      "encoder": "dnxhd",
+      "video": "scale=1920:1080,format=yuv422p",
+      "profile": "dnxhr_sq",
+      "extension": ".mov"
+    },
+    "ffmpeg_nvenc": {
+      "encoder": "hevc_nvenc",
+      "video": "scale=1920:1080,format=yuv420p",
+      "profile": "main",
+      "quality": 20,
+      "audio": "copy",
+      "extension": ".mp4"
+    },
+    "ffmpeg_qsv": {
+      "hwdev": "qsv=hw",
+      "filterdev": "hw",
+      "encoder": "hevc_qsv",
+      "video": "hwupload=extra_hw_frames=64,scale_qsv=w=1280:h=720,format=qsv",
+      "quality": 20,
+      "audio": "copy",
+      "extension": ".mp4"
+    },
+    "ffmpeg_fallback": {
+      "encoder": "libx264",
+      "video": "scale=1920:1080,format=yuv420p",
+      "profile": "high",
+      "extension": ".mp4"
+    }
+  }
+}

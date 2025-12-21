@@ -1,0 +1,27 @@
+[
+  {
+    "message": "USB mount ready.",
+    "level": "info",
+    "ts": 1766337134.7228112
+  },
+  {
+    "message": "Disc inserted.",
+    "level": "info",
+    "ts": 1766337134.7302222
+  },
+  {
+    "message": "MakeMKV info scan timed out; returning partial output",
+    "level": "info",
+    "ts": 1766337195.2014263
+  },
+  {
+    "message": "MakeMKV info scan timed out; returning partial output",
+    "level": "info",
+    "ts": 1766337226.8332088
+  },
+  {
+    "message": "MakeMKV info scan timed out; returning partial output",
+    "level": "info",
+    "ts": 1766337257.3927827
+  }
+]
