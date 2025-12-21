@@ -1,0 +1,400 @@
+2025-12-21 10:14:36,536 INFO: Encoding: task 1 of 1, 74.06 % (380.70 fps, avg 382.33 fps, ETA 00h00m53s)
+2025-12-21 10:14:36,736 INFO: Encoding: task 1 of 1, 74.16 % (379.46 fps, avg 382.38 fps, ETA 00h00m52s)
+2025-12-21 10:14:36,936 INFO: Encoding: task 1 of 1, 74.25 % (379.46 fps, avg 382.38 fps, ETA 00h00m52s)
+2025-12-21 10:14:37,136 INFO: Encoding: task 1 of 1, 74.34 % (379.46 fps, avg 382.38 fps, ETA 00h00m52s)
+2025-12-21 10:14:37,336 INFO: Encoding: task 1 of 1, 74.44 % (379.46 fps, avg 382.38 fps, ETA 00h00m52s)
+2025-12-21 10:14:37,536 INFO: Encoding: task 1 of 1, 74.54 % (379.46 fps, avg 382.38 fps, ETA 00h00m52s)
+2025-12-21 10:14:37,736 INFO: Encoding: task 1 of 1, 74.64 % (382.85 fps, avg 382.37 fps, ETA 00h00m51s)
+2025-12-21 10:14:37,937 INFO: Encoding: task 1 of 1, 74.75 % (382.85 fps, avg 382.37 fps, ETA 00h00m51s)
+2025-12-21 10:14:38,137 INFO: Encoding: task 1 of 1, 74.85 % (382.85 fps, avg 382.37 fps, ETA 00h00m51s)
+2025-12-21 10:14:38,337 INFO: Encoding: task 1 of 1, 74.95 % (382.85 fps, avg 382.37 fps, ETA 00h00m51s)
+2025-12-21 10:14:38,537 INFO: Encoding: task 1 of 1, 75.04 % (382.85 fps, avg 382.37 fps, ETA 00h00m51s)
+2025-12-21 10:14:38,737 INFO: Encoding: task 1 of 1, 75.13 % (383.50 fps, avg 382.35 fps, ETA 00h00m50s)
+2025-12-21 10:14:38,938 INFO: Encoding: task 1 of 1, 75.23 % (383.50 fps, avg 382.35 fps, ETA 00h00m50s)
+2025-12-21 10:14:39,138 INFO: Encoding: task 1 of 1, 75.35 % (383.50 fps, avg 382.35 fps, ETA 00h00m50s)
+2025-12-21 10:14:39,338 INFO: Encoding: task 1 of 1, 75.43 % (383.50 fps, avg 382.35 fps, ETA 00h00m50s)
+2025-12-21 10:14:39,538 INFO: Encoding: task 1 of 1, 75.55 % (383.50 fps, avg 382.35 fps, ETA 00h00m50s)
+2025-12-21 10:14:39,738 INFO: Encoding: task 1 of 1, 75.63 % (383.50 fps, avg 382.35 fps, ETA 00h00m50s)
+2025-12-21 10:14:39,939 INFO: Encoding: task 1 of 1, 75.74 % (382.41 fps, avg 382.38 fps, ETA 00h00m49s)
+2025-12-21 10:14:40,139 INFO: Encoding: task 1 of 1, 75.83 % (382.41 fps, avg 382.38 fps, ETA 00h00m49s)
+2025-12-21 10:14:40,339 INFO: Encoding: task 1 of 1, 75.94 % (382.41 fps, avg 382.38 fps, ETA 00h00m49s)
+2025-12-21 10:14:40,539 INFO: Encoding: task 1 of 1, 76.03 % (382.41 fps, avg 382.38 fps, ETA 00h00m49s)
+2025-12-21 10:14:40,739 INFO: Encoding: task 1 of 1, 76.12 % (382.41 fps, avg 382.38 fps, ETA 00h00m49s)
+2025-12-21 10:14:40,940 INFO: Encoding: task 1 of 1, 76.24 % (388.67 fps, avg 382.49 fps, ETA 00h00m48s)
+2025-12-21 10:14:41,140 INFO: Encoding: task 1 of 1, 76.34 % (388.67 fps, avg 382.49 fps, ETA 00h00m48s)
+2025-12-21 10:14:41,340 INFO: Encoding: task 1 of 1, 76.43 % (388.67 fps, avg 382.49 fps, ETA 00h00m48s)
+2025-12-21 10:14:41,540 INFO: Encoding: task 1 of 1, 76.52 % (388.67 fps, avg 382.49 fps, ETA 00h00m48s)
+2025-12-21 10:14:41,740 INFO: Encoding: task 1 of 1, 76.64 % (388.67 fps, avg 382.49 fps, ETA 00h00m48s)
+2025-12-21 10:14:41,940 INFO: Encoding: task 1 of 1, 76.74 % (386.44 fps, avg 382.43 fps, ETA 00h00m47s)
+2025-12-21 10:14:42,140 INFO: Encoding: task 1 of 1, 76.84 % (386.44 fps, avg 382.43 fps, ETA 00h00m47s)
+2025-12-21 10:14:42,341 INFO: Encoding: task 1 of 1, 76.94 % (386.44 fps, avg 382.43 fps, ETA 00h00m47s)
+2025-12-21 10:14:42,541 INFO: Encoding: task 1 of 1, 77.03 % (386.44 fps, avg 382.43 fps, ETA 00h00m47s)
+2025-12-21 10:14:42,741 INFO: Encoding: task 1 of 1, 77.12 % (386.44 fps, avg 382.43 fps, ETA 00h00m47s)
+2025-12-21 10:14:42,941 INFO: Encoding: task 1 of 1, 77.24 % (385.73 fps, avg 382.45 fps, ETA 00h00m46s)
+2025-12-21 10:14:43,141 INFO: Encoding: task 1 of 1, 77.33 % (385.73 fps, avg 382.45 fps, ETA 00h00m46s)
+2025-12-21 10:14:43,341 INFO: Encoding: task 1 of 1, 77.44 % (385.73 fps, avg 382.45 fps, ETA 00h00m46s)
+2025-12-21 10:14:43,542 INFO: Encoding: task 1 of 1, 77.52 % (385.73 fps, avg 382.45 fps, ETA 00h00m46s)
+2025-12-21 10:14:43,742 INFO: Encoding: task 1 of 1, 77.63 % (385.73 fps, avg 382.45 fps, ETA 00h00m46s)
+2025-12-21 10:14:43,942 INFO: Encoding: task 1 of 1, 77.73 % (385.12 fps, avg 382.54 fps, ETA 00h00m45s)
+2025-12-21 10:14:44,142 INFO: Encoding: task 1 of 1, 77.82 % (385.12 fps, avg 382.54 fps, ETA 00h00m45s)
+2025-12-21 10:14:44,342 INFO: Encoding: task 1 of 1, 77.91 % (385.12 fps, avg 382.54 fps, ETA 00h00m45s)
+2025-12-21 10:14:44,543 INFO: Encoding: task 1 of 1, 78.02 % (385.12 fps, avg 382.54 fps, ETA 00h00m45s)
+2025-12-21 10:14:44,743 INFO: Encoding: task 1 of 1, 78.11 % (385.12 fps, avg 382.54 fps, ETA 00h00m45s)
+2025-12-21 10:14:44,943 INFO: Encoding: task 1 of 1, 78.22 % (381.82 fps, avg 382.42 fps, ETA 00h00m44s)
+2025-12-21 10:14:45,144 INFO: Encoding: task 1 of 1, 78.31 % (381.82 fps, avg 382.42 fps, ETA 00h00m44s)
+2025-12-21 10:14:45,344 INFO: Encoding: task 1 of 1, 78.42 % (381.82 fps, avg 382.42 fps, ETA 00h00m44s)
+2025-12-21 10:14:45,544 INFO: Encoding: task 1 of 1, 78.49 % (381.82 fps, avg 382.42 fps, ETA 00h00m44s)
+2025-12-21 10:14:45,744 INFO: Encoding: task 1 of 1, 78.59 % (381.82 fps, avg 382.42 fps, ETA 00h00m44s)
+2025-12-21 10:14:45,944 INFO: Encoding: task 1 of 1, 78.70 % (378.90 fps, avg 382.38 fps, ETA 00h00m43s)
+2025-12-21 10:14:46,144 INFO: Encoding: task 1 of 1, 78.78 % (378.90 fps, avg 382.38 fps, ETA 00h00m43s)
+2025-12-21 10:14:46,344 INFO: Encoding: task 1 of 1, 78.89 % (378.90 fps, avg 382.38 fps, ETA 00h00m43s)
+2025-12-21 10:14:46,545 INFO: Encoding: task 1 of 1, 78.99 % (378.90 fps, avg 382.38 fps, ETA 00h00m43s)
+2025-12-21 10:14:46,746 INFO: Encoding: task 1 of 1, 79.10 % (378.90 fps, avg 382.38 fps, ETA 00h00m43s)
+2025-12-21 10:14:46,946 INFO: Encoding: task 1 of 1, 79.19 % (381.66 fps, avg 382.53 fps, ETA 00h00m42s)
+2025-12-21 10:14:47,146 INFO: Encoding: task 1 of 1, 79.29 % (381.66 fps, avg 382.53 fps, ETA 00h00m42s)
+2025-12-21 10:14:47,346 INFO: Encoding: task 1 of 1, 79.39 % (381.66 fps, avg 382.53 fps, ETA 00h00m42s)
+2025-12-21 10:14:47,547 INFO: Encoding: task 1 of 1, 79.48 % (381.66 fps, avg 382.53 fps, ETA 00h00m42s)
+2025-12-21 10:14:47,747 INFO: Encoding: task 1 of 1, 79.60 % (381.66 fps, avg 382.53 fps, ETA 00h00m42s)
+2025-12-21 10:14:47,947 INFO: Encoding: task 1 of 1, 79.71 % (379.70 fps, avg 382.37 fps, ETA 00h00m41s)
+2025-12-21 10:14:48,147 INFO: Encoding: task 1 of 1, 79.78 % (379.70 fps, avg 382.37 fps, ETA 00h00m41s)
+2025-12-21 10:14:48,348 INFO: Encoding: task 1 of 1, 79.89 % (379.70 fps, avg 382.37 fps, ETA 00h00m41s)
+2025-12-21 10:14:48,548 INFO: Encoding: task 1 of 1, 79.97 % (379.70 fps, avg 382.37 fps, ETA 00h00m41s)
+2025-12-21 10:14:48,748 INFO: Encoding: task 1 of 1, 80.08 % (379.70 fps, avg 382.37 fps, ETA 00h00m41s)
+2025-12-21 10:14:48,948 INFO: Encoding: task 1 of 1, 80.19 % (382.08 fps, avg 382.38 fps, ETA 00h00m40s)
+2025-12-21 10:14:49,149 INFO: Encoding: task 1 of 1, 80.28 % (382.08 fps, avg 382.38 fps, ETA 00h00m40s)
+2025-12-21 10:14:49,349 INFO: Encoding: task 1 of 1, 80.38 % (382.08 fps, avg 382.38 fps, ETA 00h00m40s)
+2025-12-21 10:14:49,549 INFO: Encoding: task 1 of 1, 80.48 % (382.08 fps, avg 382.38 fps, ETA 00h00m40s)
+2025-12-21 10:14:49,749 INFO: Encoding: task 1 of 1, 80.57 % (382.08 fps, avg 382.38 fps, ETA 00h00m40s)
+2025-12-21 10:14:49,949 INFO: Encoding: task 1 of 1, 80.67 % (374.43 fps, avg 382.37 fps, ETA 00h00m39s)
+2025-12-21 10:14:50,150 INFO: Encoding: task 1 of 1, 80.77 % (374.43 fps, avg 382.37 fps, ETA 00h00m39s)
+2025-12-21 10:14:50,350 INFO: Encoding: task 1 of 1, 80.87 % (374.43 fps, avg 382.37 fps, ETA 00h00m39s)
+2025-12-21 10:14:50,550 INFO: Encoding: task 1 of 1, 80.96 % (374.43 fps, avg 382.37 fps, ETA 00h00m39s)
+2025-12-21 10:14:50,750 INFO: Encoding: task 1 of 1, 81.06 % (374.43 fps, avg 382.37 fps, ETA 00h00m39s)
+2025-12-21 10:14:50,950 INFO: Encoding: task 1 of 1, 81.19 % (382.80 fps, avg 382.38 fps, ETA 00h00m38s)
+2025-12-21 10:14:51,150 INFO: Encoding: task 1 of 1, 81.26 % (382.80 fps, avg 382.38 fps, ETA 00h00m38s)
+2025-12-21 10:14:51,350 INFO: Encoding: task 1 of 1, 81.35 % (382.80 fps, avg 382.38 fps, ETA 00h00m38s)
+2025-12-21 10:14:51,550 INFO: Encoding: task 1 of 1, 81.45 % (382.80 fps, avg 382.38 fps, ETA 00h00m38s)
+2025-12-21 10:14:51,751 INFO: Encoding: task 1 of 1, 81.55 % (382.80 fps, avg 382.38 fps, ETA 00h00m38s)
+2025-12-21 10:14:51,951 INFO: Encoding: task 1 of 1, 81.64 % (380.78 fps, avg 382.35 fps, ETA 00h00m37s)
+2025-12-21 10:14:52,151 INFO: Encoding: task 1 of 1, 81.76 % (380.78 fps, avg 382.35 fps, ETA 00h00m37s)
+2025-12-21 10:14:52,351 INFO: Encoding: task 1 of 1, 81.84 % (380.78 fps, avg 382.35 fps, ETA 00h00m37s)
+2025-12-21 10:14:52,551 INFO: Encoding: task 1 of 1, 81.93 % (380.78 fps, avg 382.35 fps, ETA 00h00m37s)
+2025-12-21 10:14:52,751 INFO: Encoding: task 1 of 1, 82.04 % (380.78 fps, avg 382.35 fps, ETA 00h00m37s)
+2025-12-21 10:14:52,793 INFO: Encoding: task 1 of 1, 82.13 % (373.68 fps, avg 382.22 fps, ETA 00h00m36s)[10:14:52] sync: "Chapter 7" (7) at frame 63615 time 191032842
+2025-12-21 10:14:53,151 INFO: Encoding: task 1 of 1, 82.23 % (373.68 fps, avg 382.22 fps, ETA 00h00m36s)
+2025-12-21 10:14:53,352 INFO: Encoding: task 1 of 1, 82.32 % (373.68 fps, avg 382.22 fps, ETA 00h00m36s)
+2025-12-21 10:14:53,552 INFO: Encoding: task 1 of 1, 82.41 % (373.68 fps, avg 382.22 fps, ETA 00h00m36s)
+2025-12-21 10:14:53,752 INFO: Encoding: task 1 of 1, 82.53 % (373.68 fps, avg 382.22 fps, ETA 00h00m36s)
+2025-12-21 10:14:53,952 INFO: Encoding: task 1 of 1, 82.60 % (373.68 fps, avg 382.22 fps, ETA 00h00m36s)
+2025-12-21 10:14:54,152 INFO: Encoding: task 1 of 1, 82.72 % (373.47 fps, avg 382.22 fps, ETA 00h00m35s)
+2025-12-21 10:14:54,353 INFO: Encoding: task 1 of 1, 82.82 % (373.47 fps, avg 382.22 fps, ETA 00h00m35s)
+2025-12-21 10:14:54,553 INFO: Encoding: task 1 of 1, 82.90 % (373.47 fps, avg 382.22 fps, ETA 00h00m35s)
+2025-12-21 10:14:54,753 INFO: Encoding: task 1 of 1, 83.00 % (373.47 fps, avg 382.22 fps, ETA 00h00m35s)
+2025-12-21 10:14:54,954 INFO: Encoding: task 1 of 1, 83.09 % (373.47 fps, avg 382.22 fps, ETA 00h00m35s)
+2025-12-21 10:14:55,154 INFO: Encoding: task 1 of 1, 83.20 % (373.59 fps, avg 382.19 fps, ETA 00h00m34s)
+2025-12-21 10:14:55,354 INFO: Encoding: task 1 of 1, 83.32 % (373.59 fps, avg 382.19 fps, ETA 00h00m34s)
+2025-12-21 10:14:55,554 INFO: Encoding: task 1 of 1, 83.40 % (373.59 fps, avg 382.19 fps, ETA 00h00m34s)
+2025-12-21 10:14:55,755 INFO: Encoding: task 1 of 1, 83.49 % (373.59 fps, avg 382.19 fps, ETA 00h00m34s)
+2025-12-21 10:14:55,955 INFO: Encoding: task 1 of 1, 83.61 % (373.59 fps, avg 382.19 fps, ETA 00h00m34s)
+2025-12-21 10:14:56,155 INFO: Encoding: task 1 of 1, 83.69 % (381.56 fps, avg 382.20 fps, ETA 00h00m33s)
+2025-12-21 10:14:56,355 INFO: Encoding: task 1 of 1, 83.80 % (381.56 fps, avg 382.20 fps, ETA 00h00m33s)
+2025-12-21 10:14:56,556 INFO: Encoding: task 1 of 1, 83.89 % (381.56 fps, avg 382.20 fps, ETA 00h00m33s)
+2025-12-21 10:14:56,756 INFO: Encoding: task 1 of 1, 84.01 % (381.56 fps, avg 382.20 fps, ETA 00h00m33s)
+2025-12-21 10:14:56,956 INFO: Encoding: task 1 of 1, 84.10 % (381.56 fps, avg 382.20 fps, ETA 00h00m33s)
+2025-12-21 10:14:57,156 INFO: Encoding: task 1 of 1, 84.19 % (382.56 fps, avg 382.22 fps, ETA 00h00m32s)
+2025-12-21 10:14:57,357 INFO: Encoding: task 1 of 1, 84.30 % (382.56 fps, avg 382.22 fps, ETA 00h00m32s)
+2025-12-21 10:14:57,557 INFO: Encoding: task 1 of 1, 84.39 % (382.56 fps, avg 382.22 fps, ETA 00h00m32s)
+2025-12-21 10:14:57,757 INFO: Encoding: task 1 of 1, 84.51 % (382.56 fps, avg 382.22 fps, ETA 00h00m32s)
+2025-12-21 10:14:57,957 INFO: Encoding: task 1 of 1, 84.60 % (382.56 fps, avg 382.22 fps, ETA 00h00m32s)
+2025-12-21 10:14:58,157 INFO: Encoding: task 1 of 1, 84.71 % (390.64 fps, avg 382.34 fps, ETA 00h00m31s)
+2025-12-21 10:14:58,357 INFO: Encoding: task 1 of 1, 84.79 % (390.64 fps, avg 382.34 fps, ETA 00h00m31s)
+2025-12-21 10:14:58,558 INFO: Encoding: task 1 of 1, 84.89 % (390.64 fps, avg 382.34 fps, ETA 00h00m31s)
+2025-12-21 10:14:58,758 INFO: Encoding: task 1 of 1, 84.99 % (390.64 fps, avg 382.34 fps, ETA 00h00m31s)
+2025-12-21 10:14:58,958 INFO: Encoding: task 1 of 1, 85.09 % (390.64 fps, avg 382.34 fps, ETA 00h00m31s)
+2025-12-21 10:14:59,158 INFO: Encoding: task 1 of 1, 85.18 % (383.49 fps, avg 382.23 fps, ETA 00h00m30s)
+2025-12-21 10:14:59,358 INFO: Encoding: task 1 of 1, 85.27 % (383.49 fps, avg 382.23 fps, ETA 00h00m30s)
+2025-12-21 10:14:59,558 INFO: Encoding: task 1 of 1, 85.37 % (383.49 fps, avg 382.23 fps, ETA 00h00m30s)
+2025-12-21 10:14:59,759 INFO: Encoding: task 1 of 1, 85.48 % (383.49 fps, avg 382.23 fps, ETA 00h00m30s)
+2025-12-21 10:14:59,959 INFO: Encoding: task 1 of 1, 85.58 % (383.49 fps, avg 382.23 fps, ETA 00h00m30s)
+2025-12-21 10:15:00,159 INFO: Encoding: task 1 of 1, 85.67 % (381.14 fps, avg 382.20 fps, ETA 00h00m29s)
+2025-12-21 10:15:00,359 INFO: Encoding: task 1 of 1, 85.76 % (381.14 fps, avg 382.20 fps, ETA 00h00m29s)
+2025-12-21 10:15:00,559 INFO: Encoding: task 1 of 1, 85.88 % (381.14 fps, avg 382.20 fps, ETA 00h00m29s)
+2025-12-21 10:15:00,759 INFO: Encoding: task 1 of 1, 85.97 % (381.14 fps, avg 382.20 fps, ETA 00h00m29s)
+2025-12-21 10:15:00,960 INFO: Encoding: task 1 of 1, 86.06 % (381.14 fps, avg 382.20 fps, ETA 00h00m29s)
+2025-12-21 10:15:01,160 INFO: Encoding: task 1 of 1, 86.20 % (375.08 fps, avg 382.21 fps, ETA 00h00m28s)
+2025-12-21 10:15:01,360 INFO: Encoding: task 1 of 1, 86.26 % (375.08 fps, avg 382.21 fps, ETA 00h00m28s)
+2025-12-21 10:15:01,560 INFO: Encoding: task 1 of 1, 86.39 % (375.08 fps, avg 382.21 fps, ETA 00h00m28s)
+2025-12-21 10:15:01,761 INFO: Encoding: task 1 of 1, 86.46 % (375.08 fps, avg 382.21 fps, ETA 00h00m28s)
+2025-12-21 10:15:01,961 INFO: Encoding: task 1 of 1, 86.57 % (375.08 fps, avg 382.21 fps, ETA 00h00m28s)
+2025-12-21 10:15:02,161 INFO: Encoding: task 1 of 1, 86.67 % (382.05 fps, avg 382.22 fps, ETA 00h00m27s)
+2025-12-21 10:15:02,361 INFO: Encoding: task 1 of 1, 86.78 % (382.05 fps, avg 382.22 fps, ETA 00h00m27s)
+2025-12-21 10:15:02,561 INFO: Encoding: task 1 of 1, 86.87 % (382.05 fps, avg 382.22 fps, ETA 00h00m27s)
+2025-12-21 10:15:02,761 INFO: Encoding: task 1 of 1, 86.96 % (382.05 fps, avg 382.22 fps, ETA 00h00m27s)
+2025-12-21 10:15:02,962 INFO: Encoding: task 1 of 1, 87.08 % (382.05 fps, avg 382.22 fps, ETA 00h00m27s)
+2025-12-21 10:15:03,162 INFO: Encoding: task 1 of 1, 87.16 % (382.05 fps, avg 382.22 fps, ETA 00h00m27s)
+2025-12-21 10:15:03,362 INFO: Encoding: task 1 of 1, 87.27 % (383.90 fps, avg 382.23 fps, ETA 00h00m26s)
+2025-12-21 10:15:03,562 INFO: Encoding: task 1 of 1, 87.36 % (383.90 fps, avg 382.23 fps, ETA 00h00m26s)
+2025-12-21 10:15:03,762 INFO: Encoding: task 1 of 1, 87.45 % (383.90 fps, avg 382.23 fps, ETA 00h00m26s)
+2025-12-21 10:15:03,962 INFO: Encoding: task 1 of 1, 87.55 % (383.90 fps, avg 382.23 fps, ETA 00h00m26s)
+2025-12-21 10:15:04,162 INFO: Encoding: task 1 of 1, 87.67 % (383.90 fps, avg 382.23 fps, ETA 00h00m26s)
+2025-12-21 10:15:04,363 INFO: Encoding: task 1 of 1, 87.76 % (383.82 fps, avg 382.24 fps, ETA 00h00m24s)
+2025-12-21 10:15:04,563 INFO: Encoding: task 1 of 1, 87.87 % (383.82 fps, avg 382.24 fps, ETA 00h00m24s)
+2025-12-21 10:15:04,763 INFO: Encoding: task 1 of 1, 87.95 % (383.82 fps, avg 382.24 fps, ETA 00h00m24s)
+2025-12-21 10:15:04,963 INFO: Encoding: task 1 of 1, 88.07 % (383.82 fps, avg 382.24 fps, ETA 00h00m24s)
+2025-12-21 10:15:05,163 INFO: Encoding: task 1 of 1, 88.16 % (383.82 fps, avg 382.24 fps, ETA 00h00m24s)
+2025-12-21 10:15:05,363 INFO: Encoding: task 1 of 1, 88.28 % (385.87 fps, avg 382.29 fps, ETA 00h00m23s)
+2025-12-21 10:15:05,564 INFO: Encoding: task 1 of 1, 88.37 % (385.87 fps, avg 382.29 fps, ETA 00h00m23s)
+2025-12-21 10:15:05,764 INFO: Encoding: task 1 of 1, 88.46 % (385.87 fps, avg 382.29 fps, ETA 00h00m23s)
+2025-12-21 10:15:05,964 INFO: Encoding: task 1 of 1, 88.56 % (385.87 fps, avg 382.29 fps, ETA 00h00m23s)
+2025-12-21 10:15:06,164 INFO: Encoding: task 1 of 1, 88.68 % (385.87 fps, avg 382.29 fps, ETA 00h00m23s)
+2025-12-21 10:15:06,364 INFO: Encoding: task 1 of 1, 88.77 % (387.28 fps, avg 382.32 fps, ETA 00h00m22s)
+2025-12-21 10:15:06,564 INFO: Encoding: task 1 of 1, 88.86 % (387.28 fps, avg 382.32 fps, ETA 00h00m22s)
+2025-12-21 10:15:06,765 INFO: Encoding: task 1 of 1, 88.97 % (387.28 fps, avg 382.32 fps, ETA 00h00m22s)
+2025-12-21 10:15:06,965 INFO: Encoding: task 1 of 1, 89.08 % (387.28 fps, avg 382.32 fps, ETA 00h00m22s)
+2025-12-21 10:15:07,165 INFO: Encoding: task 1 of 1, 89.17 % (387.28 fps, avg 382.32 fps, ETA 00h00m22s)
+2025-12-21 10:15:07,366 INFO: Encoding: task 1 of 1, 89.26 % (388.67 fps, avg 382.35 fps, ETA 00h00m21s)
+2025-12-21 10:15:07,568 INFO: Encoding: task 1 of 1, 89.37 % (388.67 fps, avg 382.35 fps, ETA 00h00m21s)
+2025-12-21 10:15:07,766 INFO: Encoding: task 1 of 1, 89.48 % (388.67 fps, avg 382.35 fps, ETA 00h00m21s)
+2025-12-21 10:15:07,966 INFO: Encoding: task 1 of 1, 89.56 % (388.67 fps, avg 382.35 fps, ETA 00h00m21s)
+2025-12-21 10:15:08,166 INFO: Encoding: task 1 of 1, 89.67 % (388.67 fps, avg 382.35 fps, ETA 00h00m21s)
+2025-12-21 10:15:08,366 INFO: Encoding: task 1 of 1, 89.77 % (387.35 fps, avg 382.37 fps, ETA 00h00m20s)
+2025-12-21 10:15:08,566 INFO: Encoding: task 1 of 1, 89.87 % (387.35 fps, avg 382.37 fps, ETA 00h00m20s)
+2025-12-21 10:15:08,767 INFO: Encoding: task 1 of 1, 89.97 % (387.35 fps, avg 382.37 fps, ETA 00h00m20s)
+2025-12-21 10:15:08,967 INFO: Encoding: task 1 of 1, 90.06 % (387.35 fps, avg 382.37 fps, ETA 00h00m20s)
+2025-12-21 10:15:09,167 INFO: Encoding: task 1 of 1, 90.18 % (387.35 fps, avg 382.37 fps, ETA 00h00m20s)
+2025-12-21 10:15:09,367 INFO: Encoding: task 1 of 1, 90.28 % (387.80 fps, avg 382.41 fps, ETA 00h00m19s)
+2025-12-21 10:15:09,568 INFO: Encoding: task 1 of 1, 90.37 % (387.80 fps, avg 382.41 fps, ETA 00h00m19s)
+2025-12-21 10:15:09,768 INFO: Encoding: task 1 of 1, 90.47 % (387.80 fps, avg 382.41 fps, ETA 00h00m19s)
+2025-12-21 10:15:09,968 INFO: Encoding: task 1 of 1, 90.56 % (387.80 fps, avg 382.41 fps, ETA 00h00m19s)
+2025-12-21 10:15:10,168 INFO: Encoding: task 1 of 1, 90.65 % (387.80 fps, avg 382.41 fps, ETA 00h00m19s)
+2025-12-21 10:15:10,368 INFO: Encoding: task 1 of 1, 90.76 % (385.17 fps, avg 382.40 fps, ETA 00h00m18s)
+2025-12-21 10:15:10,568 INFO: Encoding: task 1 of 1, 90.85 % (385.17 fps, avg 382.40 fps, ETA 00h00m18s)
+2025-12-21 10:15:10,768 INFO: Encoding: task 1 of 1, 90.97 % (385.17 fps, avg 382.40 fps, ETA 00h00m18s)
+2025-12-21 10:15:10,969 INFO: Encoding: task 1 of 1, 91.06 % (385.17 fps, avg 382.40 fps, ETA 00h00m18s)
+2025-12-21 10:15:11,169 INFO: Encoding: task 1 of 1, 91.16 % (385.17 fps, avg 382.40 fps, ETA 00h00m18s)
+2025-12-21 10:15:11,369 INFO: Encoding: task 1 of 1, 91.27 % (386.54 fps, avg 382.44 fps, ETA 00h00m17s)
+2025-12-21 10:15:11,570 INFO: Encoding: task 1 of 1, 91.36 % (386.54 fps, avg 382.44 fps, ETA 00h00m17s)
+2025-12-21 10:15:11,769 INFO: Encoding: task 1 of 1, 91.46 % (386.54 fps, avg 382.44 fps, ETA 00h00m17s)
+2025-12-21 10:15:11,970 INFO: Encoding: task 1 of 1, 91.56 % (386.54 fps, avg 382.44 fps, ETA 00h00m17s)
+2025-12-21 10:15:12,170 INFO: Encoding: task 1 of 1, 91.67 % (386.54 fps, avg 382.44 fps, ETA 00h00m17s)
+2025-12-21 10:15:12,371 INFO: Encoding: task 1 of 1, 91.76 % (386.54 fps, avg 382.44 fps, ETA 00h00m17s)
+2025-12-21 10:15:12,571 INFO: Encoding: task 1 of 1, 91.87 % (385.71 fps, avg 382.47 fps, ETA 00h00m16s)
+2025-12-21 10:15:12,772 INFO: Encoding: task 1 of 1, 91.97 % (385.71 fps, avg 382.47 fps, ETA 00h00m16s)
+2025-12-21 10:15:12,972 INFO: Encoding: task 1 of 1, 92.06 % (385.71 fps, avg 382.47 fps, ETA 00h00m16s)
+2025-12-21 10:15:13,172 INFO: Encoding: task 1 of 1, 92.16 % (385.71 fps, avg 382.47 fps, ETA 00h00m16s)
+2025-12-21 10:15:13,372 INFO: Encoding: task 1 of 1, 92.25 % (385.71 fps, avg 382.47 fps, ETA 00h00m16s)
+2025-12-21 10:15:13,572 INFO: Encoding: task 1 of 1, 92.37 % (386.97 fps, avg 382.47 fps, ETA 00h00m15s)
+2025-12-21 10:15:13,772 INFO: Encoding: task 1 of 1, 92.46 % (386.97 fps, avg 382.47 fps, ETA 00h00m15s)
+2025-12-21 10:15:13,973 INFO: Encoding: task 1 of 1, 92.56 % (386.97 fps, avg 382.47 fps, ETA 00h00m15s)
+2025-12-21 10:15:14,173 INFO: Encoding: task 1 of 1, 92.66 % (386.97 fps, avg 382.47 fps, ETA 00h00m15s)
+2025-12-21 10:15:14,374 INFO: Encoding: task 1 of 1, 92.75 % (386.97 fps, avg 382.47 fps, ETA 00h00m15s)
+2025-12-21 10:15:14,574 INFO: Encoding: task 1 of 1, 92.85 % (383.88 fps, avg 382.46 fps, ETA 00h00m14s)
+2025-12-21 10:15:14,774 INFO: Encoding: task 1 of 1, 92.96 % (383.88 fps, avg 382.46 fps, ETA 00h00m14s)
+2025-12-21 10:15:14,974 INFO: Encoding: task 1 of 1, 93.05 % (383.88 fps, avg 382.46 fps, ETA 00h00m14s)
+2025-12-21 10:15:15,175 INFO: Encoding: task 1 of 1, 93.16 % (383.88 fps, avg 382.46 fps, ETA 00h00m14s)
+2025-12-21 10:15:15,376 INFO: Encoding: task 1 of 1, 93.26 % (383.88 fps, avg 382.46 fps, ETA 00h00m14s)
+2025-12-21 10:15:15,575 INFO: Encoding: task 1 of 1, 93.35 % (384.29 fps, avg 382.50 fps, ETA 00h00m13s)
+2025-12-21 10:15:15,775 INFO: Encoding: task 1 of 1, 93.45 % (384.29 fps, avg 382.50 fps, ETA 00h00m13s)
+2025-12-21 10:15:15,976 INFO: Encoding: task 1 of 1, 93.55 % (384.29 fps, avg 382.50 fps, ETA 00h00m13s)
+2025-12-21 10:15:16,176 INFO: Encoding: task 1 of 1, 93.67 % (384.29 fps, avg 382.50 fps, ETA 00h00m13s)
+2025-12-21 10:15:16,376 INFO: Encoding: task 1 of 1, 93.76 % (384.29 fps, avg 382.50 fps, ETA 00h00m13s)
+2025-12-21 10:15:16,576 INFO: Encoding: task 1 of 1, 93.85 % (385.28 fps, avg 382.52 fps, ETA 00h00m12s)
+2025-12-21 10:15:16,776 INFO: Encoding: task 1 of 1, 93.95 % (385.28 fps, avg 382.52 fps, ETA 00h00m12s)
+2025-12-21 10:15:16,977 INFO: Encoding: task 1 of 1, 94.06 % (385.28 fps, avg 382.52 fps, ETA 00h00m12s)
+2025-12-21 10:15:17,177 INFO: Encoding: task 1 of 1, 94.14 % (385.28 fps, avg 382.52 fps, ETA 00h00m12s)
+2025-12-21 10:15:17,377 INFO: Encoding: task 1 of 1, 94.25 % (385.28 fps, avg 382.52 fps, ETA 00h00m12s)
+2025-12-21 10:15:17,577 INFO: Encoding: task 1 of 1, 94.34 % (390.20 fps, avg 382.59 fps, ETA 00h00m11s)
+2025-12-21 10:15:17,778 INFO: Encoding: task 1 of 1, 94.44 % (390.20 fps, avg 382.59 fps, ETA 00h00m11s)
+2025-12-21 10:15:17,978 INFO: Encoding: task 1 of 1, 94.55 % (390.20 fps, avg 382.59 fps, ETA 00h00m11s)
+2025-12-21 10:15:18,178 INFO: Encoding: task 1 of 1, 94.65 % (390.20 fps, avg 382.59 fps, ETA 00h00m11s)
+2025-12-21 10:15:18,378 INFO: Encoding: task 1 of 1, 94.74 % (390.20 fps, avg 382.59 fps, ETA 00h00m11s)
+2025-12-21 10:15:18,578 INFO: Encoding: task 1 of 1, 94.85 % (384.06 fps, avg 382.52 fps, ETA 00h00m10s)
+2025-12-21 10:15:18,779 INFO: Encoding: task 1 of 1, 94.95 % (384.06 fps, avg 382.52 fps, ETA 00h00m10s)
+2025-12-21 10:15:18,979 INFO: Encoding: task 1 of 1, 95.04 % (384.06 fps, avg 382.52 fps, ETA 00h00m10s)
+2025-12-21 10:15:19,179 INFO: Encoding: task 1 of 1, 95.13 % (384.06 fps, avg 382.52 fps, ETA 00h00m10s)
+2025-12-21 10:15:19,379 INFO: Encoding: task 1 of 1, 95.23 % (384.06 fps, avg 382.52 fps, ETA 00h00m10s)
+2025-12-21 10:15:19,580 INFO: Encoding: task 1 of 1, 95.34 % (380.69 fps, avg 382.49 fps, ETA 00h00m09s)
+2025-12-21 10:15:19,780 INFO: Encoding: task 1 of 1, 95.44 % (380.69 fps, avg 382.49 fps, ETA 00h00m09s)
+2025-12-21 10:15:19,980 INFO: Encoding: task 1 of 1, 95.54 % (380.69 fps, avg 382.49 fps, ETA 00h00m09s)
+2025-12-21 10:15:20,180 INFO: Encoding: task 1 of 1, 95.63 % (380.69 fps, avg 382.49 fps, ETA 00h00m09s)
+2025-12-21 10:15:20,380 INFO: Encoding: task 1 of 1, 95.72 % (380.69 fps, avg 382.49 fps, ETA 00h00m09s)
+2025-12-21 10:15:20,580 INFO: Encoding: task 1 of 1, 95.84 % (381.06 fps, avg 382.56 fps, ETA 00h00m08s)
+2025-12-21 10:15:20,781 INFO: Encoding: task 1 of 1, 95.93 % (381.06 fps, avg 382.56 fps, ETA 00h00m08s)
+2025-12-21 10:15:20,981 INFO: Encoding: task 1 of 1, 96.03 % (381.06 fps, avg 382.56 fps, ETA 00h00m08s)
+2025-12-21 10:15:21,181 INFO: Encoding: task 1 of 1, 96.14 % (381.06 fps, avg 382.56 fps, ETA 00h00m08s)
+2025-12-21 10:15:21,381 INFO: Encoding: task 1 of 1, 96.24 % (381.06 fps, avg 382.56 fps, ETA 00h00m08s)
+2025-12-21 10:15:21,581 INFO: Encoding: task 1 of 1, 96.33 % (381.56 fps, avg 382.50 fps, ETA 00h00m07s)
+2025-12-21 10:15:21,781 INFO: Encoding: task 1 of 1, 96.42 % (381.56 fps, avg 382.50 fps, ETA 00h00m07s)
+2025-12-21 10:15:21,982 INFO: Encoding: task 1 of 1, 96.51 % (381.56 fps, avg 382.50 fps, ETA 00h00m07s)
+2025-12-21 10:15:22,182 INFO: Encoding: task 1 of 1, 96.62 % (381.56 fps, avg 382.50 fps, ETA 00h00m07s)
+2025-12-21 10:15:22,382 INFO: Encoding: task 1 of 1, 96.71 % (381.56 fps, avg 382.50 fps, ETA 00h00m07s)
+2025-12-21 10:15:22,583 INFO: Encoding: task 1 of 1, 96.80 % (381.76 fps, avg 382.48 fps, ETA 00h00m06s)
+2025-12-21 10:15:22,783 INFO: Encoding: task 1 of 1, 96.91 % (381.76 fps, avg 382.48 fps, ETA 00h00m06s)
+2025-12-21 10:15:22,984 INFO: Encoding: task 1 of 1, 97.02 % (381.76 fps, avg 382.48 fps, ETA 00h00m06s)
+2025-12-21 10:15:23,184 INFO: Encoding: task 1 of 1, 97.11 % (381.76 fps, avg 382.48 fps, ETA 00h00m06s)
+2025-12-21 10:15:23,385 INFO: Encoding: task 1 of 1, 97.23 % (381.76 fps, avg 382.48 fps, ETA 00h00m06s)
+2025-12-21 10:15:23,586 INFO: Encoding: task 1 of 1, 97.32 % (379.71 fps, avg 382.52 fps, ETA 00h00m05s)
+2025-12-21 10:15:23,785 INFO: Encoding: task 1 of 1, 97.41 % (379.71 fps, avg 382.52 fps, ETA 00h00m05s)
+2025-12-21 10:15:23,986 INFO: Encoding: task 1 of 1, 97.52 % (379.71 fps, avg 382.52 fps, ETA 00h00m05s)
+2025-12-21 10:15:24,186 INFO: Encoding: task 1 of 1, 97.62 % (379.71 fps, avg 382.52 fps, ETA 00h00m05s)
+2025-12-21 10:15:24,387 INFO: Encoding: task 1 of 1, 97.73 % (379.71 fps, avg 382.52 fps, ETA 00h00m05s)
+2025-12-21 10:15:24,587 INFO: Encoding: task 1 of 1, 97.82 % (385.66 fps, avg 382.55 fps, ETA 00h00m04s)
+2025-12-21 10:15:24,787 INFO: Encoding: task 1 of 1, 97.94 % (385.66 fps, avg 382.55 fps, ETA 00h00m04s)
+2025-12-21 10:15:24,988 INFO: Encoding: task 1 of 1, 98.03 % (385.66 fps, avg 382.55 fps, ETA 00h00m04s)
+2025-12-21 10:15:25,189 INFO: Encoding: task 1 of 1, 98.12 % (385.66 fps, avg 382.55 fps, ETA 00h00m04s)
+2025-12-21 10:15:25,389 INFO: Encoding: task 1 of 1, 98.21 % (385.66 fps, avg 382.55 fps, ETA 00h00m04s)
+2025-12-21 10:15:25,589 INFO: Encoding: task 1 of 1, 98.33 % (384.99 fps, avg 382.52 fps, ETA 00h00m03s)
+2025-12-21 10:15:25,789 INFO: Encoding: task 1 of 1, 98.39 % (384.99 fps, avg 382.52 fps, ETA 00h00m03s)
+2025-12-21 10:15:25,989 INFO: Encoding: task 1 of 1, 98.51 % (384.99 fps, avg 382.52 fps, ETA 00h00m03s)
+2025-12-21 10:15:26,189 INFO: Encoding: task 1 of 1, 98.60 % (384.99 fps, avg 382.52 fps, ETA 00h00m03s)
+2025-12-21 10:15:26,390 INFO: Encoding: task 1 of 1, 98.72 % (384.99 fps, avg 382.52 fps, ETA 00h00m03s)
+2025-12-21 10:15:26,590 INFO: Encoding: task 1 of 1, 98.82 % (384.59 fps, avg 382.55 fps, ETA 00h00m02s)
+2025-12-21 10:15:26,790 INFO: Encoding: task 1 of 1, 98.90 % (384.59 fps, avg 382.55 fps, ETA 00h00m02s)
+2025-12-21 10:15:26,990 INFO: Encoding: task 1 of 1, 99.00 % (384.59 fps, avg 382.55 fps, ETA 00h00m02s)
+2025-12-21 10:15:27,190 INFO: Encoding: task 1 of 1, 99.12 % (384.59 fps, avg 382.55 fps, ETA 00h00m02s)
+2025-12-21 10:15:27,390 INFO: Encoding: task 1 of 1, 99.21 % (384.59 fps, avg 382.55 fps, ETA 00h00m02s)
+2025-12-21 10:15:27,591 INFO: Encoding: task 1 of 1, 99.31 % (386.25 fps, avg 382.61 fps, ETA 00h00m01s)
+2025-12-21 10:15:27,791 INFO: Encoding: task 1 of 1, 99.42 % (386.25 fps, avg 382.61 fps, ETA 00h00m01s)
+2025-12-21 10:15:27,991 INFO: Encoding: task 1 of 1, 99.50 % (386.25 fps, avg 382.61 fps, ETA 00h00m01s)
+2025-12-21 10:15:28,191 INFO: Encoding: task 1 of 1, 99.59 % (386.25 fps, avg 382.61 fps, ETA 00h00m01s)
+2025-12-21 10:15:28,391 INFO: Encoding: task 1 of 1, 99.69 % (386.25 fps, avg 382.61 fps, ETA 00h00m01s)
+2025-12-21 10:15:28,591 INFO: Encoding: task 1 of 1, 99.81 % (384.56 fps, avg 382.55 fps, ETA 00h00m00s)
+2025-12-21 10:15:28,622 INFO: Encoding: task 1 of 1, 99.90 % (384.56 fps, avg 382.55 fps, ETA 00h00m00s)[10:15:28] reader: done. 1 scr changes
+2025-12-21 10:15:28,889 INFO: Encoding: task 1 of 1, 100.00 % (384.56 fps, avg 382.55 fps, ETA 00h00m00s)[10:15:28] work: average encoding speed for job is 382.546295 fps
+2025-12-21 10:15:29,029 INFO: Encoding: task 1 of 1, 100.00 % (384.56 fps, avg 382.55 fps, ETA 00h00m00s)[10:15:29] vfr: 77449 frames output, 0 dropped
+2025-12-21 10:15:29,029 INFO: [10:15:29] vfr: lost time: 0 (0 frames)
+2025-12-21 10:15:29,029 INFO: [10:15:29] vfr: gained time: 0 (0 frames) (0 not accounted for)
+2025-12-21 10:15:29,066 INFO: [10:15:29] ac3-decoder done: 80758 frames, 0 decoder errors
+2025-12-21 10:15:29,066 INFO: [10:15:29] mpeg2video-decoder done: 77449 frames, 0 decoder errors
+2025-12-21 10:15:29,067 INFO: [10:15:29] sync: got 77449 frames, 77449 expected
+2025-12-21 10:15:29,067 INFO: [10:15:29] sync: framerate min 29.970 fps, max 29.970 fps, avg 29.970 fps
+2025-12-21 10:15:29,112 INFO: [10:15:29] mux: track 0, 77449 frames, 1349423938 bytes, 4177.33 kbps, fifo 1024
+2025-12-21 10:15:29,112 INFO: [10:15:29] mux: track 1, 80758 frames, 62022144 bytes, 192.00 kbps, fifo 1024
+2025-12-21 10:15:29,112 INFO: [10:15:29] mux: track 2, 1620 frames, 7924200 bytes, 24.53 kbps, fifo 32
+2025-12-21 10:15:29,112 INFO: [10:15:29] mux: track 3, 1616 frames, 7357060 bytes, 22.77 kbps, fifo 32
+2025-12-21 10:15:29,112 INFO: [10:15:29] mux: track 4, 1634 frames, 7841945 bytes, 24.28 kbps, fifo 32
+2025-12-21 10:15:29,113 INFO: [10:15:29] mux: track 5, 1638 frames, 7911255 bytes, 24.49 kbps, fifo 32
+2025-12-21 10:15:29,113 INFO: [10:15:29] mux: track 6, 1630 frames, 6726017 bytes, 20.82 kbps, fifo 32
+2025-12-21 10:15:29,113 INFO: [10:15:29] mux: track 7, 1644 frames, 6623094 bytes, 20.50 kbps, fifo 32
+2025-12-21 10:15:29,113 INFO: [10:15:29] mux: track 8, 2050 frames, 5029294 bytes, 15.57 kbps, fifo 128
+2025-12-21 10:15:29,113 INFO: [10:15:29] mux: track 9, 1632 frames, 6763501 bytes, 20.94 kbps, fifo 32
+2025-12-21 10:15:29,113 INFO: [10:15:29] mux: track 10, 1632 frames, 7463223 bytes, 23.10 kbps, fifo 32
+2025-12-21 10:15:29,113 INFO: [10:15:29] mux: track 11, 1636 frames, 6674793 bytes, 20.66 kbps, fifo 32
+2025-12-21 10:15:29,113 INFO: [10:15:29] mux: track 12, 1198 frames, 5284675 bytes, 16.36 kbps, fifo 16
+2025-12-21 10:15:29,113 INFO: [10:15:29] mux: track 13, 1326 frames, 6064960 bytes, 18.77 kbps, fifo 16
+2025-12-21 10:15:29,113 INFO: [10:15:29] mux: track 14, 1644 frames, 6623094 bytes, 20.50 kbps, fifo 32
+2025-12-21 10:15:29,114 INFO: [10:15:29] mux: track 15, 1654 frames, 7049273 bytes, 21.82 kbps, fifo 32
+2025-12-21 10:15:29,114 INFO: [10:15:29] mux: track 16, 1058 frames, 4842119 bytes, 14.99 kbps, fifo 16
+2025-12-21 10:15:29,114 INFO: [10:15:29] Finished work at: Sun Dec 21 10:15:29 2025
+2025-12-21 10:15:29,146 INFO: [10:15:29] libhb: work result = 0
+2025-12-21 10:15:29,192 INFO: Encode done!
+2025-12-21 10:15:29,199 INFO: HandBrake has exited.
+2025-12-21 10:15:29,241 DEBUG: exited with code 0
+2025-12-21 10:15:29,241 INFO: Encoded /mnt/ripped/title_t01.mkv -> /mnt/output/title_t01.mkv (HandBrakeCLI)
+2025-12-21 10:15:29,427 INFO: Deleted source file after successful encode: /mnt/ripped/title_t01.mkv
+2025-12-21 10:15:59,430 INFO: Candidate mountpoints: ['/var/lib/autoencoder/state', '/mnt/usb_staging', '/mnt/smb_staging', '/mnt/output', '/mnt/ripped', '/mnt/bluray', '/mnt/input', '/mnt/dvd', '/mnt/usb']
+2025-12-21 10:15:59,435 INFO: Scanning directories: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-21 10:15:59,435 DEBUG: Scan root: /mnt/input ismount=True exists=True sample=[]
+2025-12-21 10:15:59,435 DEBUG: Scan root: /mnt/dvd ismount=True exists=True sample=[]
+2025-12-21 10:15:59,436 DEBUG: Scan root: /mnt/bluray ismount=True exists=True sample=[]
+2025-12-21 10:15:59,436 DEBUG: Scan root: /mnt/usb ismount=True exists=True sample=[]
+2025-12-21 10:15:59,436 DEBUG: Scan root: /mnt/smb_staging ismount=True exists=True sample=[]
+2025-12-21 10:15:59,436 DEBUG: Scan root: /var/lib/autoencoder/state ismount=True exists=True sample=['timing.log', 'smb_allowlist.json', 'diagnostics-repo', 'git', 'config.json', 'usb_seen.json']
+2025-12-21 10:15:59,437 DEBUG: Scan root: /mnt/usb_staging ismount=True exists=True sample=['.gitkeep']
+2025-12-21 10:15:59,437 DEBUG: Scan root: /mnt/ripped ismount=True exists=True sample=['.DS_Store', '._.DS_Store', '._title_t01.mkv']
+2025-12-21 10:15:59,437 INFO: Scanner will walk these roots: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-21 10:15:59,437 INFO: Found 0 candidate video files under /mnt/input
+2025-12-21 10:15:59,438 INFO: Found 0 candidate video files under /mnt/dvd
+2025-12-21 10:15:59,438 INFO: Found 0 candidate video files under /mnt/bluray
+2025-12-21 10:15:59,438 INFO: Found 0 candidate video files under /mnt/usb
+2025-12-21 10:15:59,439 INFO: Found 0 candidate video files under /mnt/smb_staging
+2025-12-21 10:15:59,444 INFO: Found 0 candidate video files under /var/lib/autoencoder/state
+2025-12-21 10:15:59,445 INFO: Found 0 candidate video files under /mnt/usb_staging
+2025-12-21 10:15:59,445 INFO: Found 0 candidate video files under /mnt/ripped
+2025-12-21 10:15:59,445 INFO: Total candidate video files found: 0
+2025-12-21 10:15:59,445 DEBUG: No candidate video files found on this pass.
+2025-12-21 10:16:29,449 INFO: Candidate mountpoints: ['/var/lib/autoencoder/state', '/mnt/usb_staging', '/mnt/smb_staging', '/mnt/output', '/mnt/ripped', '/mnt/bluray', '/mnt/input', '/mnt/dvd', '/mnt/usb']
+2025-12-21 10:16:29,453 INFO: Scanning directories: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-21 10:16:29,453 DEBUG: Scan root: /mnt/input ismount=True exists=True sample=[]
+2025-12-21 10:16:29,454 DEBUG: Scan root: /mnt/dvd ismount=True exists=True sample=[]
+2025-12-21 10:16:29,454 DEBUG: Scan root: /mnt/bluray ismount=True exists=True sample=[]
+2025-12-21 10:16:29,454 DEBUG: Scan root: /mnt/usb ismount=True exists=True sample=[]
+2025-12-21 10:16:29,455 DEBUG: Scan root: /mnt/smb_staging ismount=True exists=True sample=[]
+2025-12-21 10:16:29,455 DEBUG: Scan root: /var/lib/autoencoder/state ismount=True exists=True sample=['timing.log', 'smb_allowlist.json', 'diagnostics-repo', 'git', 'config.json', 'usb_seen.json']
+2025-12-21 10:16:29,455 DEBUG: Scan root: /mnt/usb_staging ismount=True exists=True sample=['.gitkeep']
+2025-12-21 10:16:29,456 DEBUG: Scan root: /mnt/ripped ismount=True exists=True sample=['.DS_Store', '._.DS_Store', '._title_t01.mkv']
+2025-12-21 10:16:29,456 INFO: Scanner will walk these roots: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-21 10:16:29,456 INFO: Found 0 candidate video files under /mnt/input
+2025-12-21 10:16:29,457 INFO: Found 0 candidate video files under /mnt/dvd
+2025-12-21 10:16:29,457 INFO: Found 0 candidate video files under /mnt/bluray
+2025-12-21 10:16:29,457 INFO: Found 0 candidate video files under /mnt/usb
+2025-12-21 10:16:29,458 INFO: Found 0 candidate video files under /mnt/smb_staging
+2025-12-21 10:16:29,463 INFO: Found 0 candidate video files under /var/lib/autoencoder/state
+2025-12-21 10:16:29,463 INFO: Found 0 candidate video files under /mnt/usb_staging
+2025-12-21 10:16:29,464 INFO: Found 0 candidate video files under /mnt/ripped
+2025-12-21 10:16:29,464 INFO: Total candidate video files found: 0
+2025-12-21 10:16:29,464 DEBUG: No candidate video files found on this pass.
+2025-12-21 10:16:59,467 INFO: Candidate mountpoints: ['/var/lib/autoencoder/state', '/mnt/usb_staging', '/mnt/smb_staging', '/mnt/output', '/mnt/ripped', '/mnt/bluray', '/mnt/input', '/mnt/dvd', '/mnt/usb']
+2025-12-21 10:16:59,471 INFO: Scanning directories: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-21 10:16:59,472 DEBUG: Scan root: /mnt/input ismount=True exists=True sample=[]
+2025-12-21 10:16:59,472 DEBUG: Scan root: /mnt/dvd ismount=True exists=True sample=[]
+2025-12-21 10:16:59,472 DEBUG: Scan root: /mnt/bluray ismount=True exists=True sample=[]
+2025-12-21 10:16:59,472 DEBUG: Scan root: /mnt/usb ismount=True exists=True sample=[]
+2025-12-21 10:16:59,472 DEBUG: Scan root: /mnt/smb_staging ismount=True exists=True sample=[]
+2025-12-21 10:16:59,473 DEBUG: Scan root: /var/lib/autoencoder/state ismount=True exists=True sample=['timing.log', 'smb_allowlist.json', 'diagnostics-repo', 'git', 'config.json', 'usb_seen.json']
+2025-12-21 10:16:59,473 DEBUG: Scan root: /mnt/usb_staging ismount=True exists=True sample=['.gitkeep']
+2025-12-21 10:16:59,473 DEBUG: Scan root: /mnt/ripped ismount=True exists=True sample=['.DS_Store', '._.DS_Store', '._title_t01.mkv']
+2025-12-21 10:16:59,473 INFO: Scanner will walk these roots: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-21 10:16:59,473 INFO: Found 0 candidate video files under /mnt/input
+2025-12-21 10:16:59,474 INFO: Found 0 candidate video files under /mnt/dvd
+2025-12-21 10:16:59,474 INFO: Found 0 candidate video files under /mnt/bluray
+2025-12-21 10:16:59,474 INFO: Found 0 candidate video files under /mnt/usb
+2025-12-21 10:16:59,474 INFO: Found 0 candidate video files under /mnt/smb_staging
+2025-12-21 10:16:59,479 INFO: Found 0 candidate video files under /var/lib/autoencoder/state
+2025-12-21 10:16:59,480 INFO: Found 0 candidate video files under /mnt/usb_staging
+2025-12-21 10:16:59,480 INFO: Found 0 candidate video files under /mnt/ripped
+2025-12-21 10:16:59,480 INFO: Total candidate video files found: 0
+2025-12-21 10:16:59,480 DEBUG: No candidate video files found on this pass.
+2025-12-21 10:17:29,483 INFO: Candidate mountpoints: ['/var/lib/autoencoder/state', '/mnt/usb_staging', '/mnt/smb_staging', '/mnt/output', '/mnt/ripped', '/mnt/bluray', '/mnt/input', '/mnt/dvd', '/mnt/usb']
+2025-12-21 10:17:29,487 INFO: Scanning directories: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-21 10:17:29,488 DEBUG: Scan root: /mnt/input ismount=True exists=True sample=[]
+2025-12-21 10:17:29,488 DEBUG: Scan root: /mnt/dvd ismount=True exists=True sample=[]
+2025-12-21 10:17:29,488 DEBUG: Scan root: /mnt/bluray ismount=True exists=True sample=[]
+2025-12-21 10:17:29,488 DEBUG: Scan root: /mnt/usb ismount=True exists=True sample=[]
+2025-12-21 10:17:29,489 DEBUG: Scan root: /mnt/smb_staging ismount=True exists=True sample=[]
+2025-12-21 10:17:29,489 DEBUG: Scan root: /var/lib/autoencoder/state ismount=True exists=True sample=['timing.log', 'smb_allowlist.json', 'diagnostics-repo', 'git', 'config.json', 'usb_seen.json']
+2025-12-21 10:17:29,489 DEBUG: Scan root: /mnt/usb_staging ismount=True exists=True sample=['.gitkeep']
+2025-12-21 10:17:29,489 DEBUG: Scan root: /mnt/ripped ismount=True exists=True sample=['.DS_Store', '._.DS_Store', '._title_t01.mkv']
+2025-12-21 10:17:29,489 INFO: Scanner will walk these roots: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-21 10:17:29,490 INFO: Found 0 candidate video files under /mnt/input
+2025-12-21 10:17:29,490 INFO: Found 0 candidate video files under /mnt/dvd
+2025-12-21 10:17:29,490 INFO: Found 0 candidate video files under /mnt/bluray
+2025-12-21 10:17:29,490 INFO: Found 0 candidate video files under /mnt/usb
+2025-12-21 10:17:29,490 INFO: Found 0 candidate video files under /mnt/smb_staging
+2025-12-21 10:17:29,496 INFO: Found 0 candidate video files under /var/lib/autoencoder/state
+2025-12-21 10:17:29,496 INFO: Found 0 candidate video files under /mnt/usb_staging
+2025-12-21 10:17:29,496 INFO: Found 0 candidate video files under /mnt/ripped
+2025-12-21 10:17:29,496 INFO: Total candidate video files found: 0
+2025-12-21 10:17:29,496 DEBUG: No candidate video files found on this pass.
+2025-12-21 10:17:58,791 INFO: 192.168.0.118 - - [21/Dec/2025 10:17:58] "GET /settings HTTP/1.1" 200 -
+2025-12-21 10:17:59,499 INFO: Candidate mountpoints: ['/var/lib/autoencoder/state', '/mnt/usb_staging', '/mnt/smb_staging', '/mnt/output', '/mnt/ripped', '/mnt/bluray', '/mnt/input', '/mnt/dvd', '/mnt/usb']
+2025-12-21 10:17:59,503 INFO: Scanning directories: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-21 10:17:59,504 DEBUG: Scan root: /mnt/input ismount=True exists=True sample=[]
+2025-12-21 10:17:59,504 DEBUG: Scan root: /mnt/dvd ismount=True exists=True sample=[]
+2025-12-21 10:17:59,504 DEBUG: Scan root: /mnt/bluray ismount=True exists=True sample=[]
+2025-12-21 10:17:59,504 DEBUG: Scan root: /mnt/usb ismount=True exists=True sample=[]
+2025-12-21 10:17:59,504 DEBUG: Scan root: /mnt/smb_staging ismount=True exists=True sample=[]
+2025-12-21 10:17:59,504 DEBUG: Scan root: /var/lib/autoencoder/state ismount=True exists=True sample=['timing.log', 'smb_allowlist.json', 'diagnostics-repo', 'git', 'config.json', 'usb_seen.json']
+2025-12-21 10:17:59,505 DEBUG: Scan root: /mnt/usb_staging ismount=True exists=True sample=['.gitkeep']
+2025-12-21 10:17:59,505 DEBUG: Scan root: /mnt/ripped ismount=True exists=True sample=['.DS_Store', '._.DS_Store', '._title_t01.mkv']
+2025-12-21 10:17:59,505 INFO: Scanner will walk these roots: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-21 10:17:59,505 INFO: Found 0 candidate video files under /mnt/input
+2025-12-21 10:17:59,505 INFO: Found 0 candidate video files under /mnt/dvd
+2025-12-21 10:17:59,506 INFO: Found 0 candidate video files under /mnt/bluray
+2025-12-21 10:17:59,506 INFO: Found 0 candidate video files under /mnt/usb
+2025-12-21 10:17:59,506 INFO: Found 0 candidate video files under /mnt/smb_staging
+2025-12-21 10:17:59,511 INFO: Found 0 candidate video files under /var/lib/autoencoder/state
+2025-12-21 10:17:59,511 INFO: Found 0 candidate video files under /mnt/usb_staging
+2025-12-21 10:17:59,512 INFO: Found 0 candidate video files under /mnt/ripped
+2025-12-21 10:17:59,512 INFO: Total candidate video files found: 0
+2025-12-21 10:17:59,512 DEBUG: No candidate video files found on this pass.
