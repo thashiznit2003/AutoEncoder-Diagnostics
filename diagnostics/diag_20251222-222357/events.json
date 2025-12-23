@@ -1,0 +1,47 @@
+[
+  {
+    "message": "USB mount ready.",
+    "level": "info",
+    "ts": 1766462280.8541546
+  },
+  {
+    "message": "Disc inserted.",
+    "level": "info",
+    "ts": 1766462280.9002943
+  },
+  {
+    "message": "MakeMKV settings saved",
+    "level": "info",
+    "ts": 1766462376.819946
+  },
+  {
+    "message": "Manual MakeMKV rip requested.",
+    "level": "info",
+    "ts": 1766462379.418763
+  },
+  {
+    "message": "MakeMKV rip started (dev:/dev/sr0; titles=1; audio=eng; subs=eng)",
+    "level": "info",
+    "ts": 1766462402.4736023
+  },
+  {
+    "message": "MakeMKV rip complete (dev:/dev/sr0)",
+    "level": "info",
+    "ts": 1766463663.502931
+  },
+  {
+    "message": "Manual MakeMKV rip produced: /mnt/ripped/title_t01.mkv",
+    "level": "info",
+    "ts": 1766463663.509048
+  },
+  {
+    "message": "MakeMKV rip started (dev:/dev/sr0; titles=1; audio=eng; subs=eng)",
+    "level": "info",
+    "ts": 1766463666.734859
+  },
+  {
+    "message": "Stopped encode: dev:/dev/sr0",
+    "level": "info",
+    "ts": 1766463794.5554366
+  }
+]
