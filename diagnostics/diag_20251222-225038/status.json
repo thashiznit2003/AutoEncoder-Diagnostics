@@ -1,0 +1,174 @@
+{
+  "active": [],
+  "recent": [],
+  "timestamp": 1766465438.845896,
+  "disc_info": {
+    "disc_index": 0,
+    "info": {
+      "raw": "MSG:1005,0,1,\"MakeMKV v1.18.2 linux(x64-release) started\",\"%1 started\",\"MakeMKV v1.18.2 linux(x64-release)\"\nMSG:5074,0,0,\"Automatic checking for updates is enabled, you may disable it in preferences if you don't want MakeMKV to contact web server.\",\"Automatic checking for updates is enabled, you may disable it in preferences if you don't want MakeMKV to contact web server.\"\nDRV:0,2,999,12,\"BD-RE HL-DT-ST BD-RE  WH16NS40 1.03 M6HIB9G2035\",\"HARRYPOTTER3\",\"/dev/sr0\"\nDRV:1,256,999,0,\"\",\"\",\"\"\nDRV:2,256,999,0,\"\",\"\",\"\"\nDRV:3,256,999,0,\"\",\"\",\"\"\nDRV:4,256,999,0,\"\",\"\",\"\"\nDRV:5,256,999,0,\"\",\"\",\"\"\nDRV:6,256,999,0,\"\",\"\",\"\"\nDRV:7,256,999,0,\"\",\"\",\"\"\nDRV:8,256,999,0,\"\",\"\",\"\"\nDRV:9,256,999,0,\"\",\"\",\"\"\nDRV:10,256,999,0,\"\",\"\",\"\"\nDRV:11,256,999,0,\"\",\"\",\"\"\nDRV:12,256,999,0,\"\",\"\",\"\"\nDRV:13,256,999,0,\"\",\"\",\"\"\nDRV:14,256,999,0,\"\",\"\",\"\"\nDRV:15,256,999,0,\"\",\"\",\"\"\nMSG:3007,0,0,\"Using direct disc access mode\",\"Using direct disc access mode\"\nMSG:5053,1544,1,\"This functionality is shareware. You may evaluate it for 30 days after what you would need to purchase an activation key if you like the functionality. Do you want to start evaluation period now?\",\"This functionality is shareware. You may evaluate it for %1 days after what you would need to purchase an activation key if you like the functionality. Do you want to start evaluation period now?\",\"30\"\nMSG:5050,0,2,\"Evaluation version, 30 day(s) out of 30 remaining\",\"Evaluation version, %1 day(s) out of %2 remaining\",\"30\",\"30\"\n",
+      "titles": [],
+      "summary": {
+        "drive": "BD-RE HL-DT-ST BD-RE  WH16NS40 1.03 M6HIB9G2035",
+        "disc_label": "HARRYPOTTER3"
+      },
+      "formatted": "Label: HARRYPOTTER3 | Drive: BD-RE HL-DT-ST BD-RE  WH16NS40 1.03 M6HIB9G2035"
+    },
+    "raw": "MSG:1005,0,1,\"MakeMKV v1.18.2 linux(x64-release) started\",\"%1 started\",\"MakeMKV v1.18.2 linux(x64-release)\"\nMSG:5074,0,0,\"Automatic checking for updates is enabled, you may disable it in preferences if you don't want MakeMKV to contact web server.\",\"Automatic checking for updates is enabled, you may disable it in preferences if you don't want MakeMKV to contact web server.\"\nDRV:0,2,999,12,\"BD-RE HL-DT-ST BD-RE  WH16NS40 1.03 M6HIB9G2035\",\"HARRYPOTTER3\",\"/dev/sr0\"\nDRV:1,256,999,0,\"\",\"\",\"\"\nDRV:2,256,999,0,\"\",\"\",\"\"\nDRV:3,256,999,0,\"\",\"\",\"\"\nDRV:4,256,999,0,\"\",\"\",\"\"\nDRV:5,256,999,0,\"\",\"\",\"\"\nDRV:6,256,999,0,\"\",\"\",\"\"\nDRV:7,256,999,0,\"\",\"\",\"\"\nDRV:8,256,999,0,\"\",\"\",\"\"\nDRV:9,256,999,0,\"\",\"\",\"\"\nDRV:10,256,999,0,\"\",\"\",\"\"\nDRV:11,256,999,0,\"\",\"\",\"\"\nDRV:12,256,999,0,\"\",\"\",\"\"\nDRV:13,256,999,0,\"\",\"\",\"\"\nDRV:14,256,999,0,\"\",\"\",\"\"\nDRV:15,256,999,0,\"\",\"\",\"\"\nMSG:3007,0,0,\"Using direct disc access mode\",\"Using direct disc access mode\"\nMSG:5053,1544,1,\"This functionality is shareware. You may evaluate it for 30 days after what you would need to purchase an activation key if you like the functionality. Do you want to start evaluation period now?\",\"This functionality is shareware. You may evaluate it for %1 days after what you would need to purchase an activation key if you like the functionality. Do you want to start evaluation period now?\",\"30\"\nMSG:5050,0,2,\"Evaluation version, 30 day(s) out of 30 remaining\",\"Evaluation version, %1 day(s) out of %2 remaining\",\"30\",\"30\"\n",
+    "summary": {
+      "drive": "BD-RE HL-DT-ST BD-RE  WH16NS40 1.03 M6HIB9G2035",
+      "disc_label": "HARRYPOTTER3"
+    },
+    "formatted": "Label: HARRYPOTTER3 | Drive: BD-RE HL-DT-ST BD-RE  WH16NS40 1.03 M6HIB9G2035",
+    "pending": true,
+    "note": "MakeMKV scan still in progress"
+  },
+  "disc_pending": true,
+  "disc_rip_blocked": false,
+  "disc_scan_paused": false,
+  "disc_present": true,
+  "usb_status": {
+    "state": "ready",
+    "message": "USB mount ready"
+  },
+  "version": "1.25.137",
+  "config": {
+    "search_path": null,
+    "output_dir": "/mnt/output",
+    "rip_dir": "/mnt/ripped",
+    "final_dir": "",
+    "profile": "handbrake",
+    "handbrake_presets": [],
+    "max_threads": 4,
+    "rescan_interval": 30,
+    "min_size_mb": 100,
+    "low_bitrate_auto_proceed": true,
+    "low_bitrate_auto_skip": false,
+    "video_extensions": [
+      ".mp4",
+      ".mkv",
+      ".avi",
+      ".mov",
+      ".flv",
+      ".wmv",
+      ".m4v"
+    ],
+    "smb_staging_dir": "/mnt/smb_staging",
+    "usb_staging_dir": "/mnt/usb_staging",
+    "handbrake": {
+      "encoder": "nvenc_h265",
+      "quality": 28,
+      "video_bitrate_kbps": null,
+      "two_pass": false,
+      "audio_offset_ms": 0,
+      "audio_bitrate_kbps": 128,
+      "audio_mode": "auto_dolby",
+      "audio_encoder": "av_aac",
+      "audio_mixdown": "",
+      "audio_drc": null,
+      "audio_gain": null,
+      "audio_samplerate": "",
+      "audio_lang_list": [],
+      "audio_track_list": "",
+      "audio_all": false,
+      "subtitle_mode": "copy_all",
+      "extra_args": [],
+      "extension": ".mkv",
+      "width": 1920,
+      "height": 1080
+    },
+    "handbrake_dvd": {
+      "encoder": "nvenc_h265",
+      "quality": 28,
+      "video_bitrate_kbps": null,
+      "two_pass": false,
+      "audio_offset_ms": 0,
+      "width": 1920,
+      "height": 1080,
+      "extension": ".mkv",
+      "extra_args": [],
+      "audio_bitrate_kbps": 128,
+      "audio_mode": "auto_dolby",
+      "audio_encoder": "av_aac",
+      "audio_mixdown": "",
+      "audio_drc": null,
+      "audio_gain": null,
+      "audio_samplerate": "",
+      "audio_lang_list": [],
+      "audio_track_list": "",
+      "audio_all": false,
+      "subtitle_mode": "copy_all"
+    },
+    "handbrake_br": {
+      "encoder": "nvenc_h265",
+      "quality": 28,
+      "video_bitrate_kbps": null,
+      "two_pass": false,
+      "audio_offset_ms": 0,
+      "width": 3840,
+      "height": 2160,
+      "extension": ".mkv",
+      "extra_args": [],
+      "audio_bitrate_kbps": 128,
+      "audio_mode": "auto_dolby",
+      "audio_encoder": "av_aac",
+      "audio_mixdown": "",
+      "audio_drc": null,
+      "audio_gain": null,
+      "audio_samplerate": "",
+      "audio_lang_list": [],
+      "audio_track_list": "",
+      "audio_all": false,
+      "subtitle_mode": "copy_all"
+    },
+    "makemkv_minlength": 1200,
+    "makemkv_titles": [
+      "1"
+    ],
+    "makemkv_audio_langs": [
+      "eng"
+    ],
+    "makemkv_subtitle_langs": [
+      "eng"
+    ],
+    "makemkv_keep_ripped": false,
+    "makemkv_preferred_audio_langs": [
+      "eng"
+    ],
+    "makemkv_preferred_subtitle_langs": [
+      "eng"
+    ],
+    "makemkv_exclude_commentary": false,
+    "makemkv_prefer_surround": true,
+    "makemkv_auto_rip": false,
+    "debug_mode_enabled": true,
+    "ffmpeg": {
+      "encoder": "dnxhd",
+      "video": "scale=1920:1080,format=yuv422p",
+      "profile": "dnxhr_sq",
+      "extension": ".mov"
+    },
+    "ffmpeg_nvenc": {
+      "encoder": "hevc_nvenc",
+      "video": "scale=1920:1080,format=yuv420p",
+      "profile": "main",
+      "quality": 20,
+      "audio": "copy",
+      "extension": ".mp4"
+    },
+    "ffmpeg_qsv": {
+      "hwdev": "qsv=hw",
+      "filterdev": "hw",
+      "encoder": "hevc_qsv",
+      "video": "hwupload=extra_hw_frames=64,scale_qsv=w=1280:h=720,format=qsv",
+      "quality": 20,
+      "audio": "copy",
+      "extension": ".mp4"
+    },
+    "ffmpeg_fallback": {
+      "encoder": "libx264",
+      "video": "scale=1920:1080,format=yuv420p",
+      "profile": "high",
+      "extension": ".mp4"
+    }
+  }
+}
