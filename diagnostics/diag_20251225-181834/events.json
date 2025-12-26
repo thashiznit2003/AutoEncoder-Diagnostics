@@ -1,0 +1,12 @@
+[
+  {
+    "message": "USB mount ready.",
+    "level": "info",
+    "ts": 1766708073.2834406
+  },
+  {
+    "message": "Disc inserted.",
+    "level": "info",
+    "ts": 1766708073.3385844
+  }
+]
