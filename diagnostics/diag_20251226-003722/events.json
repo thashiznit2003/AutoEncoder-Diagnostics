@@ -1,0 +1,42 @@
+[
+  {
+    "message": "USB mount ready.",
+    "level": "info",
+    "ts": 1766730337.2888374
+  },
+  {
+    "message": "Disc inserted.",
+    "level": "info",
+    "ts": 1766730337.3363307
+  },
+  {
+    "message": "MakeMKV settings saved",
+    "level": "info",
+    "ts": 1766730427.272429
+  },
+  {
+    "message": "Manual MakeMKV rip requested.",
+    "level": "info",
+    "ts": 1766730430.850034
+  },
+  {
+    "message": "MakeMKV info scan timed out; returning partial output",
+    "level": "info",
+    "ts": 1766730455.3329105
+  },
+  {
+    "message": "MakeMKV rip started (dev:/dev/sr0; titles=0; audio=eng; subs=eng)",
+    "level": "info",
+    "ts": 1766730477.5908523
+  },
+  {
+    "message": "MakeMKV rip failed (dev:/dev/sr0)",
+    "level": "error",
+    "ts": 1766730478.2952917
+  },
+  {
+    "message": "Manual MakeMKV rip failed to produce output.",
+    "level": "error",
+    "ts": 1766730478.2953002
+  }
+]
