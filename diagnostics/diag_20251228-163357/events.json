@@ -1,0 +1,77 @@
+[
+  {
+    "message": "USB mount ready.",
+    "level": "info",
+    "ts": 1766957672.320262
+  },
+  {
+    "message": "Disc removed; status cleared.",
+    "level": "info",
+    "ts": 1766957672.398285
+  },
+  {
+    "message": "Detected new file: /mnt/input/Title 17 HP6.mkv",
+    "level": "info",
+    "ts": 1766957702.566844
+  },
+  {
+    "message": "Detected new file: /mnt/usb_staging/Title 17 HP6.mkv",
+    "level": "info",
+    "ts": 1766957702.5668464
+  },
+  {
+    "message": "Encoding started: /mnt/input/Title 17 HP6.mkv",
+    "level": "info",
+    "ts": 1766957702.8350794
+  },
+  {
+    "message": "Stopped encode: /mnt/usb_staging/Title 17 HP6.mkv",
+    "level": "info",
+    "ts": 1766957727.6945183
+  },
+  {
+    "message": "Deleted staged source: /mnt/usb_staging/Title 17 HP6.mkv",
+    "level": "info",
+    "ts": 1766957728.3373713
+  },
+  {
+    "message": "Encoding complete: /mnt/input/Title 17 HP6.mkv",
+    "level": "info",
+    "ts": 1766959989.2246118
+  },
+  {
+    "message": "Disc inserted.",
+    "level": "info",
+    "ts": 1766960020.157718
+  },
+  {
+    "message": "Auto-rip requested for dev:/dev/sr0",
+    "level": "info",
+    "ts": 1766960055.691104
+  },
+  {
+    "message": "Stop All Ripping enabled; auto-rip paused.",
+    "level": "info",
+    "ts": 1766960128.6020732
+  },
+  {
+    "message": "Optical drive reset failed: timed out",
+    "level": "error",
+    "ts": 1766960139.5841875
+  },
+  {
+    "message": "MakeMKV info scan timed out; returning partial output",
+    "level": "info",
+    "ts": 1766960141.119256
+  },
+  {
+    "message": "MakeMKV info scan timed out; returning partial output",
+    "level": "info",
+    "ts": 1766960173.1962464
+  },
+  {
+    "message": "Auto-rip found no titles meeting minimum length.",
+    "level": "error",
+    "ts": 1766960200.8920956
+  }
+]
