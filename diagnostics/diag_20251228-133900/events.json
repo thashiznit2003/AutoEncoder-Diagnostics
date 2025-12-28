@@ -1,0 +1,37 @@
+[
+  {
+    "message": "USB mount ready.",
+    "level": "info",
+    "ts": 1766950398.4710329
+  },
+  {
+    "message": "Disc removed; status cleared.",
+    "level": "info",
+    "ts": 1766950398.5470583
+  },
+  {
+    "message": "MakeMKV settings saved",
+    "level": "info",
+    "ts": 1766950490.0826752
+  },
+  {
+    "message": "Disc inserted.",
+    "level": "info",
+    "ts": 1766950549.3638241
+  },
+  {
+    "message": "Auto-rip requested for dev:/dev/sr0",
+    "level": "info",
+    "ts": 1766950572.3490303
+  },
+  {
+    "message": "MakeMKV info scan timed out; returning partial output",
+    "level": "info",
+    "ts": 1766950694.9631937
+  },
+  {
+    "message": "MakeMKV info scan timed out; returning partial output",
+    "level": "info",
+    "ts": 1766950726.5097268
+  }
+]
