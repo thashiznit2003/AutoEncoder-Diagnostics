@@ -1,0 +1,400 @@
+2025-12-29 14:20:15,325 DEBUG: Scan root: /var/lib/autoencoder/state ismount=True exists=True sample=['timing.log', 'smb_allowlist.json', 'diagnostics-repo', 'git', 'config.json', 'usb_seen.json']
+2025-12-29 14:20:15,326 DEBUG: Scan root: /mnt/usb_staging ismount=True exists=True sample=['.DS_Store', '._.DS_Store', '.gitkeep']
+2025-12-29 14:20:15,326 DEBUG: Scan root: /mnt/ripped ismount=True exists=True sample=['.DS_Store', '._.DS_Store']
+2025-12-29 14:20:15,326 INFO: Scanner will walk these roots: /mnt/input, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-29 14:20:15,326 INFO: Found 0 candidate video files under /mnt/input
+2025-12-29 14:20:15,326 INFO: Found 0 candidate video files under /mnt/usb
+2025-12-29 14:20:15,327 INFO: Found 0 candidate video files under /mnt/smb_staging
+2025-12-29 14:20:15,335 INFO: Found 0 candidate video files under /var/lib/autoencoder/state
+2025-12-29 14:20:15,335 INFO: Found 0 candidate video files under /mnt/usb_staging
+2025-12-29 14:20:15,335 INFO: Found 0 candidate video files under /mnt/ripped
+2025-12-29 14:20:15,335 INFO: Total candidate video files found: 0
+2025-12-29 14:20:15,336 DEBUG: No candidate video files found on this pass.
+2025-12-29 14:20:45,354 INFO: Candidate mountpoints: ['/var/lib/autoencoder/state', '/mnt/smb_staging', '/mnt/usb_staging', '/mnt/output', '/mnt/ripped', '/mnt/input', '/mnt/usb']
+2025-12-29 14:20:45,358 INFO: Scanning directories: /mnt/input, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-29 14:20:45,359 DEBUG: Scan root: /mnt/input ismount=True exists=True sample=['.DS_Store', '._.DS_Store']
+2025-12-29 14:20:45,359 DEBUG: Scan root: /mnt/usb ismount=True exists=True sample=[]
+2025-12-29 14:20:45,359 DEBUG: Scan root: /mnt/smb_staging ismount=True exists=True sample=[]
+2025-12-29 14:20:45,359 DEBUG: Scan root: /var/lib/autoencoder/state ismount=True exists=True sample=['timing.log', 'smb_allowlist.json', 'diagnostics-repo', 'git', 'config.json', 'usb_seen.json']
+2025-12-29 14:20:45,360 DEBUG: Scan root: /mnt/usb_staging ismount=True exists=True sample=['.DS_Store', '._.DS_Store', '.gitkeep']
+2025-12-29 14:20:45,360 DEBUG: Scan root: /mnt/ripped ismount=True exists=True sample=['.DS_Store', '._.DS_Store']
+2025-12-29 14:20:45,360 INFO: Scanner will walk these roots: /mnt/input, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-29 14:20:45,360 INFO: Found 0 candidate video files under /mnt/input
+2025-12-29 14:20:45,360 INFO: Found 0 candidate video files under /mnt/usb
+2025-12-29 14:20:45,361 INFO: Found 0 candidate video files under /mnt/smb_staging
+2025-12-29 14:20:45,369 INFO: Found 0 candidate video files under /var/lib/autoencoder/state
+2025-12-29 14:20:45,369 INFO: Found 0 candidate video files under /mnt/usb_staging
+2025-12-29 14:20:45,370 INFO: Found 0 candidate video files under /mnt/ripped
+2025-12-29 14:20:45,370 INFO: Total candidate video files found: 0
+2025-12-29 14:20:45,370 DEBUG: No candidate video files found on this pass.
+2025-12-29 14:21:15,389 INFO: Candidate mountpoints: ['/var/lib/autoencoder/state', '/mnt/smb_staging', '/mnt/usb_staging', '/mnt/output', '/mnt/ripped', '/mnt/input', '/mnt/usb']
+2025-12-29 14:21:15,393 INFO: Scanning directories: /mnt/input, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-29 14:21:15,393 DEBUG: Scan root: /mnt/input ismount=True exists=True sample=['.DS_Store', '._.DS_Store']
+2025-12-29 14:21:15,393 DEBUG: Scan root: /mnt/usb ismount=True exists=True sample=[]
+2025-12-29 14:21:15,393 DEBUG: Scan root: /mnt/smb_staging ismount=True exists=True sample=[]
+2025-12-29 14:21:15,394 DEBUG: Scan root: /var/lib/autoencoder/state ismount=True exists=True sample=['timing.log', 'smb_allowlist.json', 'diagnostics-repo', 'git', 'config.json', 'usb_seen.json']
+2025-12-29 14:21:15,394 DEBUG: Scan root: /mnt/usb_staging ismount=True exists=True sample=['.DS_Store', '._.DS_Store', '.gitkeep']
+2025-12-29 14:21:15,394 DEBUG: Scan root: /mnt/ripped ismount=True exists=True sample=['.DS_Store', '._.DS_Store']
+2025-12-29 14:21:15,394 INFO: Scanner will walk these roots: /mnt/input, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-29 14:21:15,394 INFO: Found 0 candidate video files under /mnt/input
+2025-12-29 14:21:15,395 INFO: Found 0 candidate video files under /mnt/usb
+2025-12-29 14:21:15,395 INFO: Found 0 candidate video files under /mnt/smb_staging
+2025-12-29 14:21:15,403 INFO: Found 0 candidate video files under /var/lib/autoencoder/state
+2025-12-29 14:21:15,403 INFO: Found 0 candidate video files under /mnt/usb_staging
+2025-12-29 14:21:15,404 INFO: Found 0 candidate video files under /mnt/ripped
+2025-12-29 14:21:15,404 INFO: Total candidate video files found: 0
+2025-12-29 14:21:15,404 DEBUG: No candidate video files found on this pass.
+2025-12-29 14:21:18,242 INFO: 192.168.0.118 - - [29/Dec/2025 14:21:18] "GET /settings HTTP/1.1" 200 -
+2025-12-29 14:21:45,422 INFO: Candidate mountpoints: ['/var/lib/autoencoder/state', '/mnt/smb_staging', '/mnt/usb_staging', '/mnt/output', '/mnt/ripped', '/mnt/input', '/mnt/usb']
+2025-12-29 14:21:45,426 INFO: Scanning directories: /mnt/input, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-29 14:21:45,426 DEBUG: Scan root: /mnt/input ismount=True exists=True sample=['.DS_Store', '._.DS_Store']
+2025-12-29 14:21:45,426 DEBUG: Scan root: /mnt/usb ismount=True exists=True sample=[]
+2025-12-29 14:21:45,427 DEBUG: Scan root: /mnt/smb_staging ismount=True exists=True sample=[]
+2025-12-29 14:21:45,427 DEBUG: Scan root: /var/lib/autoencoder/state ismount=True exists=True sample=['timing.log', 'smb_allowlist.json', 'diagnostics-repo', 'git', 'config.json', 'usb_seen.json']
+2025-12-29 14:21:45,427 DEBUG: Scan root: /mnt/usb_staging ismount=True exists=True sample=['.DS_Store', '._.DS_Store', '.gitkeep']
+2025-12-29 14:21:45,427 DEBUG: Scan root: /mnt/ripped ismount=True exists=True sample=['.DS_Store', '._.DS_Store']
+2025-12-29 14:21:45,428 INFO: Scanner will walk these roots: /mnt/input, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-29 14:21:45,428 INFO: Found 0 candidate video files under /mnt/input
+2025-12-29 14:21:45,428 INFO: Found 0 candidate video files under /mnt/usb
+2025-12-29 14:21:45,428 INFO: Found 0 candidate video files under /mnt/smb_staging
+2025-12-29 14:21:45,437 INFO: Found 0 candidate video files under /var/lib/autoencoder/state
+2025-12-29 14:21:45,437 INFO: Found 0 candidate video files under /mnt/usb_staging
+2025-12-29 14:21:45,437 INFO: Found 0 candidate video files under /mnt/ripped
+2025-12-29 14:21:45,438 INFO: Total candidate video files found: 0
+2025-12-29 14:21:45,438 DEBUG: No candidate video files found on this pass.
+2025-12-29 14:22:15,454 INFO: Candidate mountpoints: ['/var/lib/autoencoder/state', '/mnt/smb_staging', '/mnt/usb_staging', '/mnt/output', '/mnt/ripped', '/mnt/input', '/mnt/usb']
+2025-12-29 14:22:15,458 INFO: Scanning directories: /mnt/input, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-29 14:22:15,458 DEBUG: Scan root: /mnt/input ismount=True exists=True sample=['.DS_Store', '._.DS_Store']
+2025-12-29 14:22:15,458 DEBUG: Scan root: /mnt/usb ismount=True exists=True sample=[]
+2025-12-29 14:22:15,459 DEBUG: Scan root: /mnt/smb_staging ismount=True exists=True sample=[]
+2025-12-29 14:22:15,459 DEBUG: Scan root: /var/lib/autoencoder/state ismount=True exists=True sample=['timing.log', 'smb_allowlist.json', 'diagnostics-repo', 'git', 'config.json', 'usb_seen.json']
+2025-12-29 14:22:15,459 DEBUG: Scan root: /mnt/usb_staging ismount=True exists=True sample=['.DS_Store', '._.DS_Store', '.gitkeep']
+2025-12-29 14:22:15,460 DEBUG: Scan root: /mnt/ripped ismount=True exists=True sample=['.DS_Store', '._.DS_Store']
+2025-12-29 14:22:15,460 INFO: Scanner will walk these roots: /mnt/input, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-29 14:22:15,460 INFO: Found 0 candidate video files under /mnt/input
+2025-12-29 14:22:15,461 INFO: Found 0 candidate video files under /mnt/usb
+2025-12-29 14:22:15,461 INFO: Found 0 candidate video files under /mnt/smb_staging
+2025-12-29 14:22:15,469 INFO: Found 0 candidate video files under /var/lib/autoencoder/state
+2025-12-29 14:22:15,470 INFO: Found 0 candidate video files under /mnt/usb_staging
+2025-12-29 14:22:15,470 INFO: Found 0 candidate video files under /mnt/ripped
+2025-12-29 14:22:15,470 INFO: Total candidate video files found: 0
+2025-12-29 14:22:15,470 DEBUG: No candidate video files found on this pass.
+2025-12-29 14:22:26,709 INFO: 192.168.0.118 - - [29/Dec/2025 14:22:26] "POST /api/makemkv/rip HTTP/1.1" 200 -
+2025-12-29 14:23:33,292 INFO: Candidate mountpoints: ['/var/lib/autoencoder/state', '/mnt/smb_staging', '/mnt/usb_staging', '/mnt/output', '/mnt/ripped', '/mnt/input', '/mnt/usb']
+2025-12-29 14:23:33,296 INFO: Scanning directories: /mnt/input, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-29 14:23:33,296 DEBUG: Scan root: /mnt/input ismount=True exists=True sample=['.DS_Store', '._.DS_Store']
+2025-12-29 14:23:33,296 DEBUG: Scan root: /mnt/usb ismount=True exists=True sample=[]
+2025-12-29 14:23:33,297 DEBUG: Scan root: /mnt/smb_staging ismount=True exists=True sample=[]
+2025-12-29 14:23:33,297 DEBUG: Scan root: /var/lib/autoencoder/state ismount=True exists=True sample=['timing.log', 'smb_allowlist.json', 'diagnostics-repo', 'git', 'config.json', 'usb_seen.json']
+2025-12-29 14:23:33,297 DEBUG: Scan root: /mnt/usb_staging ismount=True exists=True sample=['.DS_Store', '._.DS_Store', '.gitkeep']
+2025-12-29 14:23:33,297 DEBUG: Scan root: /mnt/ripped ismount=True exists=True sample=['.DS_Store', '._.DS_Store']
+2025-12-29 14:23:33,297 INFO: Scanner will walk these roots: /mnt/input, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-29 14:23:33,298 INFO: Found 0 candidate video files under /mnt/input
+2025-12-29 14:23:33,298 INFO: Found 0 candidate video files under /mnt/usb
+2025-12-29 14:23:33,298 INFO: Found 0 candidate video files under /mnt/smb_staging
+2025-12-29 14:23:33,306 INFO: Found 0 candidate video files under /var/lib/autoencoder/state
+2025-12-29 14:23:33,306 INFO: Found 0 candidate video files under /mnt/usb_staging
+2025-12-29 14:23:33,307 INFO: Found 0 candidate video files under /mnt/ripped
+2025-12-29 14:23:33,307 INFO: Total candidate video files found: 0
+2025-12-29 14:23:33,307 DEBUG: No candidate video files found on this pass.
+2025-12-29 14:23:35,395 INFO: Running MakeMKV: makemkvcon -r --progress=-same mkv dev:/dev/sr0 1 /mnt/ripped
+2025-12-29 14:23:35,423 INFO: MSG:1005,0,1,"MakeMKV v1.18.2 linux(x64-release) started","%1 started","MakeMKV v1.18.2 linux(x64-release)"
+2025-12-29 14:23:35,937 INFO: PRGT:5018,0,"Scanning CD-ROM devices"
+2025-12-29 14:23:35,937 INFO: PRGC:5018,0,"Scanning CD-ROM devices"
+2025-12-29 14:23:35,937 INFO: PRGV:0,0,65536
+2025-12-29 14:23:35,937 INFO: PRGV:0,0,65536
+2025-12-29 14:23:36,037 INFO: PRGV:65536,0,65536
+2025-12-29 14:23:36,037 INFO: PRGV:65536,65536,65536
+2025-12-29 14:23:37,140 INFO: DRV:0,2,999,12,"BD-RE HL-DT-ST BD-RE  WH16NS40 1.03 M6HIB9G2035","HARRY_POTTER_7_PART_1","/dev/sr0"
+2025-12-29 14:23:37,141 INFO: DRV:1,256,999,0,"","",""
+2025-12-29 14:23:37,141 INFO: DRV:2,256,999,0,"","",""
+2025-12-29 14:23:37,141 INFO: DRV:3,256,999,0,"","",""
+2025-12-29 14:23:37,141 INFO: DRV:4,256,999,0,"","",""
+2025-12-29 14:23:37,141 INFO: DRV:5,256,999,0,"","",""
+2025-12-29 14:23:37,141 INFO: DRV:6,256,999,0,"","",""
+2025-12-29 14:23:37,141 INFO: DRV:7,256,999,0,"","",""
+2025-12-29 14:23:37,141 INFO: DRV:8,256,999,0,"","",""
+2025-12-29 14:23:37,141 INFO: DRV:9,256,999,0,"","",""
+2025-12-29 14:23:37,142 INFO: DRV:10,256,999,0,"","",""
+2025-12-29 14:23:37,142 INFO: DRV:11,256,999,0,"","",""
+2025-12-29 14:23:37,142 INFO: DRV:12,256,999,0,"","",""
+2025-12-29 14:23:37,142 INFO: DRV:13,256,999,0,"","",""
+2025-12-29 14:23:37,142 INFO: DRV:14,256,999,0,"","",""
+2025-12-29 14:23:37,142 INFO: DRV:15,256,999,0,"","",""
+2025-12-29 14:23:37,145 INFO: PRGV:0,65536,65536
+2025-12-29 14:23:37,145 INFO: PRGV:0,0,65536
+2025-12-29 14:23:37,847 INFO: MSG:3007,0,0,"Using direct disc access mode","Using direct disc access mode"
+2025-12-29 14:23:38,549 INFO: PRGT:3404,0,"Opening Blu-ray disc"
+2025-12-29 14:23:38,649 INFO: PRGC:3400,0,"Processing AV clips"
+2025-12-29 14:23:38,649 INFO: PRGV:0,0,65536
+2025-12-29 14:23:38,649 INFO: PRGV:0,0,65536
+2025-12-29 14:23:38,749 INFO: PRGV:7539,0,65536
+2025-12-29 14:23:38,750 INFO: PRGV:7539,1378,65536
+2025-12-29 14:23:38,799 INFO: PRGV:10439,1378,65536
+2025-12-29 14:23:38,800 INFO: PRGV:10439,1908,65536
+2025-12-29 14:23:38,850 INFO: PRGV:26098,1908,65536
+2025-12-29 14:23:38,850 INFO: PRGV:26098,4772,65536
+2025-12-29 14:23:39,301 INFO: PRGV:44077,4772,65536
+2025-12-29 14:23:39,301 INFO: PRGV:44077,8059,65536
+2025-12-29 14:23:39,753 INFO: PRGC:3401,0,"Processing movie playlists"
+2025-12-29 14:23:39,753 INFO: PRGV:0,8059,65536
+2025-12-29 14:23:39,803 INFO: PRGV:4854,8059,65536
+2025-12-29 14:23:39,803 INFO: PRGV:4854,8271,65536
+2025-12-29 14:23:40,254 INFO: PRGV:55826,8271,65536
+2025-12-29 14:23:40,254 INFO: PRGV:55826,10498,65536
+2025-12-29 14:23:40,705 INFO: PRGV:65536,10498,65536
+2025-12-29 14:23:40,706 INFO: PRGV:65536,10922,65536
+2025-12-29 14:23:40,756 INFO: PRGC:3402,0,"Decrypting"
+2025-12-29 14:23:40,756 INFO: PRGV:0,10922,65536
+2025-12-29 14:23:40,806 INFO: MSG:5050,0,2,"Evaluation version, 30 day(s) out of 30 remaining","Evaluation version, %1 day(s) out of %2 remaining","30","30"
+2025-12-29 14:23:40,856 INFO: PRGV:9830,10922,65536
+2025-12-29 14:23:40,856 INFO: PRGV:9830,11558,65536
+2025-12-29 14:23:41,307 INFO: PRGV:16384,11558,65536
+2025-12-29 14:23:41,307 INFO: PRGV:16384,11983,65536
+2025-12-29 14:23:42,762 INFO: PRGV:24576,11983,65536
+2025-12-29 14:23:42,762 INFO: PRGV:24576,12513,65536
+2025-12-29 14:23:43,313 INFO: MSG:5085,0,0,"Loaded content hash table, will verify integrity of M2TS files.","Loaded content hash table, will verify integrity of M2TS files."
+2025-12-29 14:23:46,020 INFO: PRGC:3406,0,"Processing BD+ code"
+2025-12-29 14:23:46,020 INFO: PRGV:0,12513,65536
+2025-12-29 14:23:46,722 INFO: PRGC:3103,0,"Processing titles"
+2025-12-29 14:23:46,822 INFO: MSG:3025,0,3,"Title #00008.mpls has length of 29 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00008.mpls","29","120"
+2025-12-29 14:23:46,828 INFO: PRGV:1941,12513,65536
+2025-12-29 14:23:46,828 INFO: PRGV:1941,12937,65536
+2025-12-29 14:23:47,575 INFO: MSG:3307,0,2,"File 00207.mpls was added as title #0","File %1 was added as title #%2","00207.mpls","0"
+2025-12-29 14:23:47,575 INFO: PRGV:6310,12937,65536
+2025-12-29 14:23:47,575 INFO: PRGV:6310,13891,65536
+2025-12-29 14:23:48,476 INFO: MSG:3307,16777216,2,"File 00100.mpls was added as title #1","File %1 was added as title #%2","00100.mpls","1"
+2025-12-29 14:23:48,477 INFO: MSG:3307,0,2,"File 00200.mpls was added as title #2","File %1 was added as title #%2","00200.mpls","2"
+2025-12-29 14:23:48,477 INFO: PRGV:11165,13891,65536
+2025-12-29 14:23:48,477 INFO: PRGV:11165,14952,65536
+2025-12-29 14:23:49,128 INFO: MSG:3307,16777216,2,"File 00125.m2ts was added as title #3","File %1 was added as title #%2","00125.m2ts","3"
+2025-12-29 14:23:49,128 INFO: MSG:3025,16777216,3,"Title #00020.m2ts has length of 3 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00020.m2ts","3","120"
+2025-12-29 14:23:49,128 INFO: MSG:3025,16777216,3,"Title #00019.m2ts has length of 3 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00019.m2ts","3","120"
+2025-12-29 14:23:49,128 INFO: MSG:3025,16777216,3,"Title #00000.m2ts has length of 41 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00000.m2ts","41","120"
+2025-12-29 14:23:49,128 INFO: MSG:3025,16777216,3,"Title #00013.m2ts has length of 113 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00013.m2ts","113","120"
+2025-12-29 14:23:49,128 INFO: MSG:3025,0,3,"Title #00012.m2ts has length of 32 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00012.m2ts","32","120"
+2025-12-29 14:23:49,128 INFO: PRGV:14078,14952,65536
+2025-12-29 14:23:49,128 INFO: PRGV:14078,15588,65536
+2025-12-29 14:23:49,629 INFO: MSG:3307,0,2,"File 00010.m2ts was added as title #4","File %1 was added as title #%2","00010.m2ts","4"
+2025-12-29 14:23:49,629 INFO: PRGV:14563,15588,65536
+2025-12-29 14:23:49,629 INFO: PRGV:14563,15694,65536
+2025-12-29 14:23:50,030 INFO: MSG:3307,0,2,"File 00016.m2ts was added as title #5","File %1 was added as title #%2","00016.m2ts","5"
+2025-12-29 14:23:50,030 INFO: PRGV:15049,15694,65536
+2025-12-29 14:23:50,030 INFO: PRGV:15049,15800,65536
+2025-12-29 14:23:50,431 INFO: MSG:3307,0,2,"File 00009.m2ts was added as title #6","File %1 was added as title #%2","00009.m2ts","6"
+2025-12-29 14:23:50,431 INFO: PRGV:15534,15800,65536
+2025-12-29 14:23:50,431 INFO: PRGV:15534,15906,65536
+2025-12-29 14:23:50,832 INFO: MSG:3307,16777216,2,"File 00015.m2ts was added as title #7","File %1 was added as title #%2","00015.m2ts","7"
+2025-12-29 14:23:50,832 INFO: MSG:3307,0,2,"File 00008.m2ts was added as title #8","File %1 was added as title #%2","00008.m2ts","8"
+2025-12-29 14:23:50,832 INFO: PRGV:16505,15906,65536
+2025-12-29 14:23:50,832 INFO: PRGV:16505,16118,65536
+2025-12-29 14:23:51,232 INFO: MSG:3307,16777216,2,"File 00014.m2ts was added as title #9","File %1 was added as title #%2","00014.m2ts","9"
+2025-12-29 14:23:51,233 INFO: MSG:3025,16777216,3,"Title #00002.m2ts has length of 7 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00002.m2ts","7","120"
+2025-12-29 14:23:51,233 INFO: MSG:3025,0,3,"Title #00085.m2ts has length of 69 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00085.m2ts","69","120"
+2025-12-29 14:23:51,233 INFO: PRGV:17961,16118,65536
+2025-12-29 14:23:51,233 INFO: PRGV:17961,16437,65536
+2025-12-29 14:23:52,535 INFO: MSG:3307,0,2,"File 00084.m2ts was added as title #10","File %1 was added as title #%2","00084.m2ts","10"
+2025-12-29 14:23:52,535 INFO: PRGV:18447,16437,65536
+2025-12-29 14:23:52,535 INFO: PRGV:18447,16543,65536
+2025-12-29 14:23:53,688 INFO: MSG:3307,0,2,"File 00054.m2ts was added as title #11","File %1 was added as title #%2","00054.m2ts","11"
+2025-12-29 14:23:53,688 INFO: PRGV:18932,16543,65536
+2025-12-29 14:23:53,688 INFO: PRGV:18932,16649,65536
+2025-12-29 14:23:54,389 INFO: MSG:3307,0,2,"File 00052.m2ts was added as title #12","File %1 was added as title #%2","00052.m2ts","12"
+2025-12-29 14:23:54,389 INFO: PRGV:19418,16649,65536
+2025-12-29 14:23:54,389 INFO: PRGV:19418,16755,65536
+2025-12-29 14:23:55,441 INFO: MSG:3307,16777216,2,"File 00051.m2ts was added as title #13","File %1 was added as title #%2","00051.m2ts","13"
+2025-12-29 14:23:55,441 INFO: MSG:3025,0,3,"Title #00135.m2ts has length of 38 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00135.m2ts","38","120"
+2025-12-29 14:23:55,441 INFO: PRGV:20388,16755,65536
+2025-12-29 14:23:55,441 INFO: PRGV:20388,16967,65536
+2025-12-29 14:23:56,493 INFO: MSG:3307,16777216,2,"File 00133.m2ts was added as title #14","File %1 was added as title #%2","00133.m2ts","14"
+2025-12-29 14:23:56,493 INFO: MSG:3025,16777216,3,"Title #00131.m2ts has length of 66 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00131.m2ts","66","120"
+2025-12-29 14:23:56,494 INFO: MSG:3025,0,3,"Title #00130.m2ts has length of 34 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00130.m2ts","34","120"
+2025-12-29 14:23:56,494 INFO: PRGV:21845,16967,65536
+2025-12-29 14:23:56,494 INFO: PRGV:21845,17285,65536
+2025-12-29 14:23:57,145 INFO: MSG:3307,16777216,2,"File 00124.m2ts was added as title #15","File %1 was added as title #%2","00124.m2ts","15"
+2025-12-29 14:23:57,145 INFO: MSG:3025,16777216,3,"Title #00123.m2ts has length of 34 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00123.m2ts","34","120"
+2025-12-29 14:23:57,145 INFO: MSG:3025,16777216,3,"Title #00115.m2ts has length of 117 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00115.m2ts","117","120"
+2025-12-29 14:23:57,145 INFO: MSG:3025,0,3,"Title #00018.m2ts has length of 70 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00018.m2ts","70","120"
+2025-12-29 14:23:57,145 INFO: PRGV:23787,17285,65536
+2025-12-29 14:23:57,145 INFO: PRGV:23787,17709,65536
+2025-12-29 14:23:58,097 INFO: MSG:3307,0,2,"File 00110.m2ts was added as title #16","File %1 was added as title #%2","00110.m2ts","16"
+2025-12-29 14:23:58,097 INFO: PRGV:24272,17709,65536
+2025-12-29 14:23:58,097 INFO: PRGV:24272,17815,65536
+2025-12-29 14:23:58,748 INFO: MSG:3307,16777216,2,"File 00109.m2ts was added as title #17","File %1 was added as title #%2","00109.m2ts","17"
+2025-12-29 14:23:58,748 INFO: MSG:3025,16777216,3,"Title #00108.m2ts has length of 53 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00108.m2ts","53","120"
+2025-12-29 14:23:58,748 INFO: MSG:3025,0,3,"Title #00001.m2ts has length of 7 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00001.m2ts","7","120"
+2025-12-29 14:23:58,749 INFO: PRGV:25728,17815,65536
+2025-12-29 14:23:58,749 INFO: PRGV:25728,18133,65536
+2025-12-29 14:23:59,349 INFO: MSG:3307,16777216,2,"File 00106.m2ts was added as title #18","File %1 was added as title #%2","00106.m2ts","18"
+2025-12-29 14:23:59,350 INFO: MSG:3025,16777216,3,"Title #00104.m2ts has length of 94 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00104.m2ts","94","120"
+2025-12-29 14:23:59,350 INFO: MSG:3025,16777216,3,"Title #00103.m2ts has length of 65 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00103.m2ts","65","120"
+2025-12-29 14:23:59,350 INFO: MSG:3025,16777216,3,"Title #00102.m2ts has length of 80 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00102.m2ts","80","120"
+2025-12-29 14:23:59,350 INFO: MSG:3025,16777216,3,"Title #00101.m2ts has length of 103 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00101.m2ts","103","120"
+2025-12-29 14:23:59,350 INFO: MSG:3025,16777216,3,"Title #00100.m2ts has length of 103 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00100.m2ts","103","120"
+2025-12-29 14:23:59,350 INFO: MSG:3025,16777216,3,"Title #00099.m2ts has length of 103 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00099.m2ts","103","120"
+2025-12-29 14:23:59,350 INFO: MSG:3025,16777216,3,"Title #00098.m2ts has length of 47 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00098.m2ts","47","120"
+2025-12-29 14:23:59,350 INFO: MSG:3025,0,3,"Title #00097.m2ts has length of 90 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00097.m2ts","90","120"
+2025-12-29 14:23:59,350 INFO: PRGV:30098,18133,65536
+2025-12-29 14:23:59,350 INFO: PRGV:30098,19088,65536
+2025-12-29 14:24:00,151 INFO: MSG:3307,0,2,"File 00096.m2ts was added as title #19","File %1 was added as title #%2","00096.m2ts","19"
+2025-12-29 14:24:00,151 INFO: PRGV:30583,19088,65536
+2025-12-29 14:24:00,152 INFO: PRGV:30583,19194,65536
+2025-12-29 14:24:01,053 INFO: MSG:3307,0,2,"File 00093.m2ts was added as title #20","File %1 was added as title #%2","00093.m2ts","20"
+2025-12-29 14:24:01,053 INFO: PRGV:31068,19194,65536
+2025-12-29 14:24:01,053 INFO: PRGV:31068,19300,65536
+2025-12-29 14:24:02,406 INFO: MSG:3307,16777216,2,"File 00089.m2ts was added as title #21","File %1 was added as title #%2","00089.m2ts","21"
+2025-12-29 14:24:02,406 INFO: MSG:3025,16777216,3,"Title #00088.m2ts has length of 72 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00088.m2ts","72","120"
+2025-12-29 14:24:02,406 INFO: MSG:3025,16777216,3,"Title #00126.m2ts has length of 86 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00126.m2ts","86","120"
+2025-12-29 14:24:02,406 INFO: MSG:3025,16777216,3,"Title #00999.m2ts has length of 4 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00999.m2ts","4","120"
+2025-12-29 14:24:02,406 INFO: MSG:3025,16777216,3,"Title #00024.m2ts has length of 5 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00024.m2ts","5","120"
+2025-12-29 14:24:02,406 INFO: MSG:3025,16777216,3,"Title #00007.m2ts has length of 23 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00007.m2ts","23","120"
+2025-12-29 14:24:02,406 INFO: MSG:3025,0,3,"Title #00006.m2ts has length of 6 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00006.m2ts","6","120"
+2025-12-29 14:24:02,406 INFO: PRGV:34467,19300,65536
+2025-12-29 14:24:02,406 INFO: PRGV:34467,20042,65536
+2025-12-29 14:24:02,907 INFO: MSG:3307,16777216,2,"File 00087.m2ts was added as title #22","File %1 was added as title #%2","00087.m2ts","22"
+2025-12-29 14:24:02,907 INFO: MSG:3025,16777216,3,"Title #00086.m2ts has length of 38 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00086.m2ts","38","120"
+2025-12-29 14:24:02,907 INFO: MSG:3025,16777216,3,"Title #00005.m2ts has length of 11 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00005.m2ts","11","120"
+2025-12-29 14:24:02,908 INFO: MSG:3025,16777216,3,"Title #00003.m2ts has length of 11 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00003.m2ts","11","120"
+2025-12-29 14:24:02,908 INFO: MSG:3025,16777216,3,"Title #00083.m2ts has length of 40 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00083.m2ts","40","120"
+2025-12-29 14:24:02,908 INFO: MSG:3025,16777216,3,"Title #00082.m2ts has length of 53 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00082.m2ts","53","120"
+2025-12-29 14:24:02,908 INFO: MSG:3025,16777216,3,"Title #00081.m2ts has length of 34 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00081.m2ts","34","120"
+2025-12-29 14:24:02,908 INFO: MSG:3025,0,3,"Title #00080.m2ts has length of 34 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00080.m2ts","34","120"
+2025-12-29 14:24:02,908 INFO: PRGV:38350,20042,65536
+2025-12-29 14:24:02,908 INFO: PRGV:38350,20890,65536
+2025-12-29 14:24:03,608 INFO: MSG:3307,0,2,"File 00079.m2ts was added as title #23","File %1 was added as title #%2","00079.m2ts","23"
+2025-12-29 14:24:03,608 INFO: PRGV:38836,20890,65536
+2025-12-29 14:24:03,608 INFO: PRGV:38836,20996,65536
+2025-12-29 14:24:04,610 INFO: MSG:3307,16777216,2,"File 00074.m2ts was added as title #24","File %1 was added as title #%2","00074.m2ts","24"
+2025-12-29 14:24:04,610 INFO: MSG:3025,16777216,3,"Title #00073.m2ts has length of 54 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00073.m2ts","54","120"
+2025-12-29 14:24:04,610 INFO: MSG:3025,0,3,"Title #00072.m2ts has length of 86 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00072.m2ts","86","120"
+2025-12-29 14:24:04,611 INFO: PRGV:40292,20996,65536
+2025-12-29 14:24:04,611 INFO: PRGV:40292,21315,65536
+2025-12-29 14:24:05,312 INFO: MSG:3307,0,2,"File 00071.m2ts was added as title #25","File %1 was added as title #%2","00071.m2ts","25"
+2025-12-29 14:24:05,312 INFO: PRGV:40777,21315,65536
+2025-12-29 14:24:05,312 INFO: PRGV:40777,21421,65536
+2025-12-29 14:24:05,963 INFO: MSG:3307,0,2,"File 00070.m2ts was added as title #26","File %1 was added as title #%2","00070.m2ts","26"
+2025-12-29 14:24:05,963 INFO: PRGV:41263,21421,65536
+2025-12-29 14:24:05,963 INFO: PRGV:41263,21527,65536
+2025-12-29 14:24:06,714 INFO: MSG:3307,0,2,"File 00069.m2ts was added as title #27","File %1 was added as title #%2","00069.m2ts","27"
+2025-12-29 14:24:06,714 INFO: PRGV:41748,21527,65536
+2025-12-29 14:24:06,714 INFO: PRGV:41748,21633,65536
+2025-12-29 14:24:07,766 INFO: MSG:3307,16777216,2,"File 00068.m2ts was added as title #28","File %1 was added as title #%2","00068.m2ts","28"
+2025-12-29 14:24:07,767 INFO: MSG:3025,16777216,3,"Title #00067.m2ts has length of 113 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00067.m2ts","113","120"
+2025-12-29 14:24:07,767 INFO: MSG:3025,0,3,"Title #00066.m2ts has length of 34 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00066.m2ts","34","120"
+2025-12-29 14:24:07,767 INFO: PRGV:43205,21633,65536
+2025-12-29 14:24:07,767 INFO: PRGV:43205,21951,65536
+2025-12-29 14:24:08,869 INFO: MSG:3307,16777216,2,"File 00065.m2ts was added as title #29","File %1 was added as title #%2","00065.m2ts","29"
+2025-12-29 14:24:08,869 INFO: MSG:3025,16777216,3,"Title #00064.m2ts has length of 34 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00064.m2ts","34","120"
+2025-12-29 14:24:08,869 INFO: MSG:3025,16777216,3,"Title #00063.m2ts has length of 107 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00063.m2ts","107","120"
+2025-12-29 14:24:08,869 INFO: MSG:3025,0,3,"Title #00062.m2ts has length of 56 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00062.m2ts","56","120"
+2025-12-29 14:24:08,869 INFO: PRGV:45147,21951,65536
+2025-12-29 14:24:08,869 INFO: PRGV:45147,22375,65536
+2025-12-29 14:24:09,520 INFO: MSG:3307,0,2,"File 00061.m2ts was added as title #30","File %1 was added as title #%2","00061.m2ts","30"
+2025-12-29 14:24:09,520 INFO: PRGV:45632,22375,65536
+2025-12-29 14:24:09,521 INFO: PRGV:45632,22481,65536
+2025-12-29 14:24:10,322 INFO: MSG:3307,16777216,2,"File 00060.m2ts was added as title #31","File %1 was added as title #%2","00060.m2ts","31"
+2025-12-29 14:24:10,322 INFO: MSG:3025,16777216,3,"Title #00059.m2ts has length of 63 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00059.m2ts","63","120"
+2025-12-29 14:24:10,322 INFO: MSG:3025,16777216,3,"Title #00053.m2ts has length of 29 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00053.m2ts","29","120"
+2025-12-29 14:24:10,322 INFO: MSG:3025,16777216,3,"Title #00050.m2ts has length of 53 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00050.m2ts","53","120"
+2025-12-29 14:24:10,322 INFO: MSG:3025,16777216,3,"Title #00049.m2ts has length of 54 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00049.m2ts","54","120"
+2025-12-29 14:24:10,322 INFO: MSG:3025,0,3,"Title #00046.m2ts has length of 103 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00046.m2ts","103","120"
+2025-12-29 14:24:10,322 INFO: PRGV:48545,22481,65536
+2025-12-29 14:24:10,322 INFO: PRGV:48545,23117,65536
+2025-12-29 14:24:11,073 INFO: MSG:3307,0,2,"File 00045.m2ts was added as title #32","File %1 was added as title #%2","00045.m2ts","32"
+2025-12-29 14:24:11,074 INFO: PRGV:49030,23117,65536
+2025-12-29 14:24:11,074 INFO: PRGV:49030,23223,65536
+2025-12-29 14:24:11,975 INFO: MSG:3307,0,2,"File 00044.m2ts was added as title #33","File %1 was added as title #%2","00044.m2ts","33"
+2025-12-29 14:24:11,975 INFO: PRGV:49516,23223,65536
+2025-12-29 14:24:11,976 INFO: PRGV:49516,23329,65536
+2025-12-29 14:24:12,877 INFO: MSG:3307,16777216,2,"File 00043.m2ts was added as title #34","File %1 was added as title #%2","00043.m2ts","34"
+2025-12-29 14:24:12,877 INFO: MSG:3025,16777216,3,"Title #00042.m2ts has length of 57 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00042.m2ts","57","120"
+2025-12-29 14:24:12,878 INFO: MSG:3025,16777216,3,"Title #00041.m2ts has length of 28 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00041.m2ts","28","120"
+2025-12-29 14:24:12,878 INFO: MSG:3025,0,3,"Title #00040.m2ts has length of 65 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00040.m2ts","65","120"
+2025-12-29 14:24:12,878 INFO: PRGV:51457,23329,65536
+2025-12-29 14:24:12,878 INFO: PRGV:51457,23754,65536
+2025-12-29 14:24:13,829 INFO: MSG:3307,16777216,2,"File 00039.m2ts was added as title #35","File %1 was added as title #%2","00039.m2ts","35"
+2025-12-29 14:24:13,830 INFO: MSG:3025,16777216,3,"Title #00038.m2ts has length of 38 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00038.m2ts","38","120"
+2025-12-29 14:24:13,830 INFO: MSG:3025,16777216,3,"Title #00037.m2ts has length of 76 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00037.m2ts","76","120"
+2025-12-29 14:24:13,830 INFO: MSG:3025,16777216,3,"Title #00036.m2ts has length of 103 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00036.m2ts","103","120"
+2025-12-29 14:24:13,830 INFO: MSG:3025,16777216,3,"Title #00035.m2ts has length of 49 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00035.m2ts","49","120"
+2025-12-29 14:24:13,830 INFO: MSG:3025,0,3,"Title #00034.m2ts has length of 43 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00034.m2ts","43","120"
+2025-12-29 14:24:13,830 INFO: PRGV:54370,23754,65536
+2025-12-29 14:24:13,830 INFO: PRGV:54370,24390,65536
+2025-12-29 14:24:14,932 INFO: MSG:3307,16777216,2,"File 00033.m2ts was added as title #36","File %1 was added as title #%2","00033.m2ts","36"
+2025-12-29 14:24:14,932 INFO: MSG:3025,0,3,"Title #00032.m2ts has length of 38 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00032.m2ts","38","120"
+2025-12-29 14:24:14,932 INFO: PRGV:55341,24390,65536
+2025-12-29 14:24:14,932 INFO: PRGV:55341,24602,65536
+2025-12-29 14:24:15,833 INFO: MSG:3307,16777216,2,"File 00031.m2ts was added as title #37","File %1 was added as title #%2","00031.m2ts","37"
+2025-12-29 14:24:15,833 INFO: MSG:3025,16777216,3,"Title #00030.m2ts has length of 47 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00030.m2ts","47","120"
+2025-12-29 14:24:15,834 INFO: MSG:3025,16777216,3,"Title #00122.m2ts has length of 71 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00122.m2ts","71","120"
+2025-12-29 14:24:15,834 INFO: MSG:3025,16777216,3,"Title #00029.m2ts has length of 34 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00029.m2ts","34","120"
+2025-12-29 14:24:15,834 INFO: MSG:3025,0,3,"Title #00017.m2ts has length of 29 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00017.m2ts","29","120"
+2025-12-29 14:24:15,834 INFO: PRGV:57768,24602,65536
+2025-12-29 14:24:15,834 INFO: PRGV:57768,25132,65536
+2025-12-29 14:24:16,735 INFO: MSG:3307,16777216,2,"File 00028.m2ts was added as title #38","File %1 was added as title #%2","00028.m2ts","38"
+2025-12-29 14:24:16,735 INFO: MSG:3025,0,3,"Title #00027.m2ts has length of 68 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00027.m2ts","68","120"
+2025-12-29 14:24:16,735 INFO: PRGV:58739,25132,65536
+2025-12-29 14:24:16,735 INFO: PRGV:58739,25344,65536
+2025-12-29 14:24:17,737 INFO: MSG:3307,0,2,"File 00121.m2ts was added as title #39","File %1 was added as title #%2","00121.m2ts","39"
+2025-12-29 14:24:17,737 INFO: PRGV:59225,25344,65536
+2025-12-29 14:24:17,737 INFO: PRGV:59225,25450,65536
+2025-12-29 14:24:18,789 INFO: MSG:3307,16777216,2,"File 00023.m2ts was added as title #40","File %1 was added as title #%2","00023.m2ts","40"
+2025-12-29 14:24:18,789 INFO: MSG:3025,16777216,3,"Title #00022.m2ts has length of 30 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00022.m2ts","30","120"
+2025-12-29 14:24:18,789 INFO: MSG:3025,16777216,3,"Title #00021.m2ts has length of 70 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00021.m2ts","70","120"
+2025-12-29 14:24:18,789 INFO: MSG:3025,0,3,"Title #00119.m2ts has length of 40 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00119.m2ts","40","120"
+2025-12-29 14:24:18,789 INFO: PRGV:61166,25450,65536
+2025-12-29 14:24:18,789 INFO: PRGV:61166,25875,65536
+2025-12-29 14:24:20,142 INFO: MSG:3307,16777216,2,"File 00117.m2ts was added as title #41","File %1 was added as title #%2","00117.m2ts","41"
+2025-12-29 14:24:20,142 INFO: MSG:3025,16777216,3,"Title #00011.m2ts has length of 114 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00011.m2ts","114","120"
+2025-12-29 14:24:20,142 INFO: MSG:3025,0,3,"Title #00004.m2ts has length of 35 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00004.m2ts","35","120"
+2025-12-29 14:24:20,142 INFO: PRGV:62623,25875,65536
+2025-12-29 14:24:20,142 INFO: PRGV:62623,26193,65536
+2025-12-29 14:24:21,194 INFO: MSG:3307,16777216,2,"File 00127.m2ts was added as title #42","File %1 was added as title #%2","00127.m2ts","42"
+2025-12-29 14:24:21,194 INFO: MSG:3025,16777216,3,"Title #00901.m2ts has length of 15 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00901.m2ts","15","120"
+2025-12-29 14:24:21,195 INFO: MSG:3025,16777216,3,"Title #00900.m2ts has length of 15 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00900.m2ts","15","120"
+2025-12-29 14:24:21,195 INFO: MSG:3025,0,3,"Title #00114.m2ts has length of 56 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","00114.m2ts","56","120"
+2025-12-29 14:24:21,195 INFO: PRGV:64565,26193,65536
+2025-12-29 14:24:21,195 INFO: PRGV:64565,26617,65536
+2025-12-29 14:24:22,096 INFO: MSG:3307,0,2,"File 00113.m2ts was added as title #43","File %1 was added as title #%2","00113.m2ts","43"
+2025-12-29 14:24:22,097 INFO: PRGV:65050,26617,65536
+2025-12-29 14:24:22,097 INFO: PRGV:65050,26723,65536
+2025-12-29 14:24:22,848 INFO: MSG:3307,0,2,"File 00105.m2ts was added as title #44","File %1 was added as title #%2","00105.m2ts","44"
+2025-12-29 14:24:22,848 INFO: PRGV:65536,26723,65536
+2025-12-29 14:24:22,848 INFO: PRGV:65536,26829,65536
+2025-12-29 14:24:22,848 INFO: MSG:5011,0,0,"Operation successfully completed","Operation successfully completed"
+2025-12-29 14:24:22,853 INFO: PRGV:0,26829,65536
+2025-12-29 14:24:22,853 INFO: PRGV:0,0,65536
+2025-12-29 14:24:22,903 INFO: PRGT:5024,0,"Saving all titles to MKV files"
+2025-12-29 14:24:22,903 INFO: MSG:5014,131072,2,"Saving 1 titles into directory file:///mnt/ripped","Saving %1 titles into directory %2","1","file:///mnt/ripped"
+2025-12-29 14:24:22,903 INFO: PRGC:5057,0,"Analyzing seamless segments"
+2025-12-29 14:24:22,903 INFO: PRGV:0,0,65536
+2025-12-29 14:24:22,903 INFO: PRGV:0,0,65536
+2025-12-29 14:24:24,157 INFO: PRGV:354,0,65536
+2025-12-29 14:24:24,257 INFO: PRGV:708,0,65536
+2025-12-29 14:24:24,408 INFO: PRGV:1062,0,65536
+2025-12-29 14:24:24,508 INFO: PRGV:1416,0,65536
+2025-12-29 14:24:24,608 INFO: PRGV:1771,0,65536
+2025-12-29 14:24:24,709 INFO: PRGV:2125,0,65536
+2025-12-29 14:24:24,859 INFO: PRGV:2479,0,65536
+2025-12-29 14:24:24,909 INFO: PRGV:2833,0,65536
+2025-12-29 14:24:25,060 INFO: PRGV:3188,0,65536
+2025-12-29 14:24:25,110 INFO: PRGV:3542,0,65536
+2025-12-29 14:24:25,210 INFO: PRGV:3896,0,65536
+2025-12-29 14:24:25,271 INFO: 192.168.0.118 - - [29/Dec/2025 14:24:25] "GET /settings HTTP/1.1" 200 -
+2025-12-29 14:24:25,311 INFO: PRGV:4250,0,65536
+2025-12-29 14:24:25,461 INFO: PRGV:4605,0,65536
+2025-12-29 14:24:25,511 INFO: PRGV:4959,0,65536
+2025-12-29 14:24:25,662 INFO: PRGV:5313,0,65536
+2025-12-29 14:24:25,712 INFO: PRGV:5667,0,65536
+2025-12-29 14:24:25,812 INFO: PRGV:6022,0,65536
+2025-12-29 14:24:25,862 INFO: PRGV:6376,0,65536
+2025-12-29 14:24:26,013 INFO: PRGV:6730,0,65536
+2025-12-29 14:24:26,063 INFO: PRGV:7084,0,65536
+2025-12-29 14:24:26,163 INFO: PRGV:7439,0,65536
+2025-12-29 14:24:26,214 INFO: PRGV:7793,0,65536
+2025-12-29 14:24:26,314 INFO: PRGV:8147,0,65536
+2025-12-29 14:24:26,364 INFO: PRGV:8501,0,65536
+2025-12-29 14:24:26,514 INFO: PRGV:8856,0,65536
+2025-12-29 14:24:26,565 INFO: PRGV:9210,0,65536
+2025-12-29 14:24:26,715 INFO: PRGV:9564,0,65536
+2025-12-29 14:24:26,765 INFO: PRGV:9918,0,65536

@@ -1,0 +1,27 @@
+[
+  {
+    "message": "USB mount ready.",
+    "level": "info",
+    "ts": 1767039327.151262
+  },
+  {
+    "message": "Disc inserted.",
+    "level": "info",
+    "ts": 1767039327.1994026
+  },
+  {
+    "message": "MakeMKV info scan timed out; returning partial output",
+    "level": "info",
+    "ts": 1767039449.4067154
+  },
+  {
+    "message": "Manual MakeMKV rip requested.",
+    "level": "info",
+    "ts": 1767039746.7094905
+  },
+  {
+    "message": "MakeMKV rip started (dev:/dev/sr0; titles=1; audio=eng; subs=eng)",
+    "level": "info",
+    "ts": 1767039815.395964
+  }
+]
