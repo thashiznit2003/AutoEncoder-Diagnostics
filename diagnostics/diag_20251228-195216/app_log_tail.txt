@@ -1,0 +1,400 @@
+2025-12-28 19:49:48,337 INFO: DRV:9,256,999,0,"","",""
+2025-12-28 19:49:48,337 INFO: DRV:10,256,999,0,"","",""
+2025-12-28 19:49:48,337 INFO: DRV:11,256,999,0,"","",""
+2025-12-28 19:49:48,337 INFO: DRV:12,256,999,0,"","",""
+2025-12-28 19:49:48,337 INFO: DRV:13,256,999,0,"","",""
+2025-12-28 19:49:48,337 INFO: DRV:14,256,999,0,"","",""
+2025-12-28 19:49:48,337 INFO: DRV:15,256,999,0,"","",""
+2025-12-28 19:49:48,340 INFO: PRGV:0,65536,65536
+2025-12-28 19:49:48,340 INFO: PRGV:0,0,65536
+2025-12-28 19:49:49,142 INFO: MSG:3007,0,0,"Using direct disc access mode","Using direct disc access mode"
+2025-12-28 19:49:49,849 INFO: 192.168.0.118 - - [28/Dec/2025 19:49:49] "POST /api/makemkv/stop_all HTTP/1.1" 200 -
+2025-12-28 19:49:49,853 DEBUG: exited with code -15
+2025-12-28 19:49:49,854 ERROR: Blu-ray ripping failed; skipping encoding for /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t00.mkv
+2025-12-28 19:49:50,034 INFO: Ripping Blu-ray disc from /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t02.mkv
+2025-12-28 19:49:52,164 INFO: Running MakeMKV: makemkvcon -r --progress=-same mkv dev:/dev/sr0 0 /mnt/ripped
+2025-12-28 19:49:52,193 INFO: MSG:1005,0,1,"MakeMKV v1.18.2 linux(x64-release) started","%1 started","MakeMKV v1.18.2 linux(x64-release)"
+2025-12-28 19:49:52,710 INFO: PRGT:5018,0,"Scanning CD-ROM devices"
+2025-12-28 19:49:52,710 INFO: PRGC:5018,0,"Scanning CD-ROM devices"
+2025-12-28 19:49:52,711 INFO: PRGV:0,0,65536
+2025-12-28 19:49:52,711 INFO: PRGV:0,0,65536
+2025-12-28 19:49:52,811 INFO: PRGV:65536,0,65536
+2025-12-28 19:49:52,811 INFO: PRGV:65536,65536,65536
+2025-12-28 19:49:54,064 INFO: DRV:0,2,999,12,"BD-RE HL-DT-ST BD-RE  WH16NS40 1.03 M6HIB9G2035","HARRY_POTTER_7_PART_1","/dev/sr0"
+2025-12-28 19:49:54,065 INFO: DRV:1,256,999,0,"","",""
+2025-12-28 19:49:54,065 INFO: DRV:2,256,999,0,"","",""
+2025-12-28 19:49:54,065 INFO: DRV:3,256,999,0,"","",""
+2025-12-28 19:49:54,065 INFO: DRV:4,256,999,0,"","",""
+2025-12-28 19:49:54,066 INFO: DRV:5,256,999,0,"","",""
+2025-12-28 19:49:54,066 INFO: DRV:6,256,999,0,"","",""
+2025-12-28 19:49:54,066 INFO: DRV:7,256,999,0,"","",""
+2025-12-28 19:49:54,066 INFO: DRV:8,256,999,0,"","",""
+2025-12-28 19:49:54,066 INFO: DRV:9,256,999,0,"","",""
+2025-12-28 19:49:54,067 INFO: DRV:10,256,999,0,"","",""
+2025-12-28 19:49:54,067 INFO: DRV:11,256,999,0,"","",""
+2025-12-28 19:49:54,067 INFO: DRV:12,256,999,0,"","",""
+2025-12-28 19:49:54,067 INFO: DRV:13,256,999,0,"","",""
+2025-12-28 19:49:54,067 INFO: DRV:14,256,999,0,"","",""
+2025-12-28 19:49:54,068 INFO: DRV:15,256,999,0,"","",""
+2025-12-28 19:49:54,069 INFO: PRGV:0,65536,65536
+2025-12-28 19:49:54,069 INFO: PRGV:0,0,65536
+2025-12-28 19:49:54,821 INFO: MSG:3007,0,0,"Using direct disc access mode","Using direct disc access mode"
+2025-12-28 19:49:55,724 INFO: PRGT:3404,0,"Opening Blu-ray disc"
+2025-12-28 19:49:55,774 INFO: PRGC:3400,0,"Processing AV clips"
+2025-12-28 19:49:55,774 INFO: PRGV:0,0,65536
+2025-12-28 19:49:55,774 INFO: PRGV:0,0,65536
+2025-12-28 19:49:55,875 INFO: PRGV:579,0,65536
+2025-12-28 19:49:55,875 INFO: PRGV:579,106,65536
+2025-12-28 19:49:55,925 INFO: PRGV:7539,106,65536
+2025-12-28 19:49:55,925 INFO: PRGV:7539,1378,65536
+2025-12-28 19:49:55,975 INFO: PRGV:8699,1378,65536
+2025-12-28 19:49:55,975 INFO: PRGV:8699,1590,65536
+2025-12-28 19:49:56,025 INFO: PRGV:26098,1590,65536
+2025-12-28 19:49:56,025 INFO: PRGV:26098,4772,65536
+2025-12-28 19:49:56,476 INFO: PRGV:44077,4772,65536
+2025-12-28 19:49:56,477 INFO: PRGV:44077,8059,65536
+2025-12-28 19:49:56,978 INFO: PRGC:3401,0,"Processing movie playlists"
+2025-12-28 19:49:56,978 INFO: PRGV:0,8059,65536
+2025-12-28 19:49:57,078 INFO: PRGV:4854,8059,65536
+2025-12-28 19:49:57,079 INFO: PRGV:4854,8271,65536
+2025-12-28 19:49:57,530 INFO: PRGV:55826,8271,65536
+2025-12-28 19:49:57,530 INFO: PRGV:55826,10498,65536
+2025-12-28 19:49:57,634 INFO: 192.168.0.118 - - [28/Dec/2025 19:49:57] "POST /api/stop HTTP/1.1" 200 -
+2025-12-28 19:49:57,638 DEBUG: exited with code -15
+2025-12-28 19:49:57,638 ERROR: Blu-ray ripping failed; skipping encoding for /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t02.mkv
+2025-12-28 19:50:00,999 INFO: 192.168.0.118 - - [28/Dec/2025 19:50:00] "POST /api/clear HTTP/1.1" 200 -
+2025-12-28 19:50:04,257 INFO: 192.168.0.118 - - [28/Dec/2025 19:50:04] "GET /settings HTTP/1.1" 200 -
+2025-12-28 19:50:08,896 INFO: 192.168.0.118 - - [28/Dec/2025 19:50:08] "POST /api/makemkv/eject HTTP/1.1" 200 -
+2025-12-28 19:50:27,642 INFO: Candidate mountpoints: ['/var/lib/autoencoder/state', '/mnt/usb_staging', '/mnt/smb_staging', '/mnt/ripped', '/mnt/bluray', '/mnt/output', '/mnt/input', '/mnt/dvd', '/mnt/usb']
+2025-12-28 19:50:27,646 INFO: Scanning directories: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-28 19:50:27,646 DEBUG: Scan root: /mnt/input ismount=True exists=True sample=['.DS_Store', '._.DS_Store']
+2025-12-28 19:50:27,647 DEBUG: Scan root: /mnt/dvd ismount=True exists=True sample=[]
+2025-12-28 19:50:27,647 DEBUG: Scan root: /mnt/bluray ismount=True exists=True sample=[]
+2025-12-28 19:50:27,647 DEBUG: Scan root: /mnt/usb ismount=True exists=True sample=[]
+2025-12-28 19:50:27,647 DEBUG: Scan root: /mnt/smb_staging ismount=True exists=True sample=[]
+2025-12-28 19:50:27,647 DEBUG: Scan root: /var/lib/autoencoder/state ismount=True exists=True sample=['timing.log', 'smb_allowlist.json', 'diagnostics-repo', 'git', 'config.json', 'usb_seen.json']
+2025-12-28 19:50:27,647 DEBUG: Scan root: /mnt/usb_staging ismount=True exists=True sample=['.DS_Store', '._.DS_Store', '.gitkeep']
+2025-12-28 19:50:27,648 DEBUG: Scan root: /mnt/ripped ismount=True exists=True sample=['.DS_Store', '._.DS_Store', '._Harry Potter and the Half-Blood Prince_t00.mkv', '.disc_type', '._Title 17 HP6.mkv', 'Harry Potter and the Deathly Hallows Part 1_t00.mkv', 'Harry Potter and the Deathly Hallows Part 1_t02.mkv']
+2025-12-28 19:50:27,648 INFO: Scanner will walk these roots: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-28 19:50:27,648 INFO: Found 0 candidate video files under /mnt/input
+2025-12-28 19:50:27,648 INFO: Found 0 candidate video files under /mnt/dvd
+2025-12-28 19:50:27,648 INFO: Found 0 candidate video files under /mnt/bluray
+2025-12-28 19:50:27,649 INFO: Found 0 candidate video files under /mnt/usb
+2025-12-28 19:50:27,649 INFO: Found 0 candidate video files under /mnt/smb_staging
+2025-12-28 19:50:27,656 INFO: Found 0 candidate video files under /var/lib/autoencoder/state
+2025-12-28 19:50:27,657 INFO: Found 0 candidate video files under /mnt/usb_staging
+2025-12-28 19:50:27,657 DEBUG: Matched stable file: /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t00.mkv
+2025-12-28 19:50:27,657 DEBUG: Matched stable file: /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t02.mkv
+2025-12-28 19:50:27,657 INFO: Found 2 candidate video files under /mnt/ripped
+2025-12-28 19:50:27,657 INFO: Total candidate video files found: 2
+2025-12-28 19:50:27,935 INFO: Ripping Blu-ray disc from /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t00.mkv
+2025-12-28 19:50:28,782 INFO: Running MakeMKV: makemkvcon -r --progress=-same mkv dev:/dev/sr0 0 /mnt/ripped
+2025-12-28 19:50:28,815 INFO: MSG:1005,0,1,"MakeMKV v1.18.2 linux(x64-release) started","%1 started","MakeMKV v1.18.2 linux(x64-release)"
+2025-12-28 19:50:29,332 INFO: PRGT:5018,0,"Scanning CD-ROM devices"
+2025-12-28 19:50:29,332 INFO: PRGC:5018,0,"Scanning CD-ROM devices"
+2025-12-28 19:50:29,332 INFO: PRGV:0,0,65536
+2025-12-28 19:50:29,332 INFO: PRGV:0,0,65536
+2025-12-28 19:50:29,432 INFO: PRGV:65536,0,65536
+2025-12-28 19:50:29,433 INFO: PRGV:65536,65536,65536
+2025-12-28 19:50:29,482 INFO: DRV:0,1,999,0,"BD-RE HL-DT-ST BD-RE  WH16NS40 1.03 M6HIB9G2035","","/dev/sr0"
+2025-12-28 19:50:29,483 INFO: DRV:1,256,999,0,"","",""
+2025-12-28 19:50:29,483 INFO: DRV:2,256,999,0,"","",""
+2025-12-28 19:50:29,483 INFO: DRV:3,256,999,0,"","",""
+2025-12-28 19:50:29,483 INFO: DRV:4,256,999,0,"","",""
+2025-12-28 19:50:29,483 INFO: DRV:5,256,999,0,"","",""
+2025-12-28 19:50:29,483 INFO: DRV:6,256,999,0,"","",""
+2025-12-28 19:50:29,483 INFO: DRV:7,256,999,0,"","",""
+2025-12-28 19:50:29,483 INFO: DRV:8,256,999,0,"","",""
+2025-12-28 19:50:29,483 INFO: DRV:9,256,999,0,"","",""
+2025-12-28 19:50:29,483 INFO: DRV:10,256,999,0,"","",""
+2025-12-28 19:50:29,483 INFO: DRV:11,256,999,0,"","",""
+2025-12-28 19:50:29,483 INFO: DRV:12,256,999,0,"","",""
+2025-12-28 19:50:29,483 INFO: DRV:13,256,999,0,"","",""
+2025-12-28 19:50:29,483 INFO: DRV:14,256,999,0,"","",""
+2025-12-28 19:50:29,484 INFO: DRV:15,256,999,0,"","",""
+2025-12-28 19:50:29,491 INFO: PRGV:0,65536,65536
+2025-12-28 19:50:29,491 INFO: PRGV:0,0,65536
+2025-12-28 19:50:29,591 INFO: MSG:5010,0,0,"Failed to open disc","Failed to open disc"
+2025-12-28 19:50:29,615 DEBUG: exited with code 11
+2025-12-28 19:50:29,615 ERROR: Blu-ray ripping failed; skipping encoding for /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t00.mkv
+2025-12-28 19:50:29,786 INFO: Ripping Blu-ray disc from /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t02.mkv
+2025-12-28 19:50:30,724 INFO: Running MakeMKV: makemkvcon -r --progress=-same mkv dev:/dev/sr0 0 /mnt/ripped
+2025-12-28 19:50:30,759 INFO: MSG:1005,0,1,"MakeMKV v1.18.2 linux(x64-release) started","%1 started","MakeMKV v1.18.2 linux(x64-release)"
+2025-12-28 19:50:31,268 INFO: PRGT:5018,0,"Scanning CD-ROM devices"
+2025-12-28 19:50:31,269 INFO: PRGC:5018,0,"Scanning CD-ROM devices"
+2025-12-28 19:50:31,269 INFO: PRGV:0,0,65536
+2025-12-28 19:50:31,269 INFO: PRGV:0,0,65536
+2025-12-28 19:50:31,368 INFO: PRGV:65536,0,65536
+2025-12-28 19:50:31,369 INFO: PRGV:65536,65536,65536
+2025-12-28 19:50:31,419 INFO: DRV:0,1,999,0,"BD-RE HL-DT-ST BD-RE  WH16NS40 1.03 M6HIB9G2035","","/dev/sr0"
+2025-12-28 19:50:31,419 INFO: DRV:1,256,999,0,"","",""
+2025-12-28 19:50:31,419 INFO: DRV:2,256,999,0,"","",""
+2025-12-28 19:50:31,419 INFO: DRV:3,256,999,0,"","",""
+2025-12-28 19:50:31,419 INFO: DRV:4,256,999,0,"","",""
+2025-12-28 19:50:31,420 INFO: DRV:5,256,999,0,"","",""
+2025-12-28 19:50:31,420 INFO: DRV:6,256,999,0,"","",""
+2025-12-28 19:50:31,420 INFO: DRV:7,256,999,0,"","",""
+2025-12-28 19:50:31,420 INFO: DRV:8,256,999,0,"","",""
+2025-12-28 19:50:31,420 INFO: DRV:9,256,999,0,"","",""
+2025-12-28 19:50:31,420 INFO: DRV:10,256,999,0,"","",""
+2025-12-28 19:50:31,420 INFO: DRV:11,256,999,0,"","",""
+2025-12-28 19:50:31,421 INFO: DRV:12,256,999,0,"","",""
+2025-12-28 19:50:31,421 INFO: DRV:13,256,999,0,"","",""
+2025-12-28 19:50:31,421 INFO: DRV:14,256,999,0,"","",""
+2025-12-28 19:50:31,421 INFO: DRV:15,256,999,0,"","",""
+2025-12-28 19:50:31,427 INFO: PRGV:0,65536,65536
+2025-12-28 19:50:31,427 INFO: PRGV:0,0,65536
+2025-12-28 19:50:31,527 INFO: MSG:5010,0,0,"Failed to open disc","Failed to open disc"
+2025-12-28 19:50:31,552 DEBUG: exited with code 11
+2025-12-28 19:50:31,552 ERROR: Blu-ray ripping failed; skipping encoding for /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t02.mkv
+2025-12-28 19:50:37,163 INFO: 192.168.0.118 - - [28/Dec/2025 19:50:37] "POST /api/clear HTTP/1.1" 200 -
+2025-12-28 19:50:37,971 INFO: 192.168.0.118 - - [28/Dec/2025 19:50:37] "GET /settings HTTP/1.1" 200 -
+2025-12-28 19:51:01,555 INFO: Candidate mountpoints: ['/var/lib/autoencoder/state', '/mnt/usb_staging', '/mnt/smb_staging', '/mnt/ripped', '/mnt/bluray', '/mnt/output', '/mnt/input', '/mnt/dvd', '/mnt/usb']
+2025-12-28 19:51:01,560 INFO: Scanning directories: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-28 19:51:01,560 DEBUG: Scan root: /mnt/input ismount=True exists=True sample=['.DS_Store', '._.DS_Store']
+2025-12-28 19:51:01,560 DEBUG: Scan root: /mnt/dvd ismount=True exists=True sample=[]
+2025-12-28 19:51:01,561 DEBUG: Scan root: /mnt/bluray ismount=True exists=True sample=[]
+2025-12-28 19:51:01,561 DEBUG: Scan root: /mnt/usb ismount=True exists=True sample=[]
+2025-12-28 19:51:01,561 DEBUG: Scan root: /mnt/smb_staging ismount=True exists=True sample=[]
+2025-12-28 19:51:01,561 DEBUG: Scan root: /var/lib/autoencoder/state ismount=True exists=True sample=['timing.log', 'smb_allowlist.json', 'diagnostics-repo', 'git', 'config.json', 'usb_seen.json']
+2025-12-28 19:51:01,561 DEBUG: Scan root: /mnt/usb_staging ismount=True exists=True sample=['.DS_Store', '._.DS_Store', '.gitkeep']
+2025-12-28 19:51:01,562 DEBUG: Scan root: /mnt/ripped ismount=True exists=True sample=['.DS_Store', '._.DS_Store', '._Harry Potter and the Half-Blood Prince_t00.mkv', '.disc_type', '._Title 17 HP6.mkv', 'Harry Potter and the Deathly Hallows Part 1_t00.mkv', 'Harry Potter and the Deathly Hallows Part 1_t02.mkv']
+2025-12-28 19:51:01,562 INFO: Scanner will walk these roots: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-28 19:51:01,562 INFO: Found 0 candidate video files under /mnt/input
+2025-12-28 19:51:01,562 INFO: Found 0 candidate video files under /mnt/dvd
+2025-12-28 19:51:01,562 INFO: Found 0 candidate video files under /mnt/bluray
+2025-12-28 19:51:01,563 INFO: Found 0 candidate video files under /mnt/usb
+2025-12-28 19:51:01,563 INFO: Found 0 candidate video files under /mnt/smb_staging
+2025-12-28 19:51:01,570 INFO: Found 0 candidate video files under /var/lib/autoencoder/state
+2025-12-28 19:51:01,571 INFO: Found 0 candidate video files under /mnt/usb_staging
+2025-12-28 19:51:01,571 DEBUG: Matched stable file: /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t00.mkv
+2025-12-28 19:51:01,571 DEBUG: Matched stable file: /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t02.mkv
+2025-12-28 19:51:01,571 INFO: Found 2 candidate video files under /mnt/ripped
+2025-12-28 19:51:01,571 INFO: Total candidate video files found: 2
+2025-12-28 19:51:01,848 INFO: Ripping Blu-ray disc from /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t00.mkv
+2025-12-28 19:51:02,682 INFO: Running MakeMKV: makemkvcon -r --progress=-same mkv dev:/dev/sr0 0 /mnt/ripped
+2025-12-28 19:51:02,713 INFO: MSG:1005,0,1,"MakeMKV v1.18.2 linux(x64-release) started","%1 started","MakeMKV v1.18.2 linux(x64-release)"
+2025-12-28 19:51:03,223 INFO: PRGT:5018,0,"Scanning CD-ROM devices"
+2025-12-28 19:51:03,223 INFO: PRGC:5018,0,"Scanning CD-ROM devices"
+2025-12-28 19:51:03,223 INFO: PRGV:0,0,65536
+2025-12-28 19:51:03,223 INFO: PRGV:0,0,65536
+2025-12-28 19:51:03,323 INFO: PRGV:65536,0,65536
+2025-12-28 19:51:03,323 INFO: PRGV:65536,65536,65536
+2025-12-28 19:51:03,323 INFO: DRV:0,1,999,0,"BD-RE HL-DT-ST BD-RE  WH16NS40 1.03 M6HIB9G2035","","/dev/sr0"
+2025-12-28 19:51:03,324 INFO: DRV:1,256,999,0,"","",""
+2025-12-28 19:51:03,324 INFO: DRV:2,256,999,0,"","",""
+2025-12-28 19:51:03,324 INFO: DRV:3,256,999,0,"","",""
+2025-12-28 19:51:03,324 INFO: DRV:4,256,999,0,"","",""
+2025-12-28 19:51:03,324 INFO: DRV:5,256,999,0,"","",""
+2025-12-28 19:51:03,324 INFO: DRV:6,256,999,0,"","",""
+2025-12-28 19:51:03,324 INFO: DRV:7,256,999,0,"","",""
+2025-12-28 19:51:03,325 INFO: DRV:8,256,999,0,"","",""
+2025-12-28 19:51:03,325 INFO: DRV:9,256,999,0,"","",""
+2025-12-28 19:51:03,325 INFO: DRV:10,256,999,0,"","",""
+2025-12-28 19:51:03,325 INFO: DRV:11,256,999,0,"","",""
+2025-12-28 19:51:03,325 INFO: DRV:12,256,999,0,"","",""
+2025-12-28 19:51:03,325 INFO: DRV:13,256,999,0,"","",""
+2025-12-28 19:51:03,325 INFO: DRV:14,256,999,0,"","",""
+2025-12-28 19:51:03,326 INFO: DRV:15,256,999,0,"","",""
+2025-12-28 19:51:03,331 INFO: PRGV:0,65536,65536
+2025-12-28 19:51:03,331 INFO: PRGV:0,0,65536
+2025-12-28 19:51:03,432 INFO: MSG:5010,0,0,"Failed to open disc","Failed to open disc"
+2025-12-28 19:51:03,456 DEBUG: exited with code 11
+2025-12-28 19:51:03,456 ERROR: Blu-ray ripping failed; skipping encoding for /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t00.mkv
+2025-12-28 19:51:03,630 INFO: Ripping Blu-ray disc from /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t02.mkv
+2025-12-28 19:51:04,470 INFO: Running MakeMKV: makemkvcon -r --progress=-same mkv dev:/dev/sr0 0 /mnt/ripped
+2025-12-28 19:51:04,505 INFO: MSG:1005,0,1,"MakeMKV v1.18.2 linux(x64-release) started","%1 started","MakeMKV v1.18.2 linux(x64-release)"
+2025-12-28 19:51:05,015 INFO: PRGT:5018,0,"Scanning CD-ROM devices"
+2025-12-28 19:51:05,015 INFO: PRGC:5018,0,"Scanning CD-ROM devices"
+2025-12-28 19:51:05,015 INFO: PRGV:0,0,65536
+2025-12-28 19:51:05,015 INFO: PRGV:0,0,65536
+2025-12-28 19:51:05,115 INFO: PRGV:65536,0,65536
+2025-12-28 19:51:05,115 INFO: PRGV:65536,65536,65536
+2025-12-28 19:51:05,165 INFO: DRV:0,1,999,0,"BD-RE HL-DT-ST BD-RE  WH16NS40 1.03 M6HIB9G2035","","/dev/sr0"
+2025-12-28 19:51:05,166 INFO: DRV:1,256,999,0,"","",""
+2025-12-28 19:51:05,166 INFO: DRV:2,256,999,0,"","",""
+2025-12-28 19:51:05,166 INFO: DRV:3,256,999,0,"","",""
+2025-12-28 19:51:05,166 INFO: DRV:4,256,999,0,"","",""
+2025-12-28 19:51:05,166 INFO: DRV:5,256,999,0,"","",""
+2025-12-28 19:51:05,166 INFO: DRV:6,256,999,0,"","",""
+2025-12-28 19:51:05,167 INFO: DRV:7,256,999,0,"","",""
+2025-12-28 19:51:05,167 INFO: DRV:8,256,999,0,"","",""
+2025-12-28 19:51:05,167 INFO: DRV:9,256,999,0,"","",""
+2025-12-28 19:51:05,167 INFO: DRV:10,256,999,0,"","",""
+2025-12-28 19:51:05,167 INFO: DRV:11,256,999,0,"","",""
+2025-12-28 19:51:05,167 INFO: DRV:12,256,999,0,"","",""
+2025-12-28 19:51:05,168 INFO: DRV:13,256,999,0,"","",""
+2025-12-28 19:51:05,168 INFO: DRV:14,256,999,0,"","",""
+2025-12-28 19:51:05,168 INFO: DRV:15,256,999,0,"","",""
+2025-12-28 19:51:05,174 INFO: PRGV:0,65536,65536
+2025-12-28 19:51:05,174 INFO: PRGV:0,0,65536
+2025-12-28 19:51:05,274 INFO: MSG:5010,0,0,"Failed to open disc","Failed to open disc"
+2025-12-28 19:51:05,299 DEBUG: exited with code 11
+2025-12-28 19:51:05,299 ERROR: Blu-ray ripping failed; skipping encoding for /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t02.mkv
+2025-12-28 19:51:35,302 INFO: Candidate mountpoints: ['/var/lib/autoencoder/state', '/mnt/usb_staging', '/mnt/smb_staging', '/mnt/ripped', '/mnt/bluray', '/mnt/output', '/mnt/input', '/mnt/dvd', '/mnt/usb']
+2025-12-28 19:51:35,306 INFO: Scanning directories: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-28 19:51:35,307 DEBUG: Scan root: /mnt/input ismount=True exists=True sample=['.DS_Store', '._.DS_Store']
+2025-12-28 19:51:35,307 DEBUG: Scan root: /mnt/dvd ismount=True exists=True sample=[]
+2025-12-28 19:51:35,307 DEBUG: Scan root: /mnt/bluray ismount=True exists=True sample=[]
+2025-12-28 19:51:35,307 DEBUG: Scan root: /mnt/usb ismount=True exists=True sample=[]
+2025-12-28 19:51:35,307 DEBUG: Scan root: /mnt/smb_staging ismount=True exists=True sample=[]
+2025-12-28 19:51:35,308 DEBUG: Scan root: /var/lib/autoencoder/state ismount=True exists=True sample=['timing.log', 'smb_allowlist.json', 'diagnostics-repo', 'git', 'config.json', 'usb_seen.json']
+2025-12-28 19:51:35,308 DEBUG: Scan root: /mnt/usb_staging ismount=True exists=True sample=['.DS_Store', '._.DS_Store', '.gitkeep']
+2025-12-28 19:51:35,308 DEBUG: Scan root: /mnt/ripped ismount=True exists=True sample=['.DS_Store', '._.DS_Store', '._Harry Potter and the Half-Blood Prince_t00.mkv', '.disc_type', '._Title 17 HP6.mkv', 'Harry Potter and the Deathly Hallows Part 1_t00.mkv', 'Harry Potter and the Deathly Hallows Part 1_t02.mkv']
+2025-12-28 19:51:35,308 INFO: Scanner will walk these roots: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-28 19:51:35,309 INFO: Found 0 candidate video files under /mnt/input
+2025-12-28 19:51:35,309 INFO: Found 0 candidate video files under /mnt/dvd
+2025-12-28 19:51:35,309 INFO: Found 0 candidate video files under /mnt/bluray
+2025-12-28 19:51:35,309 INFO: Found 0 candidate video files under /mnt/usb
+2025-12-28 19:51:35,309 INFO: Found 0 candidate video files under /mnt/smb_staging
+2025-12-28 19:51:35,317 INFO: Found 0 candidate video files under /var/lib/autoencoder/state
+2025-12-28 19:51:35,317 INFO: Found 0 candidate video files under /mnt/usb_staging
+2025-12-28 19:51:35,318 DEBUG: Matched stable file: /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t00.mkv
+2025-12-28 19:51:35,318 DEBUG: Matched stable file: /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t02.mkv
+2025-12-28 19:51:35,318 INFO: Found 2 candidate video files under /mnt/ripped
+2025-12-28 19:51:35,318 INFO: Total candidate video files found: 2
+2025-12-28 19:51:35,592 INFO: Ripping Blu-ray disc from /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t00.mkv
+2025-12-28 19:51:36,481 INFO: Running MakeMKV: makemkvcon -r --progress=-same mkv dev:/dev/sr0 0 /mnt/ripped
+2025-12-28 19:51:36,516 INFO: MSG:1005,0,1,"MakeMKV v1.18.2 linux(x64-release) started","%1 started","MakeMKV v1.18.2 linux(x64-release)"
+2025-12-28 19:51:37,025 INFO: PRGT:5018,0,"Scanning CD-ROM devices"
+2025-12-28 19:51:37,025 INFO: PRGC:5018,0,"Scanning CD-ROM devices"
+2025-12-28 19:51:37,025 INFO: PRGV:0,0,65536
+2025-12-28 19:51:37,025 INFO: PRGV:0,0,65536
+2025-12-28 19:51:37,125 INFO: PRGV:65536,0,65536
+2025-12-28 19:51:37,125 INFO: PRGV:65536,65536,65536
+2025-12-28 19:51:37,175 INFO: DRV:0,1,999,0,"BD-RE HL-DT-ST BD-RE  WH16NS40 1.03 M6HIB9G2035","","/dev/sr0"
+2025-12-28 19:51:37,175 INFO: DRV:1,256,999,0,"","",""
+2025-12-28 19:51:37,175 INFO: DRV:2,256,999,0,"","",""
+2025-12-28 19:51:37,175 INFO: DRV:3,256,999,0,"","",""
+2025-12-28 19:51:37,176 INFO: DRV:4,256,999,0,"","",""
+2025-12-28 19:51:37,176 INFO: DRV:5,256,999,0,"","",""
+2025-12-28 19:51:37,176 INFO: DRV:6,256,999,0,"","",""
+2025-12-28 19:51:37,176 INFO: DRV:7,256,999,0,"","",""
+2025-12-28 19:51:37,176 INFO: DRV:8,256,999,0,"","",""
+2025-12-28 19:51:37,176 INFO: DRV:9,256,999,0,"","",""
+2025-12-28 19:51:37,176 INFO: DRV:10,256,999,0,"","",""
+2025-12-28 19:51:37,176 INFO: DRV:11,256,999,0,"","",""
+2025-12-28 19:51:37,176 INFO: DRV:12,256,999,0,"","",""
+2025-12-28 19:51:37,176 INFO: DRV:13,256,999,0,"","",""
+2025-12-28 19:51:37,176 INFO: DRV:14,256,999,0,"","",""
+2025-12-28 19:51:37,176 INFO: DRV:15,256,999,0,"","",""
+2025-12-28 19:51:37,183 INFO: PRGV:0,65536,65536
+2025-12-28 19:51:37,184 INFO: PRGV:0,0,65536
+2025-12-28 19:51:37,284 INFO: MSG:5010,0,0,"Failed to open disc","Failed to open disc"
+2025-12-28 19:51:37,408 DEBUG: exited with code 11
+2025-12-28 19:51:37,408 ERROR: Blu-ray ripping failed; skipping encoding for /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t00.mkv
+2025-12-28 19:51:37,579 INFO: Ripping Blu-ray disc from /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t02.mkv
+2025-12-28 19:51:38,411 INFO: Running MakeMKV: makemkvcon -r --progress=-same mkv dev:/dev/sr0 0 /mnt/ripped
+2025-12-28 19:51:38,442 INFO: MSG:1005,0,1,"MakeMKV v1.18.2 linux(x64-release) started","%1 started","MakeMKV v1.18.2 linux(x64-release)"
+2025-12-28 19:51:38,949 INFO: PRGT:5018,0,"Scanning CD-ROM devices"
+2025-12-28 19:51:38,950 INFO: PRGC:5018,0,"Scanning CD-ROM devices"
+2025-12-28 19:51:38,950 INFO: PRGV:0,0,65536
+2025-12-28 19:51:38,950 INFO: PRGV:0,0,65536
+2025-12-28 19:51:39,110 INFO: PRGV:65536,0,65536
+2025-12-28 19:51:39,110 INFO: PRGV:65536,65536,65536
+2025-12-28 19:51:39,160 INFO: DRV:0,1,999,0,"BD-RE HL-DT-ST BD-RE  WH16NS40 1.03 M6HIB9G2035","","/dev/sr0"
+2025-12-28 19:51:39,160 INFO: DRV:1,256,999,0,"","",""
+2025-12-28 19:51:39,160 INFO: DRV:2,256,999,0,"","",""
+2025-12-28 19:51:39,160 INFO: DRV:3,256,999,0,"","",""
+2025-12-28 19:51:39,161 INFO: DRV:4,256,999,0,"","",""
+2025-12-28 19:51:39,161 INFO: DRV:5,256,999,0,"","",""
+2025-12-28 19:51:39,161 INFO: DRV:6,256,999,0,"","",""
+2025-12-28 19:51:39,161 INFO: DRV:7,256,999,0,"","",""
+2025-12-28 19:51:39,161 INFO: DRV:8,256,999,0,"","",""
+2025-12-28 19:51:39,161 INFO: DRV:9,256,999,0,"","",""
+2025-12-28 19:51:39,161 INFO: DRV:10,256,999,0,"","",""
+2025-12-28 19:51:39,161 INFO: DRV:11,256,999,0,"","",""
+2025-12-28 19:51:39,161 INFO: DRV:12,256,999,0,"","",""
+2025-12-28 19:51:39,161 INFO: DRV:13,256,999,0,"","",""
+2025-12-28 19:51:39,161 INFO: DRV:14,256,999,0,"","",""
+2025-12-28 19:51:39,161 INFO: DRV:15,256,999,0,"","",""
+2025-12-28 19:51:39,169 INFO: PRGV:0,65536,65536
+2025-12-28 19:51:39,169 INFO: PRGV:0,0,65536
+2025-12-28 19:51:39,269 INFO: MSG:5010,0,0,"Failed to open disc","Failed to open disc"
+2025-12-28 19:51:39,294 DEBUG: exited with code 11
+2025-12-28 19:51:39,294 ERROR: Blu-ray ripping failed; skipping encoding for /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t02.mkv
+2025-12-28 19:51:56,228 INFO: 192.168.0.118 - - [28/Dec/2025 19:51:56] "POST /api/stop HTTP/1.1" 200 -
+2025-12-28 19:51:57,318 INFO: 192.168.0.118 - - [28/Dec/2025 19:51:57] "POST /api/clear HTTP/1.1" 200 -
+2025-12-28 19:52:09,297 INFO: Candidate mountpoints: ['/var/lib/autoencoder/state', '/mnt/usb_staging', '/mnt/smb_staging', '/mnt/ripped', '/mnt/bluray', '/mnt/output', '/mnt/input', '/mnt/dvd', '/mnt/usb']
+2025-12-28 19:52:09,301 INFO: Scanning directories: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-28 19:52:09,301 DEBUG: Scan root: /mnt/input ismount=True exists=True sample=['.DS_Store', '._.DS_Store']
+2025-12-28 19:52:09,301 DEBUG: Scan root: /mnt/dvd ismount=True exists=True sample=[]
+2025-12-28 19:52:09,302 DEBUG: Scan root: /mnt/bluray ismount=True exists=True sample=[]
+2025-12-28 19:52:09,302 DEBUG: Scan root: /mnt/usb ismount=True exists=True sample=[]
+2025-12-28 19:52:09,302 DEBUG: Scan root: /mnt/smb_staging ismount=True exists=True sample=[]
+2025-12-28 19:52:09,302 DEBUG: Scan root: /var/lib/autoencoder/state ismount=True exists=True sample=['timing.log', 'smb_allowlist.json', 'diagnostics-repo', 'git', 'config.json', 'usb_seen.json']
+2025-12-28 19:52:09,302 DEBUG: Scan root: /mnt/usb_staging ismount=True exists=True sample=['.DS_Store', '._.DS_Store', '.gitkeep']
+2025-12-28 19:52:09,303 DEBUG: Scan root: /mnt/ripped ismount=True exists=True sample=['.DS_Store', '._.DS_Store', '._Harry Potter and the Half-Blood Prince_t00.mkv', '.disc_type', '._Title 17 HP6.mkv', 'Harry Potter and the Deathly Hallows Part 1_t00.mkv', 'Harry Potter and the Deathly Hallows Part 1_t02.mkv']
+2025-12-28 19:52:09,303 INFO: Scanner will walk these roots: /mnt/input, /mnt/dvd, /mnt/bluray, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-28 19:52:09,303 INFO: Found 0 candidate video files under /mnt/input
+2025-12-28 19:52:09,303 INFO: Found 0 candidate video files under /mnt/dvd
+2025-12-28 19:52:09,304 INFO: Found 0 candidate video files under /mnt/bluray
+2025-12-28 19:52:09,304 INFO: Found 0 candidate video files under /mnt/usb
+2025-12-28 19:52:09,304 INFO: Found 0 candidate video files under /mnt/smb_staging
+2025-12-28 19:52:09,312 INFO: Found 0 candidate video files under /var/lib/autoencoder/state
+2025-12-28 19:52:09,312 INFO: Found 0 candidate video files under /mnt/usb_staging
+2025-12-28 19:52:09,313 DEBUG: Matched stable file: /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t00.mkv
+2025-12-28 19:52:09,313 DEBUG: Matched stable file: /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t02.mkv
+2025-12-28 19:52:09,313 INFO: Found 2 candidate video files under /mnt/ripped
+2025-12-28 19:52:09,313 INFO: Total candidate video files found: 2
+2025-12-28 19:52:09,593 INFO: Ripping Blu-ray disc from /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t00.mkv
+2025-12-28 19:52:10,525 INFO: Running MakeMKV: makemkvcon -r --progress=-same mkv dev:/dev/sr0 0 /mnt/ripped
+2025-12-28 19:52:10,557 INFO: MSG:1005,0,1,"MakeMKV v1.18.2 linux(x64-release) started","%1 started","MakeMKV v1.18.2 linux(x64-release)"
+2025-12-28 19:52:11,071 INFO: PRGT:5018,0,"Scanning CD-ROM devices"
+2025-12-28 19:52:11,072 INFO: PRGC:5018,0,"Scanning CD-ROM devices"
+2025-12-28 19:52:11,072 INFO: PRGV:0,0,65536
+2025-12-28 19:52:11,072 INFO: PRGV:0,0,65536
+2025-12-28 19:52:11,172 INFO: PRGV:65536,0,65536
+2025-12-28 19:52:11,172 INFO: PRGV:65536,65536,65536
+2025-12-28 19:52:11,222 INFO: DRV:0,1,999,0,"BD-RE HL-DT-ST BD-RE  WH16NS40 1.03 M6HIB9G2035","","/dev/sr0"
+2025-12-28 19:52:11,222 INFO: DRV:1,256,999,0,"","",""
+2025-12-28 19:52:11,222 INFO: DRV:2,256,999,0,"","",""
+2025-12-28 19:52:11,222 INFO: DRV:3,256,999,0,"","",""
+2025-12-28 19:52:11,223 INFO: DRV:4,256,999,0,"","",""
+2025-12-28 19:52:11,223 INFO: DRV:5,256,999,0,"","",""
+2025-12-28 19:52:11,223 INFO: DRV:6,256,999,0,"","",""
+2025-12-28 19:52:11,223 INFO: DRV:7,256,999,0,"","",""
+2025-12-28 19:52:11,223 INFO: DRV:8,256,999,0,"","",""
+2025-12-28 19:52:11,223 INFO: DRV:9,256,999,0,"","",""
+2025-12-28 19:52:11,224 INFO: DRV:10,256,999,0,"","",""
+2025-12-28 19:52:11,224 INFO: DRV:11,256,999,0,"","",""
+2025-12-28 19:52:11,224 INFO: DRV:12,256,999,0,"","",""
+2025-12-28 19:52:11,224 INFO: DRV:13,256,999,0,"","",""
+2025-12-28 19:52:11,224 INFO: DRV:14,256,999,0,"","",""
+2025-12-28 19:52:11,224 INFO: DRV:15,256,999,0,"","",""
+2025-12-28 19:52:11,230 INFO: PRGV:0,65536,65536
+2025-12-28 19:52:11,230 INFO: PRGV:0,0,65536
+2025-12-28 19:52:11,331 INFO: MSG:5010,0,0,"Failed to open disc","Failed to open disc"
+2025-12-28 19:52:11,356 DEBUG: exited with code 11
+2025-12-28 19:52:11,356 ERROR: Blu-ray ripping failed; skipping encoding for /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t00.mkv
+2025-12-28 19:52:11,539 INFO: Ripping Blu-ray disc from /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t02.mkv
+2025-12-28 19:52:12,476 INFO: Running MakeMKV: makemkvcon -r --progress=-same mkv dev:/dev/sr0 0 /mnt/ripped
+2025-12-28 19:52:12,515 INFO: MSG:1005,0,1,"MakeMKV v1.18.2 linux(x64-release) started","%1 started","MakeMKV v1.18.2 linux(x64-release)"
+2025-12-28 19:52:13,024 INFO: PRGT:5018,0,"Scanning CD-ROM devices"
+2025-12-28 19:52:13,024 INFO: PRGC:5018,0,"Scanning CD-ROM devices"
+2025-12-28 19:52:13,024 INFO: PRGV:0,0,65536
+2025-12-28 19:52:13,024 INFO: PRGV:0,0,65536
+2025-12-28 19:52:13,124 INFO: PRGV:65536,0,65536
+2025-12-28 19:52:13,124 INFO: PRGV:65536,65536,65536
+2025-12-28 19:52:13,175 INFO: DRV:0,1,999,0,"BD-RE HL-DT-ST BD-RE  WH16NS40 1.03 M6HIB9G2035","","/dev/sr0"
+2025-12-28 19:52:13,175 INFO: DRV:1,256,999,0,"","",""
+2025-12-28 19:52:13,175 INFO: DRV:2,256,999,0,"","",""
+2025-12-28 19:52:13,175 INFO: DRV:3,256,999,0,"","",""
+2025-12-28 19:52:13,175 INFO: DRV:4,256,999,0,"","",""
+2025-12-28 19:52:13,175 INFO: DRV:5,256,999,0,"","",""
+2025-12-28 19:52:13,175 INFO: DRV:6,256,999,0,"","",""
+2025-12-28 19:52:13,175 INFO: DRV:7,256,999,0,"","",""
+2025-12-28 19:52:13,175 INFO: DRV:8,256,999,0,"","",""
+2025-12-28 19:52:13,175 INFO: DRV:9,256,999,0,"","",""
+2025-12-28 19:52:13,175 INFO: DRV:10,256,999,0,"","",""
+2025-12-28 19:52:13,175 INFO: DRV:11,256,999,0,"","",""
+2025-12-28 19:52:13,176 INFO: DRV:12,256,999,0,"","",""
+2025-12-28 19:52:13,176 INFO: DRV:13,256,999,0,"","",""
+2025-12-28 19:52:13,176 INFO: DRV:14,256,999,0,"","",""
+2025-12-28 19:52:13,176 INFO: DRV:15,256,999,0,"","",""
+2025-12-28 19:52:13,183 INFO: PRGV:0,65536,65536
+2025-12-28 19:52:13,183 INFO: PRGV:0,0,65536
+2025-12-28 19:52:13,283 INFO: MSG:5010,0,0,"Failed to open disc","Failed to open disc"
+2025-12-28 19:52:13,308 DEBUG: exited with code 11
+2025-12-28 19:52:13,308 ERROR: Blu-ray ripping failed; skipping encoding for /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t02.mkv
+2025-12-28 19:52:15,279 INFO: 192.168.0.118 - - [28/Dec/2025 19:52:15] "GET /settings HTTP/1.1" 200 -

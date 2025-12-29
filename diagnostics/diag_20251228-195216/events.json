@@ -1,0 +1,467 @@
+[
+  {
+    "message": "USB mount ready.",
+    "level": "info",
+    "ts": 1766961701.3177762
+  },
+  {
+    "message": "Disc inserted.",
+    "level": "info",
+    "ts": 1766961701.3649793
+  },
+  {
+    "message": "Auto-rip requested for dev:/dev/sr0",
+    "level": "info",
+    "ts": 1766961842.9330266
+  },
+  {
+    "message": "Auto-rip found no titles meeting minimum length.",
+    "level": "error",
+    "ts": 1766961935.2076242
+  },
+  {
+    "message": "Auto-rip requested for dev:/dev/sr0",
+    "level": "info",
+    "ts": 1766961937.424656
+  },
+  {
+    "message": "Auto-rip selected titles: 2, 1",
+    "level": "info",
+    "ts": 1766962050.1300137
+  },
+  {
+    "message": "MakeMKV rip started (dev:/dev/sr0; titles=2; audio=eng; subs=eng)",
+    "level": "info",
+    "ts": 1766962050.1305254
+  },
+  {
+    "message": "MakeMKV rip complete (dev:/dev/sr0)",
+    "level": "info",
+    "ts": 1766964989.6432557
+  },
+  {
+    "message": "Auto MakeMKV rip produced: /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t02.mkv",
+    "level": "info",
+    "ts": 1766964989.64367
+  },
+  {
+    "message": "Auto-rip queued next title: 1",
+    "level": "info",
+    "ts": 1766964989.6436775
+  },
+  {
+    "message": "MakeMKV rip started (dev:/dev/sr0; titles=0; audio=eng; subs=eng)",
+    "level": "info",
+    "ts": 1766965069.3883505
+  },
+  {
+    "message": "MakeMKV rip complete (dev:/dev/sr0)",
+    "level": "info",
+    "ts": 1766965318.6274912
+  },
+  {
+    "message": "Encoding started: /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t00.mkv",
+    "level": "info",
+    "ts": 1766965318.7120607
+  },
+  {
+    "message": "Encoding complete: /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t02.mkv",
+    "level": "info",
+    "ts": 1766965616.6988769
+  },
+  {
+    "message": "Auto-rip requested for dev:/dev/sr0",
+    "level": "info",
+    "ts": 1766965671.406555
+  },
+  {
+    "message": "Detected new file: /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t00.mkv",
+    "level": "info",
+    "ts": 1766965701.4252849
+  },
+  {
+    "message": "Detected new file: /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t02.mkv",
+    "level": "info",
+    "ts": 1766965701.425288
+  },
+  {
+    "message": "MakeMKV info scan timed out; returning partial output",
+    "level": "info",
+    "ts": 1766965774.0276444
+  },
+  {
+    "message": "MakeMKV info scan timed out; returning partial output",
+    "level": "info",
+    "ts": 1766965806.0313656
+  },
+  {
+    "message": "MakeMKV info scan timed out; returning partial output",
+    "level": "info",
+    "ts": 1766965838.010739
+  },
+  {
+    "message": "MakeMKV info scan timed out; returning partial output",
+    "level": "info",
+    "ts": 1766965871.9596841
+  },
+  {
+    "message": "Auto-rip selected titles: 2, 1",
+    "level": "info",
+    "ts": 1766965951.9158719
+  },
+  {
+    "message": "MakeMKV rip started (dev:/dev/sr0; titles=2; audio=eng; subs=eng)",
+    "level": "info",
+    "ts": 1766965951.91632
+  },
+  {
+    "message": "MakeMKV rip complete (dev:/dev/sr0)",
+    "level": "info",
+    "ts": 1766968908.3532
+  },
+  {
+    "message": "Auto MakeMKV rip produced: /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t02.mkv",
+    "level": "info",
+    "ts": 1766968908.3537378
+  },
+  {
+    "message": "Auto-rip queued next title: 1",
+    "level": "info",
+    "ts": 1766968908.3537521
+  },
+  {
+    "message": "MakeMKV rip started (dev:/dev/sr0; titles=0; audio=eng; subs=eng)",
+    "level": "info",
+    "ts": 1766968987.5636644
+  },
+  {
+    "message": "MakeMKV rip complete (dev:/dev/sr0)",
+    "level": "info",
+    "ts": 1766969238.836047
+  },
+  {
+    "message": "Encoding started: /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t00.mkv",
+    "level": "info",
+    "ts": 1766969238.9267247
+  },
+  {
+    "message": "Encoding complete: /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t00.mkv",
+    "level": "info",
+    "ts": 1766969536.6796498
+  },
+  {
+    "message": "MakeMKV rip started (dev:/dev/sr0; titles=0; audio=eng; subs=eng)",
+    "level": "info",
+    "ts": 1766969547.9168885
+  },
+  {
+    "message": "MakeMKV rip complete (dev:/dev/sr0)",
+    "level": "info",
+    "ts": 1766969828.0678148
+  },
+  {
+    "message": "Encoding started: /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t00.mkv",
+    "level": "info",
+    "ts": 1766969828.14604
+  },
+  {
+    "message": "Encoding complete: /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t02.mkv",
+    "level": "info",
+    "ts": 1766970125.840384
+  },
+  {
+    "message": "Queued for encode: /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t02.mkv",
+    "level": "info",
+    "ts": 1766970126.018419
+  },
+  {
+    "message": "MakeMKV rip started (dev:/dev/sr0; titles=0; audio=eng; subs=eng)",
+    "level": "info",
+    "ts": 1766970133.3154552
+  },
+  {
+    "message": "MakeMKV rip complete (dev:/dev/sr0)",
+    "level": "info",
+    "ts": 1766970396.1714404
+  },
+  {
+    "message": "Encoding started: /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t00.mkv",
+    "level": "info",
+    "ts": 1766970396.2546952
+  },
+  {
+    "message": "Encoding complete: /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t02.mkv",
+    "level": "info",
+    "ts": 1766970694.0458217
+  },
+  {
+    "message": "Detected new file: /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t00.mkv",
+    "level": "info",
+    "ts": 1766970724.1007507
+  },
+  {
+    "message": "Detected new file: /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t02.mkv",
+    "level": "info",
+    "ts": 1766970724.100753
+  },
+  {
+    "message": "Auto-rip requested for dev:/dev/sr0",
+    "level": "info",
+    "ts": 1766970740.562559
+  },
+  {
+    "message": "MakeMKV rip started (dev:/dev/sr0; titles=0; audio=eng; subs=eng)",
+    "level": "info",
+    "ts": 1766970756.5621784
+  },
+  {
+    "message": "MakeMKV info scan timed out; returning partial output",
+    "level": "info",
+    "ts": 1766970853.9658442
+  },
+  {
+    "message": "MakeMKV rip complete (dev:/dev/sr0)",
+    "level": "info",
+    "ts": 1766971093.0790708
+  },
+  {
+    "message": "Encoding started: /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t00.mkv",
+    "level": "info",
+    "ts": 1766971093.1668775
+  },
+  {
+    "message": "Encoding complete: /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t00.mkv",
+    "level": "info",
+    "ts": 1766971390.9587312
+  },
+  {
+    "message": "MakeMKV rip started (dev:/dev/sr0; titles=0; audio=eng; subs=eng)",
+    "level": "info",
+    "ts": 1766971398.0204508
+  },
+  {
+    "message": "MakeMKV rip complete (dev:/dev/sr0)",
+    "level": "info",
+    "ts": 1766971666.337339
+  },
+  {
+    "message": "Encoding started: /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t00.mkv",
+    "level": "info",
+    "ts": 1766971666.4264534
+  },
+  {
+    "message": "Encoding complete: /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t02.mkv",
+    "level": "info",
+    "ts": 1766971964.1246266
+  },
+  {
+    "message": "Detected new file: /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t00.mkv",
+    "level": "info",
+    "ts": 1766971994.1433086
+  },
+  {
+    "message": "Detected new file: /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t02.mkv",
+    "level": "info",
+    "ts": 1766971994.1433113
+  },
+  {
+    "message": "Auto-rip requested for dev:/dev/sr0",
+    "level": "info",
+    "ts": 1766972022.4012606
+  },
+  {
+    "message": "MakeMKV rip started (dev:/dev/sr0; titles=0; audio=eng; subs=eng)",
+    "level": "info",
+    "ts": 1766972025.2150457
+  },
+  {
+    "message": "MakeMKV info scan timed out; returning partial output",
+    "level": "info",
+    "ts": 1766972121.973285
+  },
+  {
+    "message": "MakeMKV rip complete (dev:/dev/sr0)",
+    "level": "info",
+    "ts": 1766972361.8450754
+  },
+  {
+    "message": "Encoding started: /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t00.mkv",
+    "level": "info",
+    "ts": 1766972361.9414608
+  },
+  {
+    "message": "Encoding complete: /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t00.mkv",
+    "level": "info",
+    "ts": 1766972659.7490551
+  },
+  {
+    "message": "MakeMKV rip started (dev:/dev/sr0; titles=0; audio=eng; subs=eng)",
+    "level": "info",
+    "ts": 1766972668.7052186
+  },
+  {
+    "message": "Stopped encode: dev:/dev/sr0",
+    "level": "info",
+    "ts": 1766972911.95548
+  },
+  {
+    "message": "Deleted staged source: dev:/dev/sr0",
+    "level": "info",
+    "ts": 1766972911.9567883
+  },
+  {
+    "message": "MakeMKV settings saved",
+    "level": "info",
+    "ts": 1766972921.460192
+  },
+  {
+    "message": "Detected new file: /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t02.mkv",
+    "level": "info",
+    "ts": 1766972942.1832235
+  },
+  {
+    "message": "MakeMKV rip started (dev:/dev/sr0; titles=0; audio=eng; subs=eng)",
+    "level": "info",
+    "ts": 1766972944.9554088
+  },
+  {
+    "message": "Stop All Ripping enabled; auto-rip paused.",
+    "level": "info",
+    "ts": 1766972954.0419123
+  },
+  {
+    "message": "Detected new file: /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t00.mkv",
+    "level": "info",
+    "ts": 1766972984.0651472
+  },
+  {
+    "message": "Detected new file: /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t02.mkv",
+    "level": "info",
+    "ts": 1766972984.06515
+  },
+  {
+    "message": "MakeMKV rip started (dev:/dev/sr0; titles=0; audio=eng; subs=eng)",
+    "level": "info",
+    "ts": 1766972986.395013
+  },
+  {
+    "message": "Stop All Ripping enabled; auto-rip paused.",
+    "level": "info",
+    "ts": 1766972989.849157
+  },
+  {
+    "message": "MakeMKV rip started (dev:/dev/sr0; titles=0; audio=eng; subs=eng)",
+    "level": "info",
+    "ts": 1766972992.1643395
+  },
+  {
+    "message": "Stopped encode: dev:/dev/sr0",
+    "level": "info",
+    "ts": 1766972997.6340814
+  },
+  {
+    "message": "Deleted staged source: dev:/dev/sr0",
+    "level": "info",
+    "ts": 1766972997.6344957
+  },
+  {
+    "message": "Ejected disc via optical helper.",
+    "level": "info",
+    "ts": 1766973008.8960464
+  },
+  {
+    "message": "Detected new file: /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t00.mkv",
+    "level": "info",
+    "ts": 1766973027.6579065
+  },
+  {
+    "message": "Detected new file: /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t02.mkv",
+    "level": "info",
+    "ts": 1766973027.6579094
+  },
+  {
+    "message": "Disc removed; status cleared.",
+    "level": "info",
+    "ts": 1766973027.698385
+  },
+  {
+    "message": "MakeMKV rip started (dev:/dev/sr0; titles=0; audio=eng; subs=eng)",
+    "level": "info",
+    "ts": 1766973028.7828877
+  },
+  {
+    "message": "MakeMKV rip started (dev:/dev/sr0; titles=0; audio=eng; subs=eng)",
+    "level": "info",
+    "ts": 1766973030.724606
+  },
+  {
+    "message": "Detected new file: /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t00.mkv",
+    "level": "info",
+    "ts": 1766973061.5718005
+  },
+  {
+    "message": "Detected new file: /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t02.mkv",
+    "level": "info",
+    "ts": 1766973061.5718033
+  },
+  {
+    "message": "MakeMKV rip started (dev:/dev/sr0; titles=0; audio=eng; subs=eng)",
+    "level": "info",
+    "ts": 1766973062.682533
+  },
+  {
+    "message": "MakeMKV rip started (dev:/dev/sr0; titles=0; audio=eng; subs=eng)",
+    "level": "info",
+    "ts": 1766973064.4711146
+  },
+  {
+    "message": "Detected new file: /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t00.mkv",
+    "level": "info",
+    "ts": 1766973095.3186681
+  },
+  {
+    "message": "Detected new file: /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t02.mkv",
+    "level": "info",
+    "ts": 1766973095.3186705
+  },
+  {
+    "message": "MakeMKV rip started (dev:/dev/sr0; titles=0; audio=eng; subs=eng)",
+    "level": "info",
+    "ts": 1766973096.4818041
+  },
+  {
+    "message": "MakeMKV rip started (dev:/dev/sr0; titles=0; audio=eng; subs=eng)",
+    "level": "info",
+    "ts": 1766973098.4115813
+  },
+  {
+    "message": "Stopped encode: dev:/dev/sr0",
+    "level": "info",
+    "ts": 1766973116.2279744
+  },
+  {
+    "message": "Deleted staged source: dev:/dev/sr0",
+    "level": "info",
+    "ts": 1766973116.2283425
+  },
+  {
+    "message": "Detected new file: /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t00.mkv",
+    "level": "info",
+    "ts": 1766973129.3140352
+  },
+  {
+    "message": "Detected new file: /mnt/ripped/Harry Potter and the Deathly Hallows Part 1_t02.mkv",
+    "level": "info",
+    "ts": 1766973129.3140388
+  },
+  {
+    "message": "MakeMKV rip started (dev:/dev/sr0; titles=0; audio=eng; subs=eng)",
+    "level": "info",
+    "ts": 1766973130.5258446
+  },
+  {
+    "message": "MakeMKV rip started (dev:/dev/sr0; titles=0; audio=eng; subs=eng)",
+    "level": "info",
+    "ts": 1766973132.4768596
+  }
+]
