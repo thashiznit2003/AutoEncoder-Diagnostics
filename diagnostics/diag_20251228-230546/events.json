@@ -1,0 +1,27 @@
+[
+  {
+    "message": "USB mount ready.",
+    "level": "info",
+    "ts": 1766984453.8694947
+  },
+  {
+    "message": "Disc removed; status cleared.",
+    "level": "info",
+    "ts": 1766984453.9400864
+  },
+  {
+    "message": "Optical drive close requested.",
+    "level": "info",
+    "ts": 1766984468.3911512
+  },
+  {
+    "message": "Disc inserted.",
+    "level": "info",
+    "ts": 1766984484.148832
+  },
+  {
+    "message": "Optical drive reset requested.",
+    "level": "info",
+    "ts": 1766984724.9408317
+  }
+]
