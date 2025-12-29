@@ -1,0 +1,178 @@
+2025-12-29 16:54:11,018 INFO: Excluded device basenames: []
+2025-12-29 16:54:11,018 INFO: Excluded mountpoints: <none>
+2025-12-29 16:54:11,019 INFO: Starting continuous scanner. search_path=<auto-detect> output=/mnt/output interval=30.0s
+2025-12-29 16:54:11,023 INFO: WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5959
+ * Running on http://172.18.0.2:5959
+2025-12-29 16:54:11,023 INFO: Press CTRL+C to quit
+2025-12-29 16:54:11,024 INFO: Candidate mountpoints: ['/var/lib/autoencoder/state', '/mnt/smb_staging', '/mnt/usb_staging', '/mnt/ripped', '/mnt/output', '/mnt/input', '/mnt/usb']
+2025-12-29 16:54:11,027 INFO: Scanning directories: /mnt/input, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-29 16:54:11,027 DEBUG: Scan root: /mnt/input ismount=True exists=True sample=['.DS_Store', '._.DS_Store']
+2025-12-29 16:54:11,028 DEBUG: Scan root: /mnt/usb ismount=True exists=True sample=[]
+2025-12-29 16:54:11,028 DEBUG: Scan root: /mnt/smb_staging ismount=True exists=True sample=[]
+2025-12-29 16:54:11,028 DEBUG: Scan root: /var/lib/autoencoder/state ismount=True exists=True sample=['timing.log', 'smb_allowlist.json', 'diagnostics-repo', 'git', 'config.json', 'usb_seen.json']
+2025-12-29 16:54:11,028 DEBUG: Scan root: /mnt/usb_staging ismount=True exists=True sample=['.DS_Store', '._.DS_Store', '.gitkeep']
+2025-12-29 16:54:11,028 DEBUG: Scan root: /mnt/ripped ismount=True exists=True sample=['.DS_Store', '._.DS_Store']
+2025-12-29 16:54:11,028 INFO: Scanner will walk these roots: /mnt/input, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-29 16:54:11,028 INFO: Found 0 candidate video files under /mnt/input
+2025-12-29 16:54:11,029 INFO: Found 0 candidate video files under /mnt/usb
+2025-12-29 16:54:11,029 INFO: Found 0 candidate video files under /mnt/smb_staging
+2025-12-29 16:54:11,036 INFO: Found 0 candidate video files under /var/lib/autoencoder/state
+2025-12-29 16:54:11,036 INFO: Found 0 candidate video files under /mnt/usb_staging
+2025-12-29 16:54:11,037 INFO: Found 0 candidate video files under /mnt/ripped
+2025-12-29 16:54:11,037 INFO: Total candidate video files found: 0
+2025-12-29 16:54:11,037 DEBUG: No candidate video files found on this pass.
+2025-12-29 16:54:22,765 INFO: 192.168.0.118 - - [29/Dec/2025 16:54:22] "GET /settings HTTP/1.1" 200 -
+2025-12-29 16:54:58,016 INFO: Candidate mountpoints: ['/var/lib/autoencoder/state', '/mnt/smb_staging', '/mnt/usb_staging', '/mnt/ripped', '/mnt/output', '/mnt/input', '/mnt/usb']
+2025-12-29 16:54:58,020 INFO: Scanning directories: /mnt/input, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-29 16:54:58,020 DEBUG: Scan root: /mnt/input ismount=True exists=True sample=['.DS_Store', '._.DS_Store']
+2025-12-29 16:54:58,020 DEBUG: Scan root: /mnt/usb ismount=True exists=True sample=[]
+2025-12-29 16:54:58,020 DEBUG: Scan root: /mnt/smb_staging ismount=True exists=True sample=[]
+2025-12-29 16:54:58,020 DEBUG: Scan root: /var/lib/autoencoder/state ismount=True exists=True sample=['timing.log', 'smb_allowlist.json', 'diagnostics-repo', 'git', 'config.json', 'usb_seen.json']
+2025-12-29 16:54:58,020 DEBUG: Scan root: /mnt/usb_staging ismount=True exists=True sample=['.DS_Store', '._.DS_Store', '.gitkeep']
+2025-12-29 16:54:58,021 DEBUG: Scan root: /mnt/ripped ismount=True exists=True sample=['.DS_Store', '._.DS_Store']
+2025-12-29 16:54:58,021 INFO: Scanner will walk these roots: /mnt/input, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-29 16:54:58,021 INFO: Found 0 candidate video files under /mnt/input
+2025-12-29 16:54:58,021 INFO: Found 0 candidate video files under /mnt/usb
+2025-12-29 16:54:58,021 INFO: Found 0 candidate video files under /mnt/smb_staging
+2025-12-29 16:54:58,029 INFO: Found 0 candidate video files under /var/lib/autoencoder/state
+2025-12-29 16:54:58,029 INFO: Found 0 candidate video files under /mnt/usb_staging
+2025-12-29 16:54:58,029 INFO: Found 0 candidate video files under /mnt/ripped
+2025-12-29 16:54:58,029 INFO: Total candidate video files found: 0
+2025-12-29 16:54:58,030 DEBUG: No candidate video files found on this pass.
+2025-12-29 16:55:28,039 INFO: Candidate mountpoints: ['/var/lib/autoencoder/state', '/mnt/smb_staging', '/mnt/usb_staging', '/mnt/ripped', '/mnt/output', '/mnt/input', '/mnt/usb']
+2025-12-29 16:55:28,043 INFO: Scanning directories: /mnt/input, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-29 16:55:28,043 DEBUG: Scan root: /mnt/input ismount=True exists=True sample=['.DS_Store', '._.DS_Store']
+2025-12-29 16:55:28,044 DEBUG: Scan root: /mnt/usb ismount=True exists=True sample=[]
+2025-12-29 16:55:28,044 DEBUG: Scan root: /mnt/smb_staging ismount=True exists=True sample=[]
+2025-12-29 16:55:28,044 DEBUG: Scan root: /var/lib/autoencoder/state ismount=True exists=True sample=['timing.log', 'smb_allowlist.json', 'diagnostics-repo', 'git', 'config.json', 'usb_seen.json']
+2025-12-29 16:55:28,044 DEBUG: Scan root: /mnt/usb_staging ismount=True exists=True sample=['.DS_Store', '._.DS_Store', '.gitkeep']
+2025-12-29 16:55:28,045 DEBUG: Scan root: /mnt/ripped ismount=True exists=True sample=['.DS_Store', '._.DS_Store']
+2025-12-29 16:55:28,045 INFO: Scanner will walk these roots: /mnt/input, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-29 16:55:28,045 INFO: Found 0 candidate video files under /mnt/input
+2025-12-29 16:55:28,045 INFO: Found 0 candidate video files under /mnt/usb
+2025-12-29 16:55:28,045 INFO: Found 0 candidate video files under /mnt/smb_staging
+2025-12-29 16:55:28,054 INFO: Found 0 candidate video files under /var/lib/autoencoder/state
+2025-12-29 16:55:28,054 INFO: Found 0 candidate video files under /mnt/usb_staging
+2025-12-29 16:55:28,055 INFO: Found 0 candidate video files under /mnt/ripped
+2025-12-29 16:55:28,055 INFO: Total candidate video files found: 0
+2025-12-29 16:55:28,055 DEBUG: No candidate video files found on this pass.
+2025-12-29 16:55:29,705 INFO: 192.168.0.118 - - [29/Dec/2025 16:55:29] "GET /settings HTTP/1.1" 200 -
+2025-12-29 16:55:39,530 INFO: 192.168.0.118 - - [29/Dec/2025 16:55:39] "POST /api/config HTTP/1.1" 200 -
+2025-12-29 16:55:39,536 INFO: 192.168.0.118 - - [29/Dec/2025 16:55:39] "POST /api/events HTTP/1.1" 200 -
+2025-12-29 16:55:43,297 INFO: 192.168.0.118 - - [29/Dec/2025 16:55:43] "POST /api/makemkv/rip HTTP/1.1" 200 -
+2025-12-29 16:55:58,066 INFO: Candidate mountpoints: ['/var/lib/autoencoder/state', '/mnt/smb_staging', '/mnt/usb_staging', '/mnt/ripped', '/mnt/output', '/mnt/input', '/mnt/usb']
+2025-12-29 16:55:58,070 INFO: Scanning directories: /mnt/input, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-29 16:55:58,070 DEBUG: Scan root: /mnt/input ismount=True exists=True sample=['.DS_Store', '._.DS_Store']
+2025-12-29 16:55:58,070 DEBUG: Scan root: /mnt/usb ismount=True exists=True sample=[]
+2025-12-29 16:55:58,070 DEBUG: Scan root: /mnt/smb_staging ismount=True exists=True sample=[]
+2025-12-29 16:55:58,071 DEBUG: Scan root: /var/lib/autoencoder/state ismount=True exists=True sample=['timing.log', 'smb_allowlist.json', 'diagnostics-repo', 'git', 'config.json', 'usb_seen.json']
+2025-12-29 16:55:58,071 DEBUG: Scan root: /mnt/usb_staging ismount=True exists=True sample=['.DS_Store', '._.DS_Store', '.gitkeep']
+2025-12-29 16:55:58,071 DEBUG: Scan root: /mnt/ripped ismount=True exists=True sample=['.DS_Store', '._.DS_Store']
+2025-12-29 16:55:58,071 INFO: Scanner will walk these roots: /mnt/input, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-29 16:55:58,071 INFO: Found 0 candidate video files under /mnt/input
+2025-12-29 16:55:58,072 INFO: Found 0 candidate video files under /mnt/usb
+2025-12-29 16:55:58,072 INFO: Found 0 candidate video files under /mnt/smb_staging
+2025-12-29 16:55:58,080 INFO: Found 0 candidate video files under /var/lib/autoencoder/state
+2025-12-29 16:55:58,081 INFO: Found 0 candidate video files under /mnt/usb_staging
+2025-12-29 16:55:58,081 INFO: Found 0 candidate video files under /mnt/ripped
+2025-12-29 16:55:58,081 INFO: Total candidate video files found: 0
+2025-12-29 16:55:58,081 DEBUG: No candidate video files found on this pass.
+2025-12-29 16:56:23,134 INFO: Running MakeMKV: makemkvcon -r --progress=-same mkv dev:/dev/sr0 0 /mnt/ripped
+2025-12-29 16:56:23,170 INFO: MSG:1005,0,1,"MakeMKV v1.18.2 linux(x64-release) started","%1 started","MakeMKV v1.18.2 linux(x64-release)"
+2025-12-29 16:56:23,624 INFO: PRGT:5018,0,"Scanning CD-ROM devices"
+2025-12-29 16:56:23,624 INFO: PRGC:5018,0,"Scanning CD-ROM devices"
+2025-12-29 16:56:23,624 INFO: PRGV:0,0,65536
+2025-12-29 16:56:23,625 INFO: PRGV:0,0,65536
+2025-12-29 16:56:23,775 INFO: PRGV:65536,0,65536
+2025-12-29 16:56:23,775 INFO: PRGV:65536,65536,65536
+2025-12-29 16:56:24,176 INFO: DRV:0,2,999,1,"BD-RE HL-DT-ST BD-RE  WH16NS40 1.03 M6HIB9G2035","TOOFATFOR40","/dev/sr0"
+2025-12-29 16:56:24,176 INFO: DRV:1,256,999,0,"","",""
+2025-12-29 16:56:24,176 INFO: DRV:2,256,999,0,"","",""
+2025-12-29 16:56:24,176 INFO: DRV:3,256,999,0,"","",""
+2025-12-29 16:56:24,176 INFO: DRV:4,256,999,0,"","",""
+2025-12-29 16:56:24,176 INFO: DRV:5,256,999,0,"","",""
+2025-12-29 16:56:24,176 INFO: DRV:6,256,999,0,"","",""
+2025-12-29 16:56:24,176 INFO: DRV:7,256,999,0,"","",""
+2025-12-29 16:56:24,177 INFO: DRV:8,256,999,0,"","",""
+2025-12-29 16:56:24,177 INFO: DRV:9,256,999,0,"","",""
+2025-12-29 16:56:24,177 INFO: DRV:10,256,999,0,"","",""
+2025-12-29 16:56:24,177 INFO: DRV:11,256,999,0,"","",""
+2025-12-29 16:56:24,177 INFO: DRV:12,256,999,0,"","",""
+2025-12-29 16:56:24,177 INFO: DRV:13,256,999,0,"","",""
+2025-12-29 16:56:24,177 INFO: DRV:14,256,999,0,"","",""
+2025-12-29 16:56:24,177 INFO: DRV:15,256,999,0,"","",""
+2025-12-29 16:56:24,180 INFO: PRGV:0,65536,65536
+2025-12-29 16:56:24,180 INFO: PRGV:0,0,65536
+2025-12-29 16:56:25,133 INFO: PRGT:3100,0,"Opening DVD disc"
+2025-12-29 16:56:25,133 INFO: MSG:3007,0,0,"Using direct disc access mode","Using direct disc access mode"
+2025-12-29 16:56:25,383 INFO: MSG:2004,16777216,4,"Error 'Scsi error - ILLEGAL REQUEST:COMMAND SEQUENCE ERROR' occurred while issuing SCSI command A40..010C1 to device 'SG:dev_21:1'","Error '%1' occurred while issuing SCSI command %4 to device '%2:%3'","Scsi error - ILLEGAL REQUEST:COMMAND SEQUENCE ERROR","SG","dev_21:1","A40..010C1"
+2025-12-29 16:56:25,383 INFO: MSG:3031,0,1,"Drive BD-RE HL-DT-ST BD-RE  WH16NS40 1.03 M6HIB9G2035 has RPC protection that can not be bypassed. Change drive region or update drive firmware from http://tdb.rpc1.org. Errors likely to follow.","Drive %1 has RPC protection that can not be bypassed. Change drive region or update drive firmware from http://tdb.rpc1.org. Errors likely to follow.","BD-RE HL-DT-ST BD-RE  WH16NS40 1.03 M6HIB9G2035"
+2025-12-29 16:56:25,684 INFO: PRGC:3102,0,"Processing title sets"
+2025-12-29 16:56:25,684 INFO: PRGV:0,0,65536
+2025-12-29 16:56:25,684 INFO: PRGV:0,0,65536
+2025-12-29 16:56:26,084 INFO: PRGV:16384,0,65536
+2025-12-29 16:56:26,085 INFO: PRGV:16384,574,65536
+2025-12-29 16:56:26,235 INFO: PRGV:32768,574,65536
+2025-12-29 16:56:26,235 INFO: PRGV:32768,1149,65536
+2025-12-29 16:56:26,485 INFO: PRGV:49152,1149,65536
+2025-12-29 16:56:26,485 INFO: PRGV:49152,1724,65536
+2025-12-29 16:56:26,686 INFO: PRGC:3120,1,"Scanning contents"
+2025-12-29 16:56:26,686 INFO: PRGV:0,1724,65536
+2025-12-29 16:56:26,886 INFO: PRGV:655,1724,65536
+2025-12-29 16:56:26,886 INFO: PRGV:655,2299,65536
+2025-12-29 16:56:39,267 INFO: PRGV:1310,2299,65536
+2025-12-29 16:56:39,268 INFO: PRGV:1310,2874,65536
+2025-12-29 16:56:39,317 INFO: PRGV:3276,2874,65536
+2025-12-29 16:56:39,318 INFO: PRGV:3276,4599,65536
+2025-12-29 16:56:39,368 INFO: PRGV:5898,4599,65536
+2025-12-29 16:56:39,368 INFO: PRGV:5898,6898,65536
+2025-12-29 16:56:39,418 INFO: PRGC:3103,0,"Processing titles"
+2025-12-29 16:56:39,418 INFO: PRGV:0,6898,65536
+2025-12-29 16:56:39,468 INFO: MSG:3028,0,3,"Title #1 was added (17 cell(s), 3:19:13)","Title #%1 was added (%2 cell(s), %3)","1","17","3:19:13"
+2025-12-29 16:56:39,468 INFO: PRGV:10922,6898,65536
+2025-12-29 16:56:39,468 INFO: PRGV:10922,7473,65536
+2025-12-29 16:56:39,518 INFO: MSG:3028,0,3,"Title #2 was added (17 cell(s), 3:19:13)","Title #%1 was added (%2 cell(s), %3)","2","17","3:19:13"
+2025-12-29 16:56:39,518 INFO: PRGV:21845,7473,65536
+2025-12-29 16:56:39,518 INFO: PRGV:21845,8048,65536
+2025-12-29 16:56:39,568 INFO: MSG:3025,0,3,"Title #3 has length of 16 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","3","16","120"
+2025-12-29 16:56:39,568 INFO: PRGV:32768,8048,65536
+2025-12-29 16:56:39,568 INFO: PRGV:32768,8623,65536
+2025-12-29 16:56:39,618 INFO: MSG:3025,16777216,3,"Title #4 has length of 55 seconds which is less than minimum title length of 120 seconds and was therefore skipped","Title #%1 has length of %2 seconds which is less than minimum title length of %3 seconds and was therefore skipped","4","55","120"
+2025-12-29 16:56:39,618 INFO: MSG:3027,0,3,"Title #02 in VTS 1 is equal to title #01 and was skipped","Title %3 in VTS %1 is equal to title %2 and was skipped","1","#01","#02"
+2025-12-29 16:56:39,618 INFO: PRGC:3104,0,"Decrypting data"
+2025-12-29 16:56:39,618 INFO: PRGV:0,8623,65536
+2025-12-29 16:56:40,119 INFO: MSG:2003,0,3,"Error 'Scsi error - ILLEGAL REQUEST:READ OF SCRAMBLED SECTOR WITHOUT AUTHENTICATION' occurred while reading '/VIDEO_TS/VTS_01_1.VOB' at offset '6144'","Error '%1' occurred while reading '%2' at offset '%3'","Scsi error - ILLEGAL REQUEST:READ OF SCRAMBLED SECTOR WITHOUT AUTHENTICATION","/VIDEO_TS/VTS_01_1.VOB","6144"
+2025-12-29 16:56:40,169 INFO: MSG:2003,0,3,"Error 'Scsi error - ILLEGAL REQUEST:READ OF SCRAMBLED SECTOR WITHOUT AUTHENTICATION' occurred while reading '/VIDEO_TS/VTS_01_1.VOB' at offset '6144'","Error '%1' occurred while reading '%2' at offset '%3'","Scsi error - ILLEGAL REQUEST:READ OF SCRAMBLED SECTOR WITHOUT AUTHENTICATION","/VIDEO_TS/VTS_01_1.VOB","6144"
+2025-12-29 16:56:40,219 INFO: MSG:2003,0,3,"Error 'Scsi error - ILLEGAL REQUEST:READ OF SCRAMBLED SECTOR WITHOUT AUTHENTICATION' occurred while reading '/VIDEO_TS/VTS_01_1.VOB' at offset '6144'","Error '%1' occurred while reading '%2' at offset '%3'","Scsi error - ILLEGAL REQUEST:READ OF SCRAMBLED SECTOR WITHOUT AUTHENTICATION","/VIDEO_TS/VTS_01_1.VOB","6144"
+2025-12-29 16:56:40,270 INFO: MSG:2003,0,3,"Error 'Scsi error - ILLEGAL REQUEST:READ OF SCRAMBLED SECTOR WITHOUT AUTHENTICATION' occurred while reading '/VIDEO_TS/VTS_01_1.VOB' at offset '6144'","Error '%1' occurred while reading '%2' at offset '%3'","Scsi error - ILLEGAL REQUEST:READ OF SCRAMBLED SECTOR WITHOUT AUTHENTICATION","/VIDEO_TS/VTS_01_1.VOB","6144"
+2025-12-29 16:56:40,320 INFO: MSG:2003,0,3,"Error 'Scsi error - ILLEGAL REQUEST:READ OF SCRAMBLED SECTOR WITHOUT AUTHENTICATION' occurred while reading '/VIDEO_TS/VTS_01_1.VOB' at offset '6144'","Error '%1' occurred while reading '%2' at offset '%3'","Scsi error - ILLEGAL REQUEST:READ OF SCRAMBLED SECTOR WITHOUT AUTHENTICATION","/VIDEO_TS/VTS_01_1.VOB","6144"
+2025-12-29 16:56:40,370 INFO: MSG:2003,0,3,"Error 'Scsi error - ILLEGAL REQUEST:READ OF SCRAMBLED SECTOR WITHOUT AUTHENTICATION' occurred while reading '/VIDEO_TS/VTS_01_1.VOB' at offset '6144'","Error '%1' occurred while reading '%2' at offset '%3'","Scsi error - ILLEGAL REQUEST:READ OF SCRAMBLED SECTOR WITHOUT AUTHENTICATION","/VIDEO_TS/VTS_01_1.VOB","6144"
+2025-12-29 16:56:40,420 INFO: MSG:2003,0,3,"Error 'Scsi error - ILLEGAL REQUEST:READ OF SCRAMBLED SECTOR WITHOUT AUTHENTICATION' occurred while reading '/VIDEO_TS/VTS_01_1.VOB' at offset '6144'","Error '%1' occurred while reading '%2' at offset '%3'","Scsi error - ILLEGAL REQUEST:READ OF SCRAMBLED SECTOR WITHOUT AUTHENTICATION","/VIDEO_TS/VTS_01_1.VOB","6144"
+2025-12-29 16:56:40,470 INFO: MSG:2003,0,3,"Error 'Scsi error - ILLEGAL REQUEST:READ OF SCRAMBLED SECTOR WITHOUT AUTHENTICATION' occurred while reading '/VIDEO_TS/VTS_01_1.VOB' at offset '6144'","Error '%1' occurred while reading '%2' at offset '%3'","Scsi error - ILLEGAL REQUEST:READ OF SCRAMBLED SECTOR WITHOUT AUTHENTICATION","/VIDEO_TS/VTS_01_1.VOB","6144"
+2025-12-29 16:56:40,470 INFO: PRGV:65536,8623,65536
+2025-12-29 16:56:40,470 INFO: PRGV:65536,10922,65536
+2025-12-29 16:56:40,520 INFO: MSG:5010,0,0,"Failed to open disc","Failed to open disc"
+2025-12-29 16:56:40,539 DEBUG: exited with code 11
+2025-12-29 16:56:57,798 INFO: 192.168.0.118 - - [29/Dec/2025 16:56:57] "GET /settings HTTP/1.1" 200 -
+2025-12-29 16:57:02,849 INFO: 192.168.0.118 - - [29/Dec/2025 16:57:02] "GET /settings HTTP/1.1" 200 -
+2025-12-29 16:57:10,548 INFO: Candidate mountpoints: ['/var/lib/autoencoder/state', '/mnt/smb_staging', '/mnt/usb_staging', '/mnt/ripped', '/mnt/output', '/mnt/input', '/mnt/usb']
+2025-12-29 16:57:10,552 INFO: Scanning directories: /mnt/input, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-29 16:57:10,552 DEBUG: Scan root: /mnt/input ismount=True exists=True sample=['.DS_Store', '._.DS_Store']
+2025-12-29 16:57:10,552 DEBUG: Scan root: /mnt/usb ismount=True exists=True sample=[]
+2025-12-29 16:57:10,552 DEBUG: Scan root: /mnt/smb_staging ismount=True exists=True sample=[]
+2025-12-29 16:57:10,553 DEBUG: Scan root: /var/lib/autoencoder/state ismount=True exists=True sample=['timing.log', 'smb_allowlist.json', 'diagnostics-repo', 'git', 'config.json', 'usb_seen.json']
+2025-12-29 16:57:10,553 DEBUG: Scan root: /mnt/usb_staging ismount=True exists=True sample=['.DS_Store', '._.DS_Store', '.gitkeep']
+2025-12-29 16:57:10,553 DEBUG: Scan root: /mnt/ripped ismount=True exists=True sample=['.DS_Store', '._.DS_Store']
+2025-12-29 16:57:10,553 INFO: Scanner will walk these roots: /mnt/input, /mnt/usb, /mnt/smb_staging, /var/lib/autoencoder/state, /mnt/usb_staging, /mnt/ripped
+2025-12-29 16:57:10,553 INFO: Found 0 candidate video files under /mnt/input
+2025-12-29 16:57:10,553 INFO: Found 0 candidate video files under /mnt/usb
+2025-12-29 16:57:10,553 INFO: Found 0 candidate video files under /mnt/smb_staging
+2025-12-29 16:57:10,561 INFO: Found 0 candidate video files under /var/lib/autoencoder/state
+2025-12-29 16:57:10,561 INFO: Found 0 candidate video files under /mnt/usb_staging
+2025-12-29 16:57:10,562 INFO: Found 0 candidate video files under /mnt/ripped
+2025-12-29 16:57:10,562 INFO: Total candidate video files found: 0
+2025-12-29 16:57:10,562 DEBUG: No candidate video files found on this pass.
+2025-12-29 16:57:14,859 INFO: 192.168.0.118 - - [29/Dec/2025 16:57:14] "POST /api/diagnostics/push HTTP/1.1" 200 -
+2025-12-29 16:57:15,725 INFO: 192.168.0.118 - - [29/Dec/2025 16:57:15] "GET /settings HTTP/1.1" 200 -
